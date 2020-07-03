@@ -6,7 +6,7 @@
 
   - Explain what the PR fixes or improves.
 
-  - If your PR aims to add a new app to list, specify the tech stack and explain why is it worth to include.
+  - If your PR aims to add a new resource to list, provide the address of the resource.
   
 
 
