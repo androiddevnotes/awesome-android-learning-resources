@@ -43,6 +43,8 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 - [Docs / Other](#docs--other)
 
+- [Open-source projects](#open-source-projects)
+
 - [Android and Kotlin Conferences](#android-and-kotlin-conferences)
 
 - [Communities](#communities)
@@ -188,6 +190,13 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 - [Android Model-View-ViewModel Pattern](https://caster.io/courses/android-mvvm-pattern)
 
+- [Storing Data in Android with Room](https://caster.io/courses/storing-data-in-android-with-room)
+
+- [Dependency Injection in Android using Kodein](https://caster.io/courses/dependency-injection-in-android-using-kodein)
+
+- [Introduction to Android Things](https://caster.io/courses/introduction-to-android-things)
+
+- [Functional programming in Kotlin with Arrow](https://caster.io/courses/functional-programming-in-kotlin-with-arrow)
 
 ### https://www.udemy.com/ courses - Listed a few courses | Visit site for full catalog
 
@@ -202,13 +211,39 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 - [Android File System](https://www.pluralsight.com/courses/android-file-system)
 
-### [Freecodecamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ) courses - Listed few courses | Visit site for full catalog
+### [Freecodecamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ) courses - Listed a few courses | Visit site for full catalog
 
 - [Kotlin Course - Tutorial for Beginners](https://www.youtube.com/watch?v=F9UC9DY-vIU)
 
-### https://developer.android.com/courses courses - Visit site for full catalog
+### https://www.raywenderlich.com/ courses - Listed a few courses | Visit site for full catalog
 
-### https://www.raywenderlich.com/ courses - Visit site for full catalog
+- [Android Networking: Fundamentals](https://www.raywenderlich.com/10376651-android-networking-fundamentals)
+
+- [Kotlin Flow: Getting Started](https://www.raywenderlich.com/9147615-kotlin-flow-getting-started)
+
+- [CameraX: Getting Started](https://www.raywenderlich.com/7005190-camerax-getting-started)
+
+- [Jetpack Compose Primer](https://www.raywenderlich.com/7111549-jetpack-compose-primer)
+
+- [MVI on Android](https://www.raywenderlich.com/266607-mvi-on-android)
+
+- [Beginning RxKotlin](https://www.raywenderlich.com/7419-beginning-rxkotlin)
+
+- [Beginning Android Debugging](https://www.raywenderlich.com/9261991-beginning-android-debugging)
+
+- [Android Studio Tips and Tricks](https://www.raywenderlich.com/10054540-android-studio-tips-and-tricks)
+
+- [Programming in Kotlin: Functions & Custom Types](https://www.raywenderlich.com/8458472-programming-in-kotlin-functions-custom-types)
+
+- [Programming in Kotlin: Fundamentals](https://www.raywenderlich.com/7910496-programming-in-kotlin-fundamentals)
+
+- [Beginning Android Layouts](https://www.raywenderlich.com/8080493-beginning-android-layouts)
+
+- [Dependency Injection with Koin](https://www.raywenderlich.com/7042416-dependency-injection-with-koin)
+
+- [Testing With MockK](https://www.raywenderlich.com/5443751-testing-with-mockk)
+
+### https://developer.android.com/courses courses - Visit site for full catalog
 
 ### https://coderealprojects.com/ courses - Visit site for full catalog
 
@@ -223,6 +258,8 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 ### https://www.eduonix.com/ courses - Visit site for full catalog
 
 ### https://www.lynda.com/ courses - Visit site for full catalog 
+
+### https://www.oreilly.com/ courses - Visit site for full catalog 
 
 ### http://ke.qq.com/ [ZH] courses - Visit site for full catalog 
 
@@ -274,6 +311,8 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 ## Blogs and Tutorial Websites
 
+### Android focused
+
 - https://blog.danlew.net/ 
 
 - https://commonsware.com/ 
@@ -292,8 +331,6 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 - https://gank.io/ [ZH] 
 
-- http://kotlinlang.org/ 
-
 - https://www.raywenderlich.com/ 
 
 - https://www.journaldev.com/ 
@@ -307,6 +344,8 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 - https://www.edureka.co/
 
 - https://www.simplifiedcoding.net/ 
+
+- https://developer.android.com/
 
 - https://android.jlelse.eu/ 
 
@@ -391,6 +430,21 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 - https://goobar.io/
 
 
+### Kotlin language-focused
+
+- http://kotlinlang.org/ 
+
+- https://blog.kotlin-academy.com/
+
+- https://fabiomsr.github.io/from-java-to-kotlin/index.html
+
+- https://devhints.io/kotlin
+
+- https://github.com/MindorksOpenSource/from-java-to-kotlin
+
+- https://www.raywenderlich.com/6649-kotlin-cheat-sheet-and-quick-reference
+
+
 ## Podcasts
 
 - http://androidbackstage.blogspot.com/
@@ -398,6 +452,8 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 - http://fragmentedpodcast.com/
 
 - https://talkingkotlin.com/
+
+- https://androiddev.apptractor.ru/ [RU]
 
 
 ## Newsletters
@@ -411,9 +467,13 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 ## Docs / Other
 
+### Docs
+
 - https://developer.android.com/
 
 - https://kotlinlang.org/
+
+### Other
 
 - https://androidx.tech/
 
@@ -449,8 +509,20 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 - https://www.jetbrains.com/academy/
 
-- https://play.kotlinlang.org/koans
+- https://play.kotlinlang.org/koans/
 
+- https://material.io/
+
+
+## Open-source projects
+
+- https://github.com/androiddevnotes/awesome-android-kotlin-apps
+
+  - :eyeglasses: A curated list of awesome android kotlin apps by open-source contributors.
+
+- https://docs.github.com/en/github/searching-for-information-on-github/about-searching-on-github
+
+  - Use the advanced search on GitHub and find open-source projects to your liking.
 
 ## Android and Kotlin Conferences
 
