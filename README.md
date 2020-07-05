@@ -431,6 +431,12 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 - https://goobar.io/
 
+- http://yifeiyuan.me/ [ZH]
+
+- http://liuwangshu.cn/ [ZH]
+
+- http://androidperformance.com/ [ZH]
+
 
 ### Kotlin language-focused
 
@@ -445,6 +451,10 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 - https://github.com/MindorksOpenSource/from-java-to-kotlin
 
 - https://www.raywenderlich.com/6649-kotlin-cheat-sheet-and-quick-reference
+
+- https://github.com/huanglizhuo/kotlin-in-chinese [ZH]
+
+- https://kaixue.io/ [ZH]
 
 
 ## Podcasts
@@ -464,6 +474,8 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 - https://developer.android.com/newsletter/
 
+- https://jetc.dev/
+
 - http://weekly.manong.io/ [ZH]
 
 
@@ -482,6 +494,8 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 - http://e.xitu.io/ [ZH]
 
 - https://p.codekk.com/ [ZH]
+
+- https://www.ctolib.com/android/ [ZH]
 
 - https://android-arsenal.com/
 
