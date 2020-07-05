@@ -284,6 +284,8 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 - [Reso Coder](https://www.youtube.com/channel/UCSIvrn68cUk8CS8MbtBmBkA)
 
+- [Tihomir RAdeff](https://www.youtube.com/user/yohohoasakura)
+
 - [MindOrks](https://www.youtube.com/channel/UCocBChVv7HPx0g5SbnOUv7w)
 
 - [Android Dialogs](https://www.youtube.com/channel/UCMEmNnHT69aZuaOrE-dF6ug)
