@@ -542,6 +542,8 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 ## Android and Kotlin Conferences
 
+- http://androidstudygroup.github.io/conferences
+
 - https://developer.android.com/dev-summit
 
 - https://www.droidcon.com/
