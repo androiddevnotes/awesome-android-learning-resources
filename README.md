@@ -307,6 +307,8 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 - [Android Dialogs](https://www.youtube.com/channel/UCMEmNnHT69aZuaOrE-dF6ug)
 
+- [Hey! Let's Code](https://www.youtube.com/c/HeyLetsCode/)
+
 - [raywenderlich.com](https://www.youtube.com/user/rwenderlich)
 
 - [Smartherd](https://www.youtube.com/user/smartherd)
