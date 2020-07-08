@@ -140,7 +140,7 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 Note: Listed below are only a few courses provided by each platform. Please visit their site for a full catalog.
 
-
+#### [EN]
 
 ### http://codingwithmitch.com/ courses - Listed a few courses | Visit site for full catalog
 
@@ -273,6 +273,8 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 ### https://www.oreilly.com/ courses - Visit site for full catalog 
 
+#### [ZH]
+
 ### http://ke.qq.com/ [ZH] courses - Visit site for full catalog 
 
 ### http://hukai.me/ [ZH] courses - Visit site for full catalog 
@@ -327,6 +329,8 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 ### Android focused
 
+#### [EN]
+
 - https://blog.danlew.net/ 
 
 - https://commonsware.com/ 
@@ -337,15 +341,9 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 - http://vogella.com/
 
-- https://www.codepolitan.com/ [ID] 
-
 - https://www.bignerdranch.com/ 
 
 - https://antonioleiva.com/
-
-- https://gank.io/ [ZH] 
-
-- https://www.cnblogs.com/cate/android/ [ZH]
 
 - https://www.raywenderlich.com/ 
 
@@ -387,8 +385,6 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 - https://www.androidgig.com/
 
-- https://www.androidweekly.io/ [ZH]
-
 - https://handstandsam.com/
 
 - https://segunfamisa.com/
@@ -409,10 +405,6 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 - https://www.hellsoft.se/
 
-- https://blog.csdn.net/ [ZH]
-
-- https://www.trinea.cn/ [ZH]
-
 - https://androidexample365.com/
 
 - http://chintanrathod.com/
@@ -426,10 +418,6 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 - https://dev.to/
 
 - https://medium.com/ 
-
-- https://juejin.im/ [ZH]
-
-- https://www.jianshu.com/ [ZH]
 
 - https://codelabs.developers.google.com/
 
@@ -447,14 +435,37 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 - https://goobar.io/
 
+#### [ZH]
+
 - http://yifeiyuan.me/ [ZH]
 
 - http://liuwangshu.cn/ [ZH]
 
 - http://androidperformance.com/ [ZH]
 
+- https://gank.io/ [ZH] 
+
+- https://www.cnblogs.com/cate/android/ [ZH]
+
+- https://juejin.im/ [ZH]
+
+- https://www.jianshu.com/ [ZH]
+
+- https://blog.csdn.net/ [ZH]
+
+- https://www.trinea.cn/ [ZH]
+
+- https://www.androidweekly.io/ [ZH]
+
+#### [ID]
+
+- https://www.codepolitan.com/ [ID] 
+
+
 
 ### Kotlin language-focused
+
+#### [EN]
 
 - http://kotlinlang.org/ 
 
@@ -467,6 +478,10 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 - https://github.com/MindorksOpenSource/from-java-to-kotlin
 
 - https://www.raywenderlich.com/6649-kotlin-cheat-sheet-and-quick-reference
+
+#### [ZH]
+
+- https://www.bennyhuo.com/ [ZH]
 
 - https://github.com/huanglizhuo/kotlin-in-chinese [ZH]
 
@@ -488,11 +503,15 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 ## Newsletters
 
+#### [EN]
+
 - https://androidweekly.net/
 
 - https://developer.android.com/newsletter/
 
 - https://jetc.dev/
+
+#### [ZH]
 
 - http://weekly.manong.io/ [ZH]
 
@@ -507,13 +526,9 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 ### Other
 
+#### [EN]
+
 - https://androidx.tech/
-
-- http://e.xitu.io/ [ZH]
-
-- https://p.codekk.com/ [ZH]
-
-- https://www.ctolib.com/android/ [ZH]
 
 - https://reposhub.com/android
 
@@ -548,6 +563,14 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 - https://play.kotlinlang.org/koans/
 
 - https://material.io/
+
+#### [ZH]
+
+- http://e.xitu.io/ [ZH]
+
+- https://p.codekk.com/ [ZH]
+
+- https://www.ctolib.com/android/ [ZH]
 
 
 ## Open-source projects
@@ -619,11 +642,11 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 ## Communities
 
+#### [EN]
+
 - http://superuser.com/ 
 
 - https://stackoverflow.com/ 
-
-- https://segmentfault.com/ [ZH]
 
 - https://www.reddit.com/r/android_devs/
 
@@ -634,6 +657,11 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 - [Programming Discussions Discord](http://invite.progdisc.club/)
 
 - https://kotlinlang.org/community/
+
+#### [ZH]
+
+- https://segmentfault.com/ [ZH]
+
 
 
 ## :memo: Contributing
