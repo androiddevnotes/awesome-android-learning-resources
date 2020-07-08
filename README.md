@@ -108,6 +108,9 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 - [Kotlin Coroutines by Tutorials](https://store.raywenderlich.com/products/kotlin-coroutines-by-tutorials)
 
+- [Functional Kotlin](https://www.amazon.com/gp/product/B078JRKFYF/)
+
+- [Hands-On Data Structures and Algorithms with Kotlin](https://www.amazon.com/gp/product/B07DTG2629)
 
 - [Elements of Kotlin Coroutines](https://commonsware.com/Coroutines/)
 
