@@ -481,6 +481,8 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 - https://talkingkotlin.com/
 
+- https://www.raywenderlich.com/podcast/
+
 - https://androiddev.apptractor.ru/ [RU]
 
 
