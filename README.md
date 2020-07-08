@@ -243,6 +243,18 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 - [Testing With MockK](https://www.raywenderlich.com/5443751-testing-with-mockk)
 
+### https://courses.afteracademy.com/ courses - Visit site for full catalog
+
+- [Android Dagger and Dependency Management](https://courses.afteracademy.com/p/android-dagger-and-dependency-management)
+
+- [RxJava - Learn by Examples](https://courses.afteracademy.com/p/rxjava-learn-by-examples)
+
+- [Android MVVM Architecture](https://courses.afteracademy.com/p/android-mvvm-architecture)
+
+- [Android Build System and Memory Management](https://courses.afteracademy.com/p/android-build-system-and-memory-management)
+
+- [Kotlin Coroutines and Flow API for Android](https://courses.afteracademy.com/p/kotlin-coroutines-and-flow-api-for-android)
+
 ### https://developer.android.com/courses courses - Visit site for full catalog
 
 ### https://coderealprojects.com/ courses - Visit site for full catalog
