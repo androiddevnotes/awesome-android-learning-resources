@@ -246,7 +246,7 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 - [Testing With MockK](https://www.raywenderlich.com/5443751-testing-with-mockk)
 
-### https://courses.afteracademy.com/ courses - Visit site for full catalog
+### https://courses.afteracademy.com/ courses - Listed a few courses | Visit site for full catalog
 
 - [Android Dagger and Dependency Management](https://courses.afteracademy.com/p/android-dagger-and-dependency-management)
 
@@ -472,6 +472,8 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 - http://kotlinlang.org/ 
 
+- https://github.com/Kotlin/KEEP/tree/master/proposals/
+
 - https://blog.kotlin-academy.com/
 
 - https://fabiomsr.github.io/from-java-to-kotlin/index.html
@@ -493,6 +495,8 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 ## Podcasts
 
+#### [EN]
+
 - http://androidbackstage.blogspot.com/
 
 - http://fragmentedpodcast.com/
@@ -500,6 +504,9 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 - https://talkingkotlin.com/
 
 - https://www.raywenderlich.com/podcast/
+
+
+#### [RU]
 
 - https://androiddev.apptractor.ru/ [RU]
 
