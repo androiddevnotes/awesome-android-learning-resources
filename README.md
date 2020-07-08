@@ -480,7 +480,7 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 - https://github.com/Kotlin/KEEP/tree/master/proposals/
 
-- https://blog.kotlin-academy.com/
+- https://kt.academy/
 
 - https://fabiomsr.github.io/from-java-to-kotlin/index.html
 
