@@ -285,6 +285,8 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 ## YouTube Channels
 
+#### [EN]
+
 - [Android Developers](https://www.youtube.com/user/androiddevelopers)
 
 - [Coding in Flow](https://www.youtube.com/channel/UC_Fh8kvtkVPkeihBs42jGcA)
@@ -330,6 +332,10 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 - [PRABEESH R K](https://www.youtube.com/user/TICOONTECHNOLOGIES)
 
 - [Stevdza-San](https://www.youtube.com/channel/UCYLAirIEMMXtWOECuZAtjqQ)
+
+#### [ES]
+
+- [Sociedad Androide](https://www.youtube.com/c/SociedadAndroide/)
 
 
 ## Blogs and Tutorial Websites
