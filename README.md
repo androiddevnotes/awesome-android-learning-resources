@@ -422,8 +422,6 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 - https://androidexample365.com/
 
-- http://chintanrathod.com/
-
 - https://futurestud.io/
 
 - https://zsmb.co/
