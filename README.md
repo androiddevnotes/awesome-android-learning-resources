@@ -295,6 +295,8 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 - [Codetutor](https://www.youtube.com/user/funnybunnyanil)
 
+- [Rahul Pandey](https://www.youtube.com/c/RahulPandeyrkp/)
+
 - [AndroidDevs](https://www.youtube.com/channel/UCKNTZMRHPLXfqlbdOI7mCkg)
 
 - [Simplified Coding](https://www.youtube.com/user/SimplifiedCoding)
