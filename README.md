@@ -521,6 +521,8 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 ## Newsletters
 
+### Android focused
+
 #### [EN]
 
 - https://androidweekly.net/
@@ -529,9 +531,15 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 - https://jetc.dev/
 
+- http://www.oncreatedigest.com/
+
 #### [ZH]
 
 - http://weekly.manong.io/ [ZH]
+
+### Kotlin language-focused
+
+- https://www.kotlinweekly.net/
 
 
 ## Docs / Other
