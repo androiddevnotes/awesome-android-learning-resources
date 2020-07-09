@@ -529,6 +529,8 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 - https://jetc.dev/
 
+- http://www.oncreatedigest.com/
+
 #### [ZH]
 
 - http://weekly.manong.io/ [ZH]
