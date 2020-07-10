@@ -71,6 +71,8 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 - [Data Structures & Algorithms in Kotlin](https://store.raywenderlich.com/products/data-structures-and-algorithms-in-kotlin)
 
+- [Kotlin for Android App Development](https://kotlinandroidbook.com/)
+
 - [Elements of Android Jetpack](https://commonsware.com/Jetpack/)
 
 - [Exploring Android](https://commonsware.com/AndExplore/)
