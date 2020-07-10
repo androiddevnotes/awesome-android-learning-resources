@@ -319,6 +319,8 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 - [Smartherd](https://www.youtube.com/user/smartherd)
 
+- [AppDevNotes-Learn Android Development](https://www.youtube.com/channel/UCEs0Rbf3M4M76bavm4d_big)
+
 - [wiseAss](https://www.youtube.com/user/gosuddr93)
 
 - [JetBrainsTV](https://www.youtube.com/user/JetBrainsTV)
