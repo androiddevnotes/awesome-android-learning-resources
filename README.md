@@ -337,6 +337,10 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 - [Sociedad Androide](https://www.youtube.com/c/SociedadAndroide/)
 
+#### [FR]
+
+- [DrcMDev](https://www.youtube.com/channel/UCM5yhphpMeNDmNUP-dW2mHw/)
+
 
 ## Blogs and Tutorial Websites
 
