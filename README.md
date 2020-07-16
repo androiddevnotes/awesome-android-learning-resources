@@ -260,7 +260,9 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 - [Kotlin Coroutines and Flow API for Android](https://courses.afteracademy.com/p/kotlin-coroutines-and-flow-api-for-android)
 
-### https://developer.android.com/courses courses - Visit site for full catalog
+### https://developer.android.com/courses courses - Listed a few courses | Visit site for full catalog
+
+- [Android Basics in Kotlin](https://developer.android.com/courses/android-basics-kotlin/course)
 
 ### https://coderealprojects.com/ courses - Visit site for full catalog
 
