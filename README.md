@@ -354,6 +354,8 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 #### [EN]
 
+- https://vladsonkin.com/ 
+
 - https://blog.danlew.net/ 
 
 - https://commonsware.com/ 
@@ -540,6 +542,8 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 ### Android focused
 
 #### [EN]
+
+- https://vladsonkin.com/android-newsletter/
 
 - https://androidweekly.net/
 
