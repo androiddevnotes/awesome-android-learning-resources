@@ -209,6 +209,7 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 - [Android Multithreading Masterclass](https://www.udemy.com/course/android-multithreading/)
 
+- [To-Do App & Clean Architecture -Android Development - Kotlin](https://www.udemy.com/course/to-do-app-clean-architecture-android-development-kotlin/)
 
 ### https://www.pluralsight.com/ courses - Listed a few courses | Visit site for full catalog
 
