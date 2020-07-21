@@ -629,6 +629,10 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 - https://docs.github.com/en/github/searching-for-information-on-github/about-searching-on-github
 
   - Use the advanced search on GitHub and find open-source projects to your liking.
+  
+- https://github.com/odaridavid/Clean-MVVM-ArchComponents
+  
+  - Starwars API Android app built with MVVM arch and fully tested.Also makes use of Android Jetpack libraries.
 
 ## Android and Kotlin Conferences
 
