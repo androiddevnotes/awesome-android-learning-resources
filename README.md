@@ -532,6 +532,8 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 - https://www.raywenderlich.com/podcast/
 
+--https://www.androidiots.in/podcast
+
 
 #### [RU]
 
