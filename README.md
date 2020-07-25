@@ -355,6 +355,8 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 #### [EN]
 
+- https://www.rockandnull.com/
+
 - https://vladsonkin.com/ 
 
 - https://blog.danlew.net/ 
@@ -388,6 +390,8 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 - https://www.edureka.co/
 
 - https://www.simplifiedcoding.net/ 
+
+- https://www.zacsweers.dev/
 
 - https://developer.android.com/
 
@@ -504,6 +508,8 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 - https://github.com/Kotlin/KEEP/tree/master/proposals/
 
 - https://kt.academy/
+
+- https://kotlintesting.com/
 
 - https://fabiomsr.github.io/from-java-to-kotlin/index.html
 
