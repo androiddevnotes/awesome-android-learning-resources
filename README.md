@@ -471,6 +471,8 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 - https://medium.com/androidiots/
 
+- https://codingtroops.com/
+
 #### [ZH]
 
 - http://yifeiyuan.me/ [ZH]
