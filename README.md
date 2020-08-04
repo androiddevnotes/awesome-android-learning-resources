@@ -532,6 +532,8 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 #### [EN]
 
+- https://robj.me/coffeeandcoding/
+
 - http://androidbackstage.blogspot.com/
 
 - http://fragmentedpodcast.com/
