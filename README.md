@@ -357,28 +357,8 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 #### [EN]
 
-- https://chetangupta.net/
+- https://infinum.com/handbook/books/android/
   
-- https://www.rockandnull.com/
-
-- https://vladsonkin.com/ 
-
-- https://blog.danlew.net/ 
-
-- https://commonsware.com/ 
-
-- https://proandroiddev.com/ 
-
-- https://mindorks.com/ 
-
-- http://vogella.com/
-
-- https://www.bignerdranch.com/ 
-
-- https://antonioleiva.com/
-
-- https://www.raywenderlich.com/ 
-
 - https://www.journaldev.com/ 
 
 - https://www.rivu.dev/
@@ -476,6 +456,28 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 - https://medium.com/androidiots/
 
 - https://codingtroops.com/
+
+- https://www.rockandnull.com/
+
+- https://vladsonkin.com/ 
+
+- https://blog.danlew.net/ 
+
+- https://commonsware.com/ 
+
+- https://proandroiddev.com/ 
+
+- https://mindorks.com/ 
+
+- http://vogella.com/
+
+- https://www.bignerdranch.com/ 
+
+- https://antonioleiva.com/
+
+- https://chetangupta.net/
+
+- https://www.raywenderlich.com/ 
 
 #### [ZH]
 
