@@ -237,6 +237,8 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 - [CodingWithMitch](https://www.youtube.com/channel/UCoNZZLhPuuRteu02rh7bzsw)
 
+- [Awesome Dev Notes](https://www.youtube.com/channel/UCQATLaT0xKkSm-KKVQzpu0Q)
+
 - [goobar](https://www.youtube.com/channel/UCVysWoMPvvHQMEJvRkslbAQ)
 
 - [Codetutor](https://www.youtube.com/user/funnybunnyanil)
