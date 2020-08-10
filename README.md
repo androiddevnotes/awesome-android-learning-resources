@@ -631,50 +631,46 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 - https://material.io/
 
-- Higher level skills required to crack an Android Developer interview
+<details>
+  <summary>Higher level skills required to crack an Android Developer Interview</summary>
+  
+- Data Structures:
+  - Collections, with all types and interfaces.
+  - HashMap, LinkedList, Trees, Graphs.
+  - Problem solving on Arrays, HashMap, LinkedList, Strings maniplation.
 
-Data Structures:
-Collections, with all types and interfaces.
-HashMap, LinkedList, Trees, Graphs.
-Problem solving on Arrays, HashMap, LinkedList, Strings maniplation.
+- Java:
+  - OOPS Concepts
+  - Abstract classes
+  - Interfaces
+  - Threads - muti-threading, thread synchornization
 
+- Kotlin:
+  - Sealed classes
+  - Any object
+  - in and out importance.
+  - Extensions
+  - Why Kotlin over Java?
 
-Java:
-OOPS Concepts
-Abstract classes
-Interfaces
-Threads - muti-threading, thread synchornization
-
-Kotlin:
-Sealed classes
-Any object
-in and out importance.
-Extensions
-Why Kotlin over Java?
-
-Android:
-Activity and Fragment life cycle.
-Life cycle owner.
-Activity and Fragment callbacks.
-LiveData, ViewModels.
-Room, Navigation.
-Services and various types.
-
-SingleTask and other options in manifest.
-
-Build process.
-Proguard, Dalvik runtime, Android runtime (ART), D8, R8.
-
-Network Layer:
-Http methods,
-HttpUrlConnection, OkHttp.
-
-RxJava and its importance.
-
-Dependency Injection: Dagger2, Hilt.
-
-Architectural Design Patterns:
-MVP, MVVM, MVI.
+- Android:
+  - Activity and Fragment life cycle.
+  - Life cycle owner.
+  - Activity and Fragment callbacks.
+  - LiveData, ViewModels.
+  - Room, Navigation.
+  - Services and various types.
+  - SingleTask and other options in manifest.
+  - Build process.
+  - Proguard, Dalvik runtime, Android runtime (ART), D8, R8.
+  - Network Layer:
+    - Http methods,
+    - HttpUrlConnection, OkHttp.
+  - RxJava and its importance.
+  - Dependency Injection: 
+    - Dagger, Dagger Hilt, Koin, Kodein
+  - Architectural Design Patterns:
+    - MVC, MVP, MVVM, MVI.
+</details>
 
 
 #### [ZH]
