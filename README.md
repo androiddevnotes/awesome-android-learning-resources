@@ -564,13 +564,16 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 #### [EN]
 
-- https://vladsonkin.com/android-newsletter/
 
 - https://androidweekly.net/
+
+- https://github.com/androiddevnotes/android-dev-weekly
 
 - https://developer.android.com/newsletter/
 
 - https://jetc.dev/
+
+- https://vladsonkin.com/android-newsletter/
 
 - http://www.oncreatedigest.com/
 
