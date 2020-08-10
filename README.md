@@ -306,6 +306,8 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 - [Rahul Pandey](https://www.youtube.com/c/RahulPandeyrkp/)
 
+- [Code Palace](https://www.youtube.com/channel/UCuudpdbKmQWq2PPzYgVCWlA)
+
 - [AndroidDevs](https://www.youtube.com/channel/UCKNTZMRHPLXfqlbdOI7mCkg)
 
 - [Simplified Coding](https://www.youtube.com/user/SimplifiedCoding)
