@@ -633,6 +633,8 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 <details>
   <summary>Higher level skills required to crack an Android Developer Interview</summary>
+
+- TO BE UPDATED: WORK IN PROGRESS
   
 - Data Structures:
   - Collections, with all types and interfaces.
