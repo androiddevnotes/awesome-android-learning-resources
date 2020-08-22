@@ -57,6 +57,8 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 ### Android focused
 
+- [Android Internals: A Confectioner's Cookbook](http://newandroidbook.com/)
+
 - [App Design Apprentice](https://store.raywenderlich.com/products/app-design-apprentice)
 
 - [Android Apprentice](https://store.raywenderlich.com/products/android-apprentice)
