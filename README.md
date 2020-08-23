@@ -181,6 +181,8 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 ### https://caster.io/ courses - Listed a few courses | Visit site for full catalog
 
+- [Dependency Injection with Dagger 2](https://caster.io/courses/dependency-injection-with-dagger-2)
+
 - [The Kotlin Programming Language](https://caster.io/courses/kotlin-programming-language)
 
 - [Android Machine Learning with TensorFlow Lite and tf.Keras](https://caster.io/courses/android-machine-learning-with-tensorflow-lite-and-tf-keras)
