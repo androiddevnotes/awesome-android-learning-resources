@@ -363,6 +363,8 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 #### [EN]
 
+- https://chrishorner.codes/
+
 - https://infinum.com/handbook/books/android/
   
 - https://www.journaldev.com/ 
