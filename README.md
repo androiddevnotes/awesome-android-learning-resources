@@ -221,6 +221,8 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 - [Android File System](https://www.pluralsight.com/courses/android-file-system)
 
+- [Getting Started with Android Development By Nate Ebel] (https://www.pluralsight.com/courses/getting-started-android-development)
+
 ### [Freecodecamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ) courses - Listed a few courses | Visit site for full catalog
 
 - [Kotlin Course - Tutorial for Beginners](https://www.youtube.com/watch?v=F9UC9DY-vIU)
