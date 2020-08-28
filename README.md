@@ -306,6 +306,8 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 - [Awesome Dev Notes](https://www.youtube.com/channel/UCQATLaT0xKkSm-KKVQzpu0Q)
 
+- [AlexZh Dev](https://www.youtube.com/channel/UCGaWGZ23II5am251vQCEt_Q)
+
 - [goobar](https://www.youtube.com/channel/UCVysWoMPvvHQMEJvRkslbAQ)
 
 - [Codetutor](https://www.youtube.com/user/funnybunnyanil)
