@@ -1,12 +1,16 @@
 # Contributing Guide
 
+You can also optionally Join Discord to be an author or contributor to existing and upcoming projects.
+
+Invite link for Discord: https://discord.gg/vBnEhuC
+
 ## How to contribute
 
 - Fork the project from the `master` branch and submit a Pull Request (PR)
 
   - Explain what the PR fixes or improves.
 
-  - If your PR aims to add a new resource to list, provide the address of the resource.
+  - If your PR aims to add a new resource to the list, provide the address of the resource.
   
 
 
