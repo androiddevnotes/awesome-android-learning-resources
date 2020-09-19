@@ -29,6 +29,8 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 ## Contents
 
+- [Jetpack Compose Learning Resources](https://github.com/androiddevnotes/awesome-android-kotlin-apps#jetpack-compose-learning-resources)
+
 - [Books](#books)
 
 - [Video Courses](#video-courses)
@@ -52,6 +54,14 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 :memo: [**Contributing**](#memo-contributing)
 
+
+## Jetpack Compose Learning Resources
+
+- https://github.com/androiddevnotes/learn-jetpack-compose-android
+
+  - 👓 A continuously updated list of learning Jetpack Compose for Android apps.
+
+  - Learn Jetpack Compose Android aims to be your starting point to find the finest learning content for Jetpack Compose suites of libraries.
 
 ## Books 
 
