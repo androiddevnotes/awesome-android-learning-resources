@@ -29,7 +29,7 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 ## Contents
 
-- [Jetpack Compose Learning Resources](https://github.com/androiddevnotes/awesome-android-kotlin-apps#jetpack-compose-learning-resources)
+- [Jetpack Compose Learning Resources](https://github.com/androiddevnotes/awesome-android-learning-resources#jetpack-compose-learning-resources)
 
 - [Books](#books)
 
