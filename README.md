@@ -369,6 +369,8 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 #### [EN]
 
+- https://riggaroo.dev/
+
 - https://blog.blundellapps.co.uk/
 
 - https://chrishorner.codes/
