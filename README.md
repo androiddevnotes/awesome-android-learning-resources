@@ -533,6 +533,8 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 #### [EN]
 
+- https://github.com/Zhuinden/guide-to-kotlin
+
 - http://kotlinlang.org/ 
 
 - https://github.com/Kotlin/KEEP/tree/master/proposals/
