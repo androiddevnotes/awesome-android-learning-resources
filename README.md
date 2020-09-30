@@ -388,6 +388,8 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 - [Stevdza-San](https://www.youtube.com/channel/UCYLAirIEMMXtWOECuZAtjqQ)
 
+- [Leland Richardson](https://www.youtube.com/c/LelandRichardsonDev)
+
 #### [ES]
 
 - [Sociedad Androide](https://www.youtube.com/c/SociedadAndroide/)
