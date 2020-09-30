@@ -277,6 +277,16 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 - [Kotlin Coroutines and Flow API for Android](https://courses.afteracademy.com/p/kotlin-coroutines-and-flow-api-for-android)
 
+### https://pl-coding.com/courses/ courses - Listed a few courses | Visit site for full catalog
+
+- [Spotify Clone with Exoplayer](https://pl-coding.com/courses/mvvm-spotify-clone-with-exoplayer/)
+
+- [Testing on Android](https://pl-coding.com/courses/testing-on-android/)
+
+- [MVVM Running Tracker App](https://pl-coding.com/courses/mvvm-running-tracker-app/)
+
+- [Android Fundamentals](https://pl-coding.com/courses/android-fundamentals/)
+
 ### https://developer.android.com/courses courses - Listed a few courses | Visit site for full catalog
 
 - [Android Basics in Kotlin](https://developer.android.com/courses/android-basics-kotlin/course)
