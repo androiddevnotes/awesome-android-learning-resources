@@ -402,6 +402,15 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 - [Uygula Öğren - Web Tasarım ve Yazılım Dersleri](https://www.youtube.com/channel/UCm8oo9Eg29-Tg00Q4lYMUIQ)
 
+## Twitch Channels
+
+#### [EN]
+
+- [intelligibabble](https://www.twitch.tv/intelligibabbl) [Leland Richardson]
+
+- [adammc331](https://www.twitch.tv/adammc331) [Adam McNeilly]
+
+
 ## Blogs and Tutorial Websites
 
 ### Android focused
