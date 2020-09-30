@@ -298,8 +298,18 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 ### https://www.oreilly.com/ courses - Visit site for full catalog 
 
 #### [TR]
-### https://gelecegiyazanlar.turkcell.com.tr/konu/android [TR] courses - Visit site for full catalog 
+
+### https://gelecegiyazanlar.turkcell.com.tr/konu/android [TR] courses - Visit site for full catalog
+
 ### https://www.mobilhanem.com/android-uygulama-gelistirme/ [TR] courses - Visit site for full catalog 
+
+### https://www.udemy.com/ courses - Listed a few courses | Visit site for full catalog
+
+- [Android Mobil Uygulama Kursu: Kotlin & Java](https://www.udemy.com/course/android-o-mobil-uygulama-dersi-kotlin-java/)
+
+- [Android Mobil Uygulama Geliştirme Eğitimi | Java | 2020](https://www.udemy.com/course/android-mobil-uygulama-gelistirme-egitimi-java/)
+
+- [https://www.udemy.com/course/android-mobil-uygulama-kursu-seviye-2/](https://www.udemy.com/course/android-mobil-uygulama-kursu-seviye-2/)
 
 #### [ZH]
 
