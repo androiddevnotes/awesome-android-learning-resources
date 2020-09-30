@@ -385,6 +385,15 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 - [DrcMDev](https://www.youtube.com/channel/UCM5yhphpMeNDmNUP-dW2mHw/)
 
 
+## Twitch Channels
+
+#### [EN]
+
+- [intelligibabble](https://www.twitch.tv/intelligibabbl) [Leland Richardson]
+
+- [adammc331](https://www.twitch.tv/adammc331) [Adam McNeilly]
+
+
 ## Blogs and Tutorial Websites
 
 ### Android focused
