@@ -36,6 +36,8 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 - [Video Courses](#video-courses)
 
 - [YouTube Channels](#youtube-channels)
+
+- [Twitch Channels](#twitch-channels)
     
 - [Blogs and Tutorial Websites](#blogs-and-tutorial-websites)
 
