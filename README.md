@@ -329,6 +329,8 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 ### http://hukai.me/ [ZH] courses - Visit site for full catalog 
 
+### https://www.androiddevtools.cn/ [ZH] courses - Visit site for full catalog
+
 
 ## YouTube Channels
 
