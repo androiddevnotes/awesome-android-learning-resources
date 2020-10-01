@@ -391,6 +391,22 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 - [Stevdza-San](https://www.youtube.com/channel/UCYLAirIEMMXtWOECuZAtjqQ)
 
 - [Leland Richardson](https://www.youtube.com/c/LelandRichardsonDev)
+  
+- [Mike Johnston](https://www.youtube.com/user/355MrBean)
+  
+- [AsyncAndroid](https://www.youtube.com/c/AsyncAndroid)
+  
+- [teachmesome](https://www.youtube.com/channel/UCIWC3bm2eKj0wLGFULhzKdA)
+
+- [Cody Engel](https://www.youtube.com/c/CodyEngelTalks)
+  
+- [TVAC Studio](https://www.youtube.com/c/TVACStudio)
+
+- [Aws Rh](https://www.youtube.com/c/AwsRh)
+  
+- [Master Coding](https://www.youtube.com/channel/UCb0VX3DhuwYY21ZFqf8LSqQ)
+  
+- [Kotlin Mumbai](https://www.youtube.com/channel/UCJQnTIjmJPPl-boDmIDdDSA)
 
 #### [ES]
 
