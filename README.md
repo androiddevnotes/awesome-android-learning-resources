@@ -299,7 +299,13 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 ### https://coderealprojects.com/ courses - Visit site for full catalog
 
-### https://www.coursera.org/ courses - Visit site for full catalog
+### https://www.coursera.org/ courses - Listed a few courses | Visit site for full catalog
+
+- [Kotlin for Java Developers](https://www.coursera.org/learn/kotlin-for-java-developers)
+
+- [Android App Development Specialization](https://www.coursera.org/specializations/android-app-development)
+
+- [Build Your First Android App](https://www.coursera.org/learn/android-app)
 
 ### https://www.edx.org/ courses - Visit site for full catalog
 
@@ -416,6 +422,8 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 - [Cheesy Code](https://www.youtube.com/channel/UCOknqk-MSOCf3SANW8Wumfg)
 
+- [CodeAndroid](https://www.youtube.com/c/CodeAndroid)
+
 #### [ES]
 
 - [Sociedad Androide](https://www.youtube.com/c/SociedadAndroide/)
@@ -423,6 +431,10 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 #### [FR]
 
 - [DrcMDev](https://www.youtube.com/channel/UCM5yhphpMeNDmNUP-dW2mHw/)
+
+#### [HI]
+
+- [AndroJava Tech4U](https://www.youtube.com/channel/UCr_JF45WJY5DIcXon2a2qlg)
 
 #### [TR]
 
