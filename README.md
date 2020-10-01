@@ -55,6 +55,8 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 
 :memo: [**Contributing**](#memo-contributing)
+##youtube channel link he is expert in andriod you never get boared by teachinng from this toturials  its a great learning material 
+https://www.youtube.com/watch?v=QAbQgLGKd3Y&list=PL6gx4Cwl9DGBsvRxJJOzG4r4k_zLKrnxl
 
 
 ## Jetpack Compose Learning Resources
@@ -333,6 +335,7 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 ## YouTube Channels
 
 #### [EN]
+-[Andriod with java].(https://www.youtube.com/watch?v=QAbQgLGKd3Y&list=PL6gx4Cwl9DGBsvRxJJOzG4r4k_zLKrnxl)
 
 - [Android Developers](https://www.youtube.com/user/androiddevelopers)
 
