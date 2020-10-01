@@ -408,9 +408,11 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 #### [EN]
 
-- [intelligibabble](https://www.twitch.tv/intelligibabbl) [Leland Richardson]
+- [intelligibabble](https://www.twitch.tv/intelligibabbl) - Leland Richardson
 
-- [adammc331](https://www.twitch.tv/adammc331) [Adam McNeilly]
+- [adammc331](https://www.twitch.tv/adammc331) - Adam McNeilly
+  
+- [Elliott_Troop](https://www.twitch.tv/elliott_troop)- Elliott Troop
 
 
 ## Blogs and Tutorial Websites
