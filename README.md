@@ -287,6 +287,8 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 - [Android Fundamentals](https://pl-coding.com/courses/android-fundamentals/)
 
+### https://mindorks.com/android-app-development-online-course courses - Visit site for full catalog  
+
 ### https://developer.android.com/courses courses - Listed a few courses | Visit site for full catalog
 
 - [Android Basics in Kotlin](https://developer.android.com/courses/android-basics-kotlin/course)
