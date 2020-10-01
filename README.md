@@ -53,6 +53,7 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 - [Communities](#communities)
 
+- [Projects to try](#projects-to-try)
 
 :memo: [**Contributing**](#memo-contributing)
 
@@ -839,6 +840,12 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 #### [ZH]
 
 - https://segmentfault.com/ [ZH]
+
+## Projects to try
+
+- https://www.skyfilabs.com/blog/android-projects-for-beginners
+
+- https://techvidvan.com/tutorials/android-project-ideas/
 
 
 ## :memo: Contributing
