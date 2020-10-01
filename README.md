@@ -410,6 +410,8 @@ Note: Listed below are only a few courses provided by each platform. Please visi
   
 - [Kotlin Mumbai](https://www.youtube.com/channel/UCJQnTIjmJPPl-boDmIDdDSA)
 
+- [Cheesy Code](https://www.youtube.com/channel/UCOknqk-MSOCf3SANW8Wumfg)
+
 #### [ES]
 
 - [Sociedad Androide](https://www.youtube.com/c/SociedadAndroide/)
@@ -620,6 +622,8 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 - https://github.com/MindorksOpenSource/from-java-to-kotlin
 
 - https://www.raywenderlich.com/6649-kotlin-cheat-sheet-and-quick-reference
+
+- https://typealias.com/
 
 #### [ZH]
 
