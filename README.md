@@ -71,8 +71,6 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 - [Android Internals: A Confectioner's Cookbook](http://newandroidbook.com/)
 
-- [App Design Apprentice](https://store.raywenderlich.com/products/app-design-apprentice)
-
 - [Android Apprentice](https://store.raywenderlich.com/products/android-apprentice)
 
 - [Reactive Programming with Kotlin](https://store.raywenderlich.com/products/reactive-programming-with-kotlin)
@@ -505,8 +503,6 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 - https://dev.to/
 
-- https://medium.com/ 
-
 - https://codelabs.developers.google.com/
 
 - https://medium.com/androiddevelopers
@@ -550,6 +546,8 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 - https://chetangupta.net/
 
 - https://www.raywenderlich.com/ 
+
+- https://medium.com/android-school
 
 #### [ZH]
 
