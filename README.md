@@ -424,6 +424,8 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 - [CodeAndroid](https://www.youtube.com/c/CodeAndroid)
 
+- [All Techies](https://www.youtube.com/channel/UC6Cd6oKTujZ1kGw2DpLmYng)
+
 #### [ES]
 
 - [Sociedad Androide](https://www.youtube.com/c/SociedadAndroide/)
