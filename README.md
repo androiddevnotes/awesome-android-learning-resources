@@ -156,10 +156,6 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 - [Head First Kotlin](https://www.oreilly.com/library/view/head-first-kotlin/9781491996683/)
 
-- [Elements of Kotlin](https://commonsware.com/Kotlin/)
-
-- [Elements of Kotlin Coroutines](https://commonsware.com/Coroutines/)
-
 
 ## Video Courses 
 
