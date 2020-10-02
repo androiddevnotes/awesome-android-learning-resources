@@ -113,6 +113,10 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 - [Mastering Firebase for Android Development](https://www.oreilly.com/library/view/mastering-firebase-for/9781788624718/)
 
+- [The Busy Coder's Guide to Android Development](https://commonsware.com/Android/)
+
+- [Android's Architecture Components](https://commonsware.com/AndroidArch/)
+
 
 ### Kotlin language-focused
 
@@ -151,6 +155,10 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 - [The Joy of Kotlin](https://www.manning.com/books/the-joy-of-kotlin)
 
 - [Head First Kotlin](https://www.oreilly.com/library/view/head-first-kotlin/9781491996683/)
+
+- [Elements of Kotlin](https://commonsware.com/Kotlin/)
+
+- [Elements of Kotlin Coroutines](https://commonsware.com/Coroutines/)
 
 
 ## Video Courses 
