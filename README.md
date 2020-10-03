@@ -113,6 +113,10 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 - [Mastering Firebase for Android Development](https://www.oreilly.com/library/view/mastering-firebase-for/9781788624718/)
 
+- [The Busy Coder's Guide to Android Development](https://commonsware.com/Android/)
+
+- [Android's Architecture Components](https://commonsware.com/AndroidArch/)
+
 
 ### Kotlin language-focused
 
@@ -233,7 +237,11 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 - [Android File System](https://www.pluralsight.com/courses/android-file-system)
 
+- [android-development-with-kotlin-fundamentals](https://www.pluralsight.com/paths/android-development-with-kotlin-fundamentals)
+
 - [Getting Started with Android Development By Nate Ebel](https://www.pluralsight.com/courses/getting-started-android-development)
+
+-[Google: Associate Android Developer (AAD)](https://www.pluralsight.com/paths/google-android-associate-developer-aad)
 
 ### [Freecodecamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ) courses - Listed a few courses | Visit site for full catalog
 
@@ -297,7 +305,13 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 ### https://coderealprojects.com/ courses - Visit site for full catalog
 
-### https://www.coursera.org/ courses - Visit site for full catalog
+### https://www.coursera.org/ courses - Listed a few courses | Visit site for full catalog
+
+- [Kotlin for Java Developers](https://www.coursera.org/learn/kotlin-for-java-developers)
+
+- [Android App Development Specialization](https://www.coursera.org/specializations/android-app-development)
+
+- [Build Your First Android App](https://www.coursera.org/learn/android-app)
 
 ### https://www.edx.org/ courses - Visit site for full catalog
 
@@ -412,6 +426,11 @@ Note: Listed below are only a few courses provided by each platform. Please visi
   
 - [Kotlin Mumbai](https://www.youtube.com/channel/UCJQnTIjmJPPl-boDmIDdDSA)
 
+- [Cheesy Code](https://www.youtube.com/channel/UCOknqk-MSOCf3SANW8Wumfg)
+
+- [CodeAndroid](https://www.youtube.com/c/CodeAndroid)
+
+- [All Techies](https://www.youtube.com/channel/UC6Cd6oKTujZ1kGw2DpLmYng)
 
 #### [ES]
 
@@ -420,6 +439,10 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 #### [FR]
 
 - [DrcMDev](https://www.youtube.com/channel/UCM5yhphpMeNDmNUP-dW2mHw/)
+
+#### [HI]
+
+- [AndroJava Tech4U](https://www.youtube.com/channel/UCr_JF45WJY5DIcXon2a2qlg)
 
 #### [TR]
 
@@ -737,6 +760,8 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 - https://play.kotlinlang.org/koans/
 
 - https://material.io/
+
+- https://github.com/mobile-roadmap/android-developer-roadmap
 
 
 #### [ZH]
