@@ -53,8 +53,6 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 - [Communities](#communities)
 
-- [Projects to try](#projects-to-try)
-
 :memo: [**Contributing**](#memo-contributing)
 
 
@@ -225,6 +223,9 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 - [Android Multithreading Masterclass](https://www.udemy.com/course/android-multithreading/)
 
 - [To-Do App & Clean Architecture -Android Development - Kotlin](https://www.udemy.com/course/to-do-app-clean-architecture-android-development-kotlin/)
+
+- [The Complete Android App Development Masterclass]
+(https://www.udemy.com/share/102LXmCEsac15aR3Q=/)
 
 ### https://www.pluralsight.com/ courses - Listed a few courses | Visit site for full catalog
 
