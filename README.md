@@ -224,8 +224,8 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 - [To-Do App & Clean Architecture -Android Development - Kotlin](https://www.udemy.com/course/to-do-app-clean-architecture-android-development-kotlin/)
 
-- [The Complete Android App Development Masterclass]
-(https://www.udemy.com/share/102LXmCEsac15aR3Q=/)
+- [The Complete Android App Development Masterclass](https://www.udemy.com/share/102LXmCEsac15aR3Q=/)
+
 
 ### https://www.pluralsight.com/ courses - Listed a few courses | Visit site for full catalog
 
