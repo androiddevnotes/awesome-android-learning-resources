@@ -412,7 +412,6 @@ Note: Listed below are only a few courses provided by each platform. Please visi
   
 - [Kotlin Mumbai](https://www.youtube.com/channel/UCJQnTIjmJPPl-boDmIDdDSA)
 
-- [Cheesy Code](https://www.youtube.com/channel/UCOknqk-MSOCf3SANW8Wumfg)
 
 #### [ES]
 
