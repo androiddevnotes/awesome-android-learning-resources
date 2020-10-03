@@ -152,7 +152,7 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 - [Head First Kotlin](https://www.oreilly.com/library/view/head-first-kotlin/9781491996683/)
 
--[Kotlin Glossary](https://kotlin-glossary-ebook.caster.io/)
+- [Kotlin Glossary](https://kotlin-glossary-ebook.caster.io/)
 
 
 ## Video Courses 
