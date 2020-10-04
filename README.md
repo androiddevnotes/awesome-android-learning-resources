@@ -31,30 +31,30 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 - [Jetpack Compose Learning Resources](https://github.com/androiddevnotes/awesome-android-learning-resources#jetpack-compose-learning-resources)
 
-- [Books](#books)
+- [Books](https://github.com/androiddevnotes/awesome-android-learning-resources#books)
 
-- [Video Courses](#video-courses)
+- [Video Courses](https://github.com/androiddevnotes/awesome-android-learning-resources#video-courses)
 
-- [YouTube Channels](#youtube-channels)
+- [YouTube Channels](https://github.com/androiddevnotes/awesome-android-learning-resources#youtube-channels)
 
-- [Twitch Channels](#twitch-channels)
+- [Twitch Channels](https://github.com/androiddevnotes/awesome-android-learning-resources#twitch-channels)
     
-- [Blogs and Tutorial Websites](#blogs-and-tutorial-websites)
+- [Blogs and Tutorial Websites](https://github.com/androiddevnotes/awesome-android-learning-resources#blogs-and-tutorial-websites)
 
-- [Podcasts](#podcasts)
+- [Podcasts](https://github.com/androiddevnotes/awesome-android-learning-resources#podcasts)
 
-- [Newsletters](#newsletters)
+- [Newsletters](https://github.com/androiddevnotes/awesome-android-learning-resources#newsletters)
 
-- [Docs / Other](#docs--other)
+- [Docs / Other](https://github.com/androiddevnotes/awesome-android-learning-resources#docs--other)
 
-- [Open-source projects](#open-source-projects)
+- [Open-source projects](https://github.com/androiddevnotes/awesome-android-learning-resources#open-source-projects)
 
-- [Android and Kotlin Conferences](#android-and-kotlin-conferences)
+- [Android and Kotlin Conferences](https://github.com/androiddevnotes/awesome-android-learning-resources#android-and-kotlin-conferences)
 
-- [Communities](#communities)
+- [Communities](https://github.com/androiddevnotes/awesome-android-learning-resources#communities)
 
 
-:memo: [**Contributing**](#memo-contributing)
+:memo: [**Contributing**](https://github.com/androiddevnotes/awesome-android-learning-resources#memo-contributing)
 
 
 ## Jetpack Compose Learning Resources
