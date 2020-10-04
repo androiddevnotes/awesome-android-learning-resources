@@ -456,11 +456,13 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 #### [EN]
 
-- [intelligibabble](https://www.twitch.tv/intelligibabbl) - Leland Richardson
+- [intelligibabble](https://www.twitch.tv/intelligibabble) - Leland Richardson
 
 - [adammc331](https://www.twitch.tv/adammc331) - Adam McNeilly
   
-- [Elliott_Troop](https://www.twitch.tv/elliott_troop)- Elliott Troop
+- [Elliott_Troop](https://www.twitch.tv/elliott_troop) - Elliott Troop
+
+- [ThePocmo](https://www.twitch.tv/ThePocmo) - ThePocmo
 
 
 ## Blogs and Tutorial Websites
