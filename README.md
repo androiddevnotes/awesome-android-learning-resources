@@ -116,7 +116,6 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 - [The Busy Coder's Guide to Android Development](https://commonsware.com/Android/)
 
 - [Android's Architecture Components](https://commonsware.com/AndroidArch/)
--[The Complete Android + Kotlin Developer Course](https://www.udemy.com/course/complete-kotlin-android-developer-course-tutorial/?utm_source=adwords&utm_medium=udemyads&utm_campaign=DSA_Catchall_la.EN_cc.INDIA&utm_content=deal4584&utm_term=_._ag_82569850245_._ad_437477497173_._kw__._de_c_._dm__._pl__._ti_dsa-406594358574_._li_1007802_._pd__._&matchtype=b&gclid=EAIaIQobChMIycbdhbub7AIV0CMrCh38xAU9EAAYASAAEgLJlfD_BwE)
 
 
 ### Kotlin language-focused
@@ -233,6 +232,8 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 - [Android Multithreading Masterclass](https://www.udemy.com/course/android-multithreading/)
 
 - [To-Do App & Clean Architecture -Android Development - Kotlin](https://www.udemy.com/course/to-do-app-clean-architecture-android-development-kotlin/)
+-[The Complete Android + Kotlin Developer Course](https://www.udemy.com/course/complete-kotlin-android-developer-course-tutorial/)
+
 
 - [The Complete Android Oreo Developer Course - Build 23 Apps!](https://www.udemy.com/course/the-complete-android-oreo-developer-course/) [JAVA]
 
