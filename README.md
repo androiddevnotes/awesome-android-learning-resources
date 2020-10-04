@@ -434,8 +434,6 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 - [All Techies](https://www.youtube.com/channel/UC6Cd6oKTujZ1kGw2DpLmYng)
 
-- [tutorialsEU](https://www.youtube.com/channel/UCGjv_3tbzJ8yKuvacoqmO-Q)
-
 #### [ES]
 
 - [Sociedad Androide](https://www.youtube.com/c/SociedadAndroide/)
@@ -632,8 +630,6 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 ### Kotlin language-focused
 
 #### [EN]
-
-- https://developer.android.com/courses
 
 - https://github.com/Zhuinden/guide-to-kotlin
 
