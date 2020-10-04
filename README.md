@@ -233,6 +233,8 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 - [To-Do App & Clean Architecture -Android Development - Kotlin](https://www.udemy.com/course/to-do-app-clean-architecture-android-development-kotlin/)
 
+- [The Complete Android Oreo Developer Course - Build 23 Apps!](https://www.udemy.com/course/the-complete-android-oreo-developer-course/)
+
 ### https://www.pluralsight.com/ courses - Listed a few courses | Visit site for full catalog
 
 - [Android Apps with Kotlin: Tools and Testing](https://www.pluralsight.com/courses/android-apps-kotlin-tools-testing)
