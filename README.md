@@ -116,7 +116,7 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 - [The Busy Coder's Guide to Android Development](https://commonsware.com/Android/)
 
 - [Android's Architecture Components](https://commonsware.com/AndroidArch/)
--[Android O & Java - The Complete Android Development Bootcamp](https://www.udemy.com/course/android-app-development-with-java/?LSNPUBID=vedj0cWlu2Y&ranEAID=vedj0cWlu2Y&ranMID=39197&ranSiteID=vedj0cWlu2Y-cXXmiNiMTIJWy88jgWQEQg&utm_medium=udemyads&utm_source=aff-campaign)
+-[The Complete Android + Kotlin Developer Course](https://www.udemy.com/course/complete-kotlin-android-developer-course-tutorial/?utm_source=adwords&utm_medium=udemyads&utm_campaign=DSA_Catchall_la.EN_cc.INDIA&utm_content=deal4584&utm_term=_._ag_82569850245_._ad_437477497173_._kw__._de_c_._dm__._pl__._ti_dsa-406594358574_._li_1007802_._pd__._&matchtype=b&gclid=EAIaIQobChMIycbdhbub7AIV0CMrCh38xAU9EAAYASAAEgLJlfD_BwE)
 
 
 ### Kotlin language-focused
