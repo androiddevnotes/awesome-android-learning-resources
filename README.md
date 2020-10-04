@@ -225,6 +225,8 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 ### https://www.udemy.com/ courses - Listed a few courses | Visit site for full catalog
 
+- [The Complete Android 10 & Kotlin Development Masterclass](https://www.udemy.com/course/android-kotlin-developer/)
+
 - [Complete Kotlin Coroutines development course](https://www.udemy.com/course/coroutines/)
 
 - [Android Multithreading Masterclass](https://www.udemy.com/course/android-multithreading/)
