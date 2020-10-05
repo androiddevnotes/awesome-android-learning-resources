@@ -605,6 +605,10 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 - https://medium.com/android-school
 
+#### [ES]
+
+- https://devexperto.com/ [ES]
+
 #### [ZH]
 
 - http://yifeiyuan.me/ [ZH]
@@ -682,6 +686,9 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 - https://www.androidiots.in/podcast
 
+#### [ES]
+
+- https://androiddevpodcast.com/ [ES]
 
 #### [RU]
 
