@@ -444,6 +444,8 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 - [Sociedad Androide](https://www.youtube.com/c/SociedadAndroide/)
 
+- [DevExperto - Antonio Leiva](https://www.youtube.com/c/DevExperto/)
+
 #### [FR]
 
 - [DrcMDev](https://www.youtube.com/channel/UCM5yhphpMeNDmNUP-dW2mHw/)
@@ -717,9 +719,9 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 - http://www.oncreatedigest.com/
 
-#### [JA
+#### [JA]
 
-- https://androiddagashi.github.io/
+- https://androiddagashi.github.io/ [JA]
 
 #### [ZH]
 
