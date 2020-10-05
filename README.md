@@ -117,6 +117,8 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 - [Android's Architecture Components](https://commonsware.com/AndroidArch/)
 
+- [Android Programming: The Big Nerd Ranch Guide](https://www.bignerdranch.com/books/android-programming-the-big-nerd-ranch-guide-4th/)
+
 
 ### Kotlin language-focused
 
