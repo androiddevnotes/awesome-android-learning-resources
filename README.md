@@ -197,6 +197,8 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 - [Advanced Android with Kotlin](https://www.udacity.com/course/advanced-android-with-kotlin--ud940)
 
+- [Firebase in a Weekend for Android by Google FREE COURSE] (https://www.udacity.com/course/firebase-in-a-weekend-by-google-android--ud0352)
+
 ### https://caster.io/ courses - Listed a few courses | Visit site for full catalog
 
 - [Dependency Injection with Dagger 2](https://caster.io/courses/dependency-injection-with-dagger-2)
