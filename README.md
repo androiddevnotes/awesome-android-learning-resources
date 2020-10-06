@@ -450,10 +450,6 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 - [DrcMDev](https://www.youtube.com/channel/UCM5yhphpMeNDmNUP-dW2mHw/)
 
-#### [HI]
-
-- [AndroJava Tech4U](https://www.youtube.com/channel/UCr_JF45WJY5DIcXon2a2qlg)
-
 #### [TR]
 
 - [Uygula Öğren - Web Tasarım ve Yazılım Dersleri](https://www.youtube.com/channel/UCm8oo9Eg29-Tg00Q4lYMUIQ)
@@ -581,7 +577,7 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 - https://goobar.io/
 
-- https://medium.com/androidiots/
+- https://medium.com/
 
 - https://codingtroops.com/
 
@@ -607,13 +603,13 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 - https://www.raywenderlich.com/ 
 
-- https://medium.com/android-school
-
 #### [ES]
 
 - https://devexperto.com/ [ES]
 
 #### [ZH]
+
+- https://wanandroid.com/ [ZH]
 
 - http://yifeiyuan.me/ [ZH]
 
@@ -638,8 +634,6 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 #### [ID]
 
 - https://www.codepolitan.com/ [ID] 
-
-
 
 ### Kotlin language-focused
 
@@ -672,7 +666,6 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 - https://github.com/huanglizhuo/kotlin-in-chinese [ZH]
 
 - https://kaixue.io/ [ZH]
-
 
 ## Podcasts
 
@@ -880,6 +873,10 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 #### [ZH]
 
 - https://segmentfault.com/ [ZH]
+
+- https://developers.google.cn/china/#follow-google-developers-on-wechat [ZH]
+
+- http://weibo.com/GoogleDevelopers [ZH]
 
 
 ## :memo: Contributing
