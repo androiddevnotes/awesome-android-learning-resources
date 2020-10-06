@@ -390,6 +390,8 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 - [Tihomir RAdeff](https://www.youtube.com/user/yohohoasakura)
 
+- [The Complete Android Devlopment Course](https://www.youtube.com/channel/UCiACNfj4GpXGwEypKQgKflw)
+
 - [MindOrks](https://www.youtube.com/channel/UCocBChVv7HPx0g5SbnOUv7w)
 
 - [Android Dialogs](https://www.youtube.com/channel/UCMEmNnHT69aZuaOrE-dF6ug)
