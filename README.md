@@ -71,6 +71,8 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 - [Android Internals: A Confectioner's Cookbook](http://newandroidbook.com/)
 
+- [Android Development](https://www.amazon.in/Android-Cookbook-2e-Ian-Darwin/dp/14493744)
+
 - [Android Apprentice](https://store.raywenderlich.com/products/android-apprentice)
 
 - [Reactive Programming with Kotlin](https://store.raywenderlich.com/products/reactive-programming-with-kotlin)
