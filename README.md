@@ -71,7 +71,7 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 - [Android Internals: A Confectioner's Cookbook](http://newandroidbook.com/)
 
-- [Android Development](https://www.amazon.in/Android-Cookbook-2e-Ian-Darwin/dp/14493744)
+- [Android Cookbook](https://www.amazon.in/Android-Cookbook-2e-Ian-Darwin/dp/1449374433)
 
 - [Android Apprentice](https://store.raywenderlich.com/products/android-apprentice)
 
@@ -238,10 +238,12 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 - [Android Multithreading Masterclass](https://www.udemy.com/course/android-multithreading/)
 
 - [To-Do App & Clean Architecture -Android Development - Kotlin](https://www.udemy.com/course/to-do-app-clean-architecture-android-development-kotlin/)
--[The Complete Android + Kotlin Developer Course](https://www.udemy.com/course/complete-kotlin-android-developer-course-tutorial/)
 
+- [The Complete Android + Kotlin Developer Course](https://www.udemy.com/course/complete-kotlin-android-developer-course-tutorial/)
 
 - [The Complete Android Oreo Developer Course - Build 23 Apps!](https://www.udemy.com/course/the-complete-android-oreo-developer-course/) [JAVA]
+
+- [The Complete Android N Developer Course](https://www.udemy.com/course/complete-android-n-developer-course/)
 
 ### https://www.pluralsight.com/ courses - Listed a few courses | Visit site for full catalog
 
@@ -391,8 +393,6 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 - [Reso Coder](https://www.youtube.com/channel/UCSIvrn68cUk8CS8MbtBmBkA)
 
 - [Tihomir RAdeff](https://www.youtube.com/user/yohohoasakura)
-
-- [The Complete Android Devlopment Course](https://www.youtube.com/channel/UCiACNfj4GpXGwEypKQgKflw)
 
 - [MindOrks](https://www.youtube.com/channel/UCocBChVv7HPx0g5SbnOUv7w)
 
