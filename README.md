@@ -631,89 +631,73 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 - [](https://www.coroutinedispatcher.com/)
 
-- [](https://www.hellsoft.se/)
+- [Hellsoft](https://www.hellsoft.se/) - Blog posts about code.
 
-- [](https://jorgecastillo.dev/)
+- [Jorge Castillo](https://jorgecastillo.dev/) - Tech posts by Jorge Castillo.
 
-- [](https://androidexample365.com/)
+- [Android Example 365](https://androidexample365.com/) - Android Example 365 Blogs.
 
-- [](https://futurestud.io/)
+- [Future Studio](https://futurestud.io/) - Skyrocket in Android and Node.js.
 
-- [](https://zsmb.co/)
+- [zsmb.co](https://zsmb.co/) - zsmb.co by Márton Braun.
 
-- [](https://dev.to/)
+- [dev.to](https://dev.to/) - Social Network for Developers.
 
-- [](https://codelabs.developers.google.com/)
+- [Codelabs](https://codelabs.developers.google.com/) - Google Developers Codelabs provide a guided, tutorial, hands-on coding experience.
 
-- [](https://medium.com/androiddevelopers)
+- [Android Developers](https://medium.com/androiddevelopers) - The official Android Developers publication on Medium.
 
-- [](https://hackernoon.com/)
+- [krinotech](https://krinotech.com/) - krinotech blog.
 
-- [](https://www.baeldung.com/)
+- [Inspire Coding](https://inspirecoding.app/) - Android development in Kotlin.
 
-- [](https://krinotech.com/)
+- [Android Developer Roadmap](https://roadmap.sh/android) - Step by step guide to becoming an Android developer.
 
-- [](https://inspirecoding.app/)
+- [goobar](https://goobar.io/) - goobar by Nate Ebel. 
 
-- [](https://androidwave.com/)
+- [The Coding Troops](https://codingtroops.com/) - Develop maintainable and scalable Android & iOS apps.
 
-- [](https://roadmap.sh/android)
+- [Rock and Null](https://www.rockandnull.com/) - Tech, software and whatever comes to mind.
 
-- [](https://goobar.io/)
+- [Vlad Sonkin](https://vladsonkin.com/) - Android Development Blog.
 
-- [](https://medium.com/)
+- [Dan Lew](https://blog.danlew.net/) - Thoughts on life, the universe and the mystery of it all; but actually mostly just code.
 
-- [](https://codingtroops.com/)
+- [The CommonsBlog](https://commonsware.com/blog/) - The CommonsBlog by CommonsWare
 
-- [](https://www.rockandnull.com/)
+- [ProAndroidDev](https://proandroiddev.com/) - Professional Android Development: the latest posts from Android Professionals and Google Developer Experts.
 
-- [](https://vladsonkin.com/)
+- [MindOrks](https://mindorks.com/) - Learn Android App Development.
 
-- [](https://blog.danlew.net/ )
+- [vogella](http://vogella.com/) - Android Tutorials by vogella
 
-- [](https://commonsware.com/) 
+- [bignerdranch](https://www.bignerdranch.com/resources/blog/) - BLOGS FROM THE RANCH.
 
-- [](https://proandroiddev.com/) 
+- [antonioleiva](https://antonioleiva.com/) - Kotlin and Android Development tutorials by Antonio Leiva.
 
-- [](https://mindorks.com/)
+- [AndroidBites](https://chetangupta.net/) - Post | Articles | Snippets for Android Professionals.
 
-- [](http://vogella.com/)
-
-- [](https://www.bignerdranch.com/) 
-
-- [](https://antonioleiva.com/)
-
-- [](https://chetangupta.net/)
-
-- [](https://www.raywenderlich.com/)
+- [raywenderlich](https://www.raywenderlich.com/) - The best investment for your mobile development career.
 
 #### ES
 
-- [](https://devexperto.com/)
+- [DevExperto](https://devexperto.com/) - Blog by Antonio Leiva.
 
 #### ZH
 
-- [](https://wanandroid.com/)
+- [wanandroid](https://wanandroid.com/) - Android Blogs.
 
-- [](http://yifeiyuan.me/)
+- [androidperformance](http://androidperformance.com/) - Focused tutorials on Android Performance.
 
-- [](http://liuwangshu.cn/)
+- [cnblogs](https://www.cnblogs.com/cate/android/) - Software Blogs.
 
-- [](http://androidperformance.com/)
+- [juejin](https://juejin.im/) - Programming Nuggets.
 
-- [](https://gank.io/) 
+- [jianshu](https://www.jianshu.com/) - Brief Book.
 
-- [](https://www.cnblogs.com/cate/android/)[ZH]
+- [CSDN](https://blog.csdn.net/) - Chinese Software Developer Network.
 
-- [](https://juejin.im/)
-
-- [](https://www.jianshu.com/)
-
-- [](https://blog.csdn.net/)
-
-- [](https://www.trinea.cn/)
-
-- [](https://www.androidweekly.io/)
+- [Android 开发技术周报](https://www.androidweekly.io/) - Android Weekly Newsletter for Chinese Developers.
 
 #### ID
 
