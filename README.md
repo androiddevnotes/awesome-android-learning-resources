@@ -867,11 +867,11 @@ Creating Working Applications
 
 #### [ZH]
 
-- [xitu](http://e.xitu.io/) [ZH] - Open-source Projects
+- [xitu](http://e.xitu.io/) - Open-source Projects
 
-- [codekk](https://p.codekk.com/) [ZH] - Open-source Projects
+- [codekk](https://p.codekk.com/) - Open-source Projects
 
-- [CTOlib](https://www.ctolib.com/android/) [ZH] - Libraries Collection
+- [CTOlib](https://www.ctolib.com/android/) - Libraries Collection
 
 
 ## Open-source projects
@@ -891,8 +891,6 @@ Creating Working Applications
 - [Android Dev Summit](https://developer.android.com/dev-summit) - Android Dev Summit.
 
 - [droidcon](https://www.droidcon.com/) - droidcon Berlin is where the industry's leading Android experts converge to support the Android platform and create a strong network for developers and companies. Starting with 300 attendees in 2009, we will attract well over 1300+ developers in 2021.
-
-- [DroidKaigi](https://droidkaigi.jp/) [JA] - DroidKaigi Conferences.
 
 - [QCon Software Conferences](https://qconferences.com/) - Helping senior software developers adopt
 new technologies and practices.
@@ -923,10 +921,6 @@ new technologies and practices.
 
 - [t3chfest](https://t3chfest.es/) - t3chfest.
 
-- [CodeFest O!](https://o.codefest.ru/) [RU] - Онлайн прошёл, а записи остались.
-
-- [MobileTech](https://mobiletechcon.de/) [DE] - Das Konferenz- und Trainingsevent für Mobile Development.
-
 - [Facebook Developer Conference](https://www.f8.com/) - A conversation about technology and human connection.
 
 - [mdevcamp](https://mdevcamp.eu/) - Virtual 3D conference for mobile developers.
@@ -935,11 +929,22 @@ new technologies and practices.
 
 - [DevBreak ](https://www.devbreak.io/) - DevBreak is a 2-day tech festival.
 
-- [mobius-piter](https://mobius-piter.ru/) [RU] - Конференция по мобильной разработке.
-
 - [ADDC](https://addconf.com/) - Single-track international conference for iOS & Android developers and UX/UI designers in Barcelona, Spain.
 
+#### [JA]
 
+- [DroidKaigi](https://droidkaigi.jp/) - DroidKaigi Conferences.
+
+
+#### [DE]
+
+- [MobileTech](https://mobiletechcon.de/) - Das Konferenz- und Trainingsevent für Mobile Development.
+
+#### [RU]
+
+- [mobius-piter](https://mobius-piter.ru/) - Конференция по мобильной разработке.
+
+- [CodeFest O!](https://o.codefest.ru/) - Онлайн прошёл, а записи остались.
 
 ## Communities
 
@@ -961,11 +966,11 @@ new technologies and practices.
 
 #### [ZH]
 
-- [SegmentFault](https://segmentfault.com/) [ZH] - SegmentFault for Q/A for Chinese Developers.
+- [SegmentFault](https://segmentfault.com/) - SegmentFault for Q/A for Chinese Developers.
 
-- [GoogleDevelopers WeChat](https://developers.google.cn/china/#follow-google-developers-on-wechat) [ZH] - GoogleDevelopers WeChat for Chinese Developers.
+- [GoogleDevelopers WeChat](https://developers.google.cn/china/#follow-google-developers-on-wechat) - GoogleDevelopers WeChat for Chinese Developers.
 
-- [GoogleDevelopers Weibo](http://weibo.com/GoogleDevelopers) [ZH] - GoogleDevelopers Weibo for Chinese Developers.
+- [GoogleDevelopers Weibo](http://weibo.com/GoogleDevelopers) - GoogleDevelopers Weibo for Chinese Developers. 
 
 
 ## :memo: Contributing
