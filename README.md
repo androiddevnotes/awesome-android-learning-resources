@@ -1,5 +1,12 @@
 
-<h1 align="center">Awesome Android Learning Resources</h1></br>
+<h1 align="center">Awesome Android Learning Resources</h1> </br>
+
+
+<p align="center">
+
+[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+
+</p>
 
 <p align="center">
 :eyeglasses: A curated list of awesome android learning resources for android app developers. [Continuously updated]
