@@ -927,8 +927,6 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 - https://www.f8.com/
 
-- https://events.codemotion.com/
-
 - https://mdevcamp.eu/
 
 - https://devitconf.org/
