@@ -885,27 +885,28 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 ## Android and Kotlin Conferences
 
-- http://androidstudygroup.github.io/conferences
+- [Android Conferences](http://androidstudygroup.github.io/conferences) - List of Android Conferences
 
-- https://developer.android.com/dev-summit
+- [Android Dev Summit](https://developer.android.com/dev-summit) - Android Dev Summit
 
-- https://www.droidcon.com/
+- [droidcon](https://www.droidcon.com/) - droidcon Berlin is where the industry's leading Android experts converge to support the Android platform and create a strong network for developers and companies. Starting with 300 attendees in 2009, we will attract well over 1300+ developers in 2021.
 
-- https://droidkaigi.jp/
+- [DroidKaigi](https://droidkaigi.jp/) [JA] - DroidKaigi Conferences
 
-- https://qconferences.com/
+- [QCon Software Conferences](https://qconferences.com/) - Helping senior software developers adopt
+new technologies and practices.
 
-- https://mobileconfth.com/
+- [MOBILE CONF](https://mobileconfth.com/) - The biggest mobile developer conference in Thailand.
 
-- https://appdevcon.nl/
+- [APPDEVCON CONFERENCE](https://appdevcon.nl/) - BY APP DEVELOPERS, FOR APP DEVELOPERS
 
-- https://kotlinconf.com/
+- [KOTLINCONF'20](https://kotlinconf.com/) - A conference about everything Kotlin. Brought to you by JetBrains.
 
-- https://gotober.com/
+- [GOTO](https://gotober.com/) - GOTO conferences
 
-- https://oredev.org/
+- [Øredev Developer Conference](https://oredev.org/) - The best part of Øredev is the one we co-create with you
 
-- https://events.codemotion.com/
+- [Codemotion Events](https://events.codemotion.com/) - More than 500 tech events for developers across Europe
 
 - [DevTernity](https://devternity.com/) - Turning developers into architects and engineering leaders.
 
