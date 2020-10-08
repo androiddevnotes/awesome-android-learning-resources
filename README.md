@@ -833,27 +833,27 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 - [](https://android.libhunt.com/)
 
-- [](https://whimsical.com/Ldt6gUncijq3FAmLS4TVYx)
+- [Android Ecosystem Cheat Sheet](https://github.com/igorwojda/android-ecosystem-cheat-sheet) - This project maps most important parts of Android-Ecosystem (200+ tools, services, plusings & libraries). This is the most complete and most up to date picture of Android ecosystem you will find on the web. Some technologies are complementary, while others represent alternatives solutions for the same problem.
 
-- [](https://android-review.googlesource.com/)
+- [android-review.googlesource.com](https://android-review.googlesource.com/) - Code Review
 
-- [](https://source.android.com/)
+- [Android Open Source Project](https://source.android.com/) - Android is an open source operating system for mobile devices and a corresponding open source project led by Google. This site and the Android Open Source Project (AOSP) repository offer the information and source code needed to create custom variants of the Android OS, port devices and accessories to the Android platform, and ensure devices meet the compatibility requirements that keep the Android ecosystem a healthy and stable environment for millions of users.
 
-- [](https://cs.android.com/)
+- [Android Code Search](https://cs.android.com/) - Android Code Search.
 
-- [](http://androidxref.com/)
+- [AndroidXRef](http://androidxref.com/) - Android Source Code
 
-- [](https://www.xda-developers.com/)
+- [XDA Developers](https://www.xda-developers.com/) - XDA Developers was founded by developers, for developers. It is now a valuable resource for people who want to make the most of their mobile devices, from customizing the look and feel to adding new functionality.
 
-- [](https://github.com/)
+- [GitHub](https://github.com/) - GitHub is how people build software.
 
-- [](https://gitlab.com/)
+- [GitLab](https://gitlab.com/) - All-in-one DevOps meets all-in-one cloud.
 
-- [](https://bitbucket.org/)
+- [Bitbucket](https://bitbucket.org/) - Bitbucket is more than just Git code management. Bitbucket gives teams one place to plan projects, collaborate on code, test, and deploy.
 
-- [](https://gitee.com/)
+- [gitee](https://gitee.com/) - Discover Open Source you love.
 
-- [](https://coding.net/)
+- [coding.net](https://coding.net/) - Provides one-stop development collaboration tools to help research and development teams quickly land agile development and DevOps development methods.
 
 - [JetBrains Academy](https://www.jetbrains.com/academy/) - Learn to Program by
 Creating Working Applications
@@ -886,56 +886,56 @@ Creating Working Applications
 
 ## Android and Kotlin Conferences
 
-- [Android Conferences](http://androidstudygroup.github.io/conferences) - List of Android Conferences
+- [Android Conferences](http://androidstudygroup.github.io/conferences) - List of Android Conferences.
 
-- [Android Dev Summit](https://developer.android.com/dev-summit) - Android Dev Summit
+- [Android Dev Summit](https://developer.android.com/dev-summit) - Android Dev Summit.
 
 - [droidcon](https://www.droidcon.com/) - droidcon Berlin is where the industry's leading Android experts converge to support the Android platform and create a strong network for developers and companies. Starting with 300 attendees in 2009, we will attract well over 1300+ developers in 2021.
 
-- [DroidKaigi](https://droidkaigi.jp/) [JA] - DroidKaigi Conferences
+- [DroidKaigi](https://droidkaigi.jp/) [JA] - DroidKaigi Conferences.
 
 - [QCon Software Conferences](https://qconferences.com/) - Helping senior software developers adopt
 new technologies and practices.
 
 - [MOBILE CONF](https://mobileconfth.com/) - The biggest mobile developer conference in Thailand.
 
-- [APPDEVCON CONFERENCE](https://appdevcon.nl/) - BY APP DEVELOPERS, FOR APP DEVELOPERS
+- [APPDEVCON CONFERENCE](https://appdevcon.nl/) - BY APP DEVELOPERS, FOR APP DEVELOPERS.
 
 - [KOTLINCONF'20](https://kotlinconf.com/) - A conference about everything Kotlin. Brought to you by JetBrains.
 
-- [GOTO](https://gotober.com/) - GOTO conferences
+- [GOTO](https://gotober.com/) - GOTO conferences.
 
-- [Øredev Developer Conference](https://oredev.org/) - The best part of Øredev is the one we co-create with you
+- [Øredev Developer Conference](https://oredev.org/) - The best part of Øredev is the one we co-create with you.
 
-- [Codemotion Events](https://events.codemotion.com/) - More than 500 tech events for developers across Europe
+- [Codemotion Events](https://events.codemotion.com/) - More than 500 tech events for developers across Europe.
 
 - [DevTernity](https://devternity.com/) - Turning developers into architects and engineering leaders.
 
-- [GOTOpia](https://gotopia.tech/) - GOTO Conferences
+- [GOTOpia](https://gotopia.tech/) - GOTO Conferences.
 
-- [Touraine](https://touraine.tech/) - Touraine Tech
+- [Touraine](https://touraine.tech/) - Touraine Tech.
 
-- [MOBOS](http://romobos.com/) - Mobile Operating Systems Conference
+- [MOBOS](http://romobos.com/) - Mobile Operating Systems Conference.
 
-- [Greach](https://greachconf.com/) - Microservices, JVM Frameworks & JVM Langs
+- [Greach](https://greachconf.com/) - Microservices, JVM Frameworks & JVM Langs.
 
-- [Devoxx](https://devoxx.com/) - From developers, For developers
+- [Devoxx](https://devoxx.com/) - From developers, For developers.
 
-- [t3chfest](https://t3chfest.es/) - t3chfest
+- [t3chfest](https://t3chfest.es/) - t3chfest.
 
 - [CodeFest O!](https://o.codefest.ru/) [RU] - Онлайн прошёл, а записи остались.
 
-- [MobileTech](https://mobiletechcon.de/) [DE] - Das Konferenz- und Trainingsevent für Mobile Development
+- [MobileTech](https://mobiletechcon.de/) [DE] - Das Konferenz- und Trainingsevent für Mobile Development.
 
-- [Facebook Developer Conference](https://www.f8.com/) - A conversation about technology and human connection
+- [Facebook Developer Conference](https://www.f8.com/) - A conversation about technology and human connection.
 
-- [mdevcamp](https://mdevcamp.eu/) - Virtual 3D conference for mobile developers
+- [mdevcamp](https://mdevcamp.eu/) - Virtual 3D conference for mobile developers.
 
 - [DEVit](https://devitconf.org/) - DEVit is the leading web developer conference in South East Europe. Organized once per year, DEVit has become known for its top speaking talent, a mixture of world-class and world-renowned developers, highly specialized technology niches and developers who are on the edge of technology frontiers.
 
-- [DevBreak ](https://www.devbreak.io/) - DevBreak is a 2-day tech festival
+- [DevBreak ](https://www.devbreak.io/) - DevBreak is a 2-day tech festival.
 
-- [mobius-piter](https://mobius-piter.ru/) [RU] - Конференция по мобильной разработке
+- [mobius-piter](https://mobius-piter.ru/) [RU] - Конференция по мобильной разработке.
 
 - [ADDC](https://addconf.com/) - Single-track international conference for iOS & Android developers and UX/UI designers in Barcelona, Spain.
 
@@ -945,19 +945,19 @@ new technologies and practices.
 
 #### [EN]
 
-- [SuperUser](http://superuser.com/) 
+- [SuperUser](http://superuser.com/) - Super User is a question and answer site for computer enthusiasts and power users.
 
-- [StackOverflow](https://stackoverflow.com/) 
+- [StackOverflow](https://stackoverflow.com/) - We build products that empower developers and connect them to solutions that enable productivity, growth, and discovery.
 
-- [r/android_devs/](https://www.reddit.com/r/android_devs/)
+- [r/android_devs/](https://www.reddit.com/r/android_devs/) - A place where all Android developers can speak openly and respectfully about the problems they face when developing and publishing applications, give valuable tips, open constructive architectural discussions, discuss the present and future of programming in Android and seek help when specialized sites do not provide solutions.
 
-- [r/androiddev/](https://www.reddit.com/r/androiddev/)
+- [r/androiddev/](https://www.reddit.com/r/androiddev/) - News for Android developers with the who, what, where when and how of the Android community. Probably mostly the how. Here, you'll find: - News for Android developers - Thoughtful, informative articles - Insightful talks and presentations - Useful libraries - Handy tools - Open source applications for studying.
 
-- [Android Dev Discord](https://discord.gg/sNgBNng)
+- [Android Dev Discord](https://discord.gg/sNgBNng) - Android Dev Discord.
 
-- [Programming Discussions Discord](http://invite.progdisc.club/)
+- [Programming Discussions Discord](http://invite.progdisc.club/) - Programming Discussions Discord.
 
-- [Kotlin Community](https://kotlinlang.org/community/)
+- [Kotlin Community](https://kotlinlang.org/community/) - Kotlin Slack Community.
 
 #### [ZH]
 
