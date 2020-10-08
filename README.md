@@ -172,41 +172,79 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 - [Kotlin Cookbook](https://www.oreilly.com/library/view/kotlin-cookbook/9781492046660/)
 
+  - Use Kotlin to build Android apps, web applications, and more—while you learn the nuances of this popular language. With this unique cookbook, developers will learn how to apply thisJava-based language to their own projects. Both experienced programmers and those new to Kotlin will benefit from the practical recipes in this book.
+
 - [Kotlin Apprentice](https://store.raywenderlich.com/products/kotlin-apprentice)
+
+  - Learn programming with Kotlin! The Kotlin Apprentice is a book designed for complete beginners to Kotlin, a modern language used for Android development.
 
 - [Kotlin Coroutines by Tutorials](https://store.raywenderlich.com/products/kotlin-coroutines-by-tutorials)
 
+  - Android is inherently asynchronous and event-driven, with strict requirements as to on which thread certain things can happen. Learn how to use Kotlin coroutines to solve common Android programming problems using asynchronous programming techniques!
+
 - [Functional Kotlin](https://www.amazon.com/gp/product/B078JRKFYF/)
+
+  - Learn how to apply Functional Programming with Kotlin to real-life projects with popular libraries like Arrow.
 
 - [Hands-On Data Structures and Algorithms with Kotlin](https://www.amazon.com/gp/product/B07DTG2629)
 
+  - Understand and solve complex computational problems and write efficient code with Kotlin
+
 - [Elements of Kotlin Coroutines](https://commonsware.com/Coroutines/)
+
+  - This book is designed to help you get “spun up” on coroutines and how they can be applied in your projects.
 
 - [Elements of Kotlin](https://commonsware.com/Kotlin/)
 
+  - This introductory book to Kotlin focuses on helping existing programmers get up to speed on reading and writing Kotlin code. Particular emphasis is placed on the sorts of syntax and language capabilities that most Kotlin developers will need, with light coverage of the advanced capabilities that allow library developers to create easy-to-use APIs.
+
 - [Programming Kotlin](https://www.oreilly.com/library/view/programming-kotlin/9781680507287/)
+
+  - Kotlin is a highly concise, elegant, fluent, and expressive statically typed multi-paradigm language. It is one of the few languages that compiles down to both Java bytecode and JavaScript. You can use it to build server-side, front-end, and Android applications. With Kotlin, you need less code to accomplish your tasks, while keeping the code type-safe and less prone to error. If you want to learn the essentials of Kotlin, from the fundamentals to more advanced concepts, you've picked the right book.
 
 - [Kotlin docs](https://kotlinlang.org/docs/kotlin-docs.pdf)
 
+  - Kotlin Language Documentation.
+
 - [Hands-on Design Patterns with Kotlin](https://www.packtpub.com/in/application-development/hands-design-patterns-kotlin)
+
+  - The mission of this book is to ease the adoption of design patterns in Kotlin and provide good practices for programmers.
 
 - [Learning Concurrency in Kotlin](https://www.packtpub.com/in/application-development/learning-concurrency-kotlin)
 
+  - . Beginning with an introduction to Kotlin's coroutines, you will learn how to write concurrent code and understand the fundamental concepts needed to be able to write multithreaded software in Kotlin. You'll explore how to communicate between and synchronize your threads and coroutines to write asynchronous applications that are collaborative. You'll also learn how to handle errors and exceptions, as well as how to leverage multi-core processing. In addition to this, you’ll delve into how coroutines work internally, allowing you to see the bigger picture. Throughout the book you'll build an Android application – an RSS reader – designed and implemented according to the different topics covered in the book
+
 - [Learn Kotlin Programming](https://www.packtpub.com/in/application-development/learn-kotlin-programming-second-edition)
+
+  - Kotlin is a general-purpose programming language used for developing cross-platform applications. Complete with a comprehensive introduction and projects covering the full set of Kotlin programming features, this book will take you through the fundamentals of Kotlin and get you up to speed in no time.
 
 - [Effective Kotlin](https://leanpub.com/effectivekotlin)
 
+  - Effective Kotlin summarizes the best practices and experiences of the Kotlin community, together with a deep explanation of some lesser-known Kotlin functionalities. All of the best practices are presented as simple rules with detailed explanations.
+
 - [Kotlin Programming: The Big Nerd Ranch Guide Book](https://www.bignerdranch.com/books/kotlin-programming-the-big-nerd-ranch-guide-2/)
+
+  - Learn the new language that’s taking the Android world by storm in Kotlin Programming: The Big Nerd Ranch Guide.
 
 - [Mastering Kotlin](https://www.packtpub.com/in/application-development/mastering-kotlin)
 
+  - By the end of the book, you'll have obtained an advanced understanding of Kotlin in order to be able to build production-grade applications.
+
 - [Kotlin in Action](https://www.manning.com/books/kotlin-in-action)
+
+  - Kotlin in Action guides experienced Java developers from the language basics of Kotlin all the way through building applications to run on the JVM and Android devices.
 
 - [The Joy of Kotlin](https://www.manning.com/books/the-joy-of-kotlin)
 
+  - The Joy of Kotlin teaches you to write comprehensible, easy-to-maintain, safe programs with Kotlin.
+
 - [Head First Kotlin](https://www.oreilly.com/library/view/head-first-kotlin/9781491996683/)
 
+  - Head First Kotlin is a complete introduction to coding in Kotlin. This hands-on book helps you learn the Kotlin language with a unique method that goes beyond syntax and how-to manuals and teaches you how to think like a great Kotlin developer. You’ll learn everything from language fundamentals to collections, generics, lambdas, and higher-order functions. Along the way, you’ll get to play with both object-oriented and functional programming. If you want to really understand Kotlin, this is the book for you.
+
 - [Kotlin Glossary](https://kotlin-glossary-ebook.caster.io/)
+
+  - A short, sweet 21-page ebook on Kotlin that has a lot of terminologies, code snippets and helpful tips to help you in your Kotlin journey, whether you're a beginner or someone who needs a Kotlin cheatsheet. 📒
 
 
 ## Video Courses 
