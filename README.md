@@ -796,6 +796,11 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 - https://docs.github.com/en/github/searching-for-information-on-github/about-searching-on-github
 
   - Use the advanced search on GitHub and find open-source projects to your liking.
+  
+- https://www.f-droid.org/
+ 
+  - Open Source Android App Repository similar to playstore except it contain open source apps.
+  
 
 ## Android and Kotlin Conferences
 
