@@ -825,52 +825,53 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 #### [EN]
 
-- https://androidx.tech/
+- [](https://androidx.tech/)
 
-- https://reposhub.com/android
+- [](https://reposhub.com/android)
 
-- https://android-arsenal.com/
+- [](https://android-arsenal.com/)
 
-- https://android.libhunt.com/
+- [](https://android.libhunt.com/)
 
-- https://whimsical.com/Ldt6gUncijq3FAmLS4TVYx
+- [](https://whimsical.com/Ldt6gUncijq3FAmLS4TVYx)
 
-- https://android-review.googlesource.com/
+- [](https://android-review.googlesource.com/)
 
-- https://source.android.com/
+- [](https://source.android.com/)
 
-- https://cs.android.com/
+- [](https://cs.android.com/)
 
-- http://androidxref.com/
+- [](http://androidxref.com/)
 
-- https://www.xda-developers.com/
+- [](https://www.xda-developers.com/)
 
-- https://github.com/
+- [](https://github.com/)
 
-- https://gitlab.com/
+- [](https://gitlab.com/)
 
-- https://bitbucket.org/
+- [](https://bitbucket.org/)
 
-- https://gitee.com/
+- [](https://gitee.com/)
 
-- https://coding.net/
+- [](https://coding.net/)
 
-- https://www.jetbrains.com/academy/
+- [JetBrains Academy](https://www.jetbrains.com/academy/) - Learn to Program by
+Creating Working Applications
 
-- https://play.kotlinlang.org/koans/
+- [Kotlin Koans](https://play.kotlinlang.org/koans/) - Kotlin Koans is a series of exercises to get you familiar with the Kotlin syntax and some idioms. Each exercise is created as a failing unit test, and your job is to make it pass. Here you can play with Koans online, but the same version of exercises is also available via JetBrains educational plugin right inside IntelliJ IDEA or Android Studio.
 
-- https://material.io/
+- [Material Design](https://material.io/) - Material is a design system – backed by open-source code – that helps teams build high-quality digital experiences.
 
-- https://github.com/mobile-roadmap/android-developer-roadmap
+- [Android Developer Roadmap 2020](https://github.com/mobile-roadmap/android-developer-roadmap) - Android Developer Roadmap 2020
 
 
 #### [ZH]
 
-- http://e.xitu.io/ [ZH]
+- [xitu](http://e.xitu.io/) [ZH] - Open-source Projects
 
-- https://p.codekk.com/ [ZH]
+- [codekk](https://p.codekk.com/) [ZH] - Open-source Projects
 
-- https://www.ctolib.com/android/ [ZH]
+- [CTOlib](https://www.ctolib.com/android/) [ZH] - Libraries Collection
 
 
 ## Open-source projects
