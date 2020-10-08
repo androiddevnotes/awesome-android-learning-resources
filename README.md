@@ -561,65 +561,49 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 #### EN
 
-- [](https://riggaroo.dev/)
+- [Rebecca Franks - @riggaroo](https://riggaroo.dev/) - Android Development.
 
-- [](https://blog.blundellapps.co.uk/)
+- [Blundell](https://blog.blundellapps.co.uk/) - Android Developer Tutorials and Blog.
 
-- [](https://chrishorner.codes/)
+- [CHRIS HORNER](https://chrishorner.codes/post/) - Sometimes I write about things.
 
-- [](https://gabrielfv.com/)
+- [Gabriel Vasconcelos](https://gabrielfv.com/) - Android Developer.
 
-- [](https://infinum.com/handbook/books/android/)
+- [Infinum Android Handbook](https://infinum.com/handbook/books/android/) - Our handbook is based on 10 years of experience in Android development.
   
-- [](https://www.journaldev.com/)
+- [Jake Lee](https://blog.jakelee.co.uk/) - Mostly Android tutorials, tips, and troubleshooting, with a little bit of web dev / general software dev.
 
-- [](https://blog.jakelee.co.uk/)
+- [Rivu Chakraborty](https://www.rivu.dev/) - Kotlin Advocate, Android Dev & Enthusiast, Public Speaker, Author of Multiple Kotlin Books.
 
-- [](https://www.rivu.dev/)
+- [Greater than null](https://greaterthannull.dev/) - Development Blog for Android.
 
-- [](https://dzone.com/)
+- [simplifiedcoding](https://www.simplifiedcoding.net/) - Learn building apps.
 
-- [](https://greaterthannull.dev/)
+- [zacsweers](https://www.zacsweers.dev/) - Life, travel, code, and the whitespace in between.
 
-- [](https://www.geeksforgeeks.org/)
+- [AndroidPub](https://android.jlelse.eu/) - The Pub(lication) for Android & Tech, focused on Development.
 
-- [](https://www.tutorialspoint.com/ )
+- [CodingWithMitch](http://codingwithmitch.com/blog) - Blogs by CodingWithMitch community.
 
-- [](https://www.edureka.co/)
+- [Jake Wharton](https://jakewharton.com/blog/) - Blogs by Jake Wharton.
 
-- [](https://www.simplifiedcoding.net/) 
+- [CodePath Guides](https://guides.codepath.com/android/) - CodePath Android Cliffnotes.
 
-- [](https://www.zacsweers.dev/)
+- [AndroidSweets](https://androidsweets.ongoodbits.com/) - Fresh news from Droid zone.
 
-- [](https://developer.android.com/)
+- [lordcodes](https://www.lordcodes.com/android/) - All content aimed at Android and Kotlin developers.
 
-- [](https://android.jlelse.eu/ )
+- [AlexZH Dev](https://alexzh.com/) - alexzh blogs.
 
-- [](http://codingwithmitch.com/)
+- [TechYourChance](https://www.techyourchance.com/) - TechYourChance by Vasiliy Zukanov.
 
-- [](http://codinginflow.com/ )
+- [Handstand Sam](https://handstandsam.com/) - Kotlin blogs.
 
-- [](https://jakewharton.com/)
+- [segunfamisa](https://segunfamisa.com/) - Do. Something. Awesome.
 
-- [](https://guides.codepath.com/android/)
+- [JOE BIRCH](https://joebirch.co/) - Blogs on Android, Kotlin.
 
-- [](http://freecodecamp.org/)
-
-- [](https://androidsweets.ongoodbits.com/)
-
-- [](https://www.lordcodes.com/android/)
-
-- [](https://alexzh.com/)
-
-- [](https://www.techyourchance.com/)
-
-- [](https://handstandsam.com/)
-
-- [](https://segunfamisa.com/)
-
-- [](https://joebirch.co/)
-
-- [](https://ryanharter.com/)
+- [Ryan Harter](https://ryanharter.com/) - Android Development Blogs by Ryan Harter.
 
 - [](http://michaelevans.org/)
 
