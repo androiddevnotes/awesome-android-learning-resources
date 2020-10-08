@@ -1,5 +1,5 @@
 
-<h1 align="center">Awesome Android Learning Resources</h1> </br>
+<h1 align="center">Awesome Android Learning Resources</h1></br>
 
 <p align="center">
 :eyeglasses: A curated list of awesome android learning resources for android app developers.[Continuously updated]
@@ -21,7 +21,7 @@
 
 **Awesome Android Learning Resources** aims to be the starting point for Android App Developers to find the finest learning content for Android App Development.
 
-The content is Android Kotlin App development focused. Android Java content which can be of benefit to developers is listed and tagged with [JAVA]
+The content is Android Kotlin App development focused. Android Java content which can be of benefit to developers is listed and tagged with
 
 Content in languages other than English is tagged according to ISO 639-2 codes.
 
@@ -164,6 +164,8 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 ### http://codingwithmitch.com/ courses - Listed a few courses | Visit site for full catalog
 
+#### Kotlin
+
 - [Clean Architecture](https://codingwithmitch.com/courses/android-clean-architecture/)
 
 - [UI Testing with Jetpack and AndroidX](https://codingwithmitch.com/courses/ui-testing-jetpack-androidx/)
@@ -174,17 +176,19 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 - [Powerful Android Apps with Jetpack Architecture](https://codingwithmitch.com/courses/powerful-android-apps-with-jetpack-architecture/)
 
-- [Unit Testing](https://codingwithmitch.com/courses/unit-testing-android-2/) [JAVA]
+#### Java
 
-- [Dagger2.2+ on Android](https://codingwithmitch.com/courses/dagger22-android/) [JAVA]
+- [Unit Testing](https://codingwithmitch.com/courses/unit-testing-android-2/)
 
-- [REST API with MVVM and Retrofit2](https://codingwithmitch.com/courses/rest-api-mvvm-retrofit2/) [JAVA]
+- [Dagger2.2+ on Android](https://codingwithmitch.com/courses/dagger22-android/)
 
-- [Local Database Cache with REST API](https://codingwithmitch.com/courses/android-local-database-cache-rest-api/) [JAVA]
+- [REST API with MVVM and Retrofit2](https://codingwithmitch.com/courses/rest-api-mvvm-retrofit2/)
 
-- [SQLite for Beginners 2019](https://codingwithmitch.com/courses/sqlite-room-persistence-android/) [JAVA]
+- [Local Database Cache with REST API](https://codingwithmitch.com/courses/android-local-database-cache-rest-api/)
 
-- [Audio Streaming on Android](https://codingwithmitch.com/courses/android-audio-streaming/) [JAVA]
+- [SQLite for Beginners 2019](https://codingwithmitch.com/courses/sqlite-room-persistence-android/)
+
+- [Audio Streaming on Android](https://codingwithmitch.com/courses/android-audio-streaming/)
 
 ### https://www.udacity.com/ courses - Listed a few courses | Visit site for full catalog
  
@@ -224,6 +228,8 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 ### https://www.udemy.com/ courses - Listed a few courses | Visit site for full catalog
 
+#### EN
+
 - [The Complete Android 10 & Kotlin Development Masterclass](https://www.udemy.com/course/android-kotlin-developer/)
 
 - [Complete Kotlin Coroutines development course](https://www.udemy.com/course/coroutines/)
@@ -231,10 +237,18 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 - [Android Multithreading Masterclass](https://www.udemy.com/course/android-multithreading/)
 
 - [To-Do App & Clean Architecture -Android Development - Kotlin](https://www.udemy.com/course/to-do-app-clean-architecture-android-development-kotlin/)
+
 -[The Complete Android + Kotlin Developer Course](https://www.udemy.com/course/complete-kotlin-android-developer-course-tutorial/)
 
+- [The Complete Android Oreo Developer Course - Build 23 Apps!](https://www.udemy.com/course/the-complete-android-oreo-developer-course/)
 
-- [The Complete Android Oreo Developer Course - Build 23 Apps!](https://www.udemy.com/course/the-complete-android-oreo-developer-course/) [JAVA]
+#### TR
+
+- [Android Mobil Uygulama Kursu: Kotlin & Java](https://www.udemy.com/course/android-o-mobil-uygulama-dersi-kotlin-java/)
+
+- [Android Mobil Uygulama Geliştirme Eğitimi | Java | 2020](https://www.udemy.com/course/android-mobil-uygulama-gelistirme-egitimi-java/)
+
+- [https://www.udemy.com/course/android-mobil-uygulama-kursu-seviye-2/](https://www.udemy.com/course/android-mobil-uygulama-kursu-seviye-2/)
 
 ### https://www.pluralsight.com/ courses - Listed a few courses | Visit site for full catalog
 
@@ -332,17 +346,11 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 #### TR
 
-### https://gelecegiyazanlar.turkcell.com.tr/konu/android [TR] courses - Visit site for full catalog
+### https://gelecegiyazanlar.turkcell.com.tr/konu/android courses - Visit site for full catalog
 
-### https://www.mobilhanem.com/android-uygulama-gelistirme/ [TR] courses - Visit site for full catalog 
+### https://www.mobilhanem.com/android-uygulama-gelistirme/ courses - Visit site for full catalog 
 
-### https://www.udemy.com/ [TR] courses - Listed a few courses | Visit site for full catalog
 
-- [Android Mobil Uygulama Kursu: Kotlin & Java](https://www.udemy.com/course/android-o-mobil-uygulama-dersi-kotlin-java/)
-
-- [Android Mobil Uygulama Geliştirme Eğitimi | Java | 2020](https://www.udemy.com/course/android-mobil-uygulama-gelistirme-egitimi-java/)
-
-- [https://www.udemy.com/course/android-mobil-uygulama-kursu-seviye-2/](https://www.udemy.com/course/android-mobil-uygulama-kursu-seviye-2/)
 
 #### ZH
 
