@@ -2,7 +2,7 @@
 <h1 align="center">Awesome Android Learning Resources</h1> </br>
 
 <p align="center">
-:eyeglasses: A curated list of awesome android learning resources for android app developers. [Continuously updated]
+:eyeglasses: A curated list of awesome android learning resources for android app developers.[Continuously updated]
 </p>
 <br>
 
@@ -146,7 +146,7 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 - [Professional Android](https://www.oreilly.com/library/view/professional-android-4th/9781118949528/)
 
-  - Professional Android, 4th Edition shows developers how to leverage the latest features of Android to create robust and compelling mobile apps. This hands-on approach provides in-depth coverage through a series of projects, each introducing a new Android platform feature and highlighting the techniques and best practices that exploit its utmost functionality. 
+  - Professional Android, 4th Edition shows developers how to leverage the latest features of Android to create robust and compelling mobile apps. This hands-on approach provides in-depth coverage through a series of projects, each introducing a new Android platform feature and highlighting the techniques and best practices that exploit its utmost functionality.
 
 - [Android Studio 3.6 Development Essentials](https://www.oreilly.com/library/view/android-studio-36/9781800560970/)
 
@@ -244,14 +244,14 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 - [Kotlin Glossary](https://kotlin-glossary-ebook.caster.io/)
 
-  - A short, sweet 21-page ebook on Kotlin that has a lot of terminologies, code snippets and helpful tips to help you in your Kotlin journey, whether you're a beginner or someone who needs a Kotlin cheatsheet. 📒
+  - A short, sweet 21-page ebook on Kotlin that has a lot of terminologies, code snippets and helpful tips to help you in your Kotlin journey, whether you're a beginner or someone who needs a Kotlin cheatsheet.📒
 
 
 ## Video Courses 
 
 Note: Listed below are only a few courses provided by each platform. Please visit their site for a full catalog.
 
-#### [EN]
+#### EN
 
 ### http://codingwithmitch.com/ courses - Listed a few courses | Visit site for full catalog
 
@@ -435,18 +435,18 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 - [https://www.udemy.com/course/android-mobil-uygulama-kursu-seviye-2/](https://www.udemy.com/course/android-mobil-uygulama-kursu-seviye-2/)
 
-#### [ZH]
+#### ZH
 
-### http://ke.qq.com/ [ZH] courses - Visit site for full catalog 
+### http://ke.qq.com/ courses - Visit site for full catalog 
 
-### http://hukai.me/ [ZH] courses - Visit site for full catalog 
+### http://hukai.me/ courses - Visit site for full catalog 
 
-### https://www.androiddevtools.cn/ [ZH] courses - Visit site for full catalog
+### https://www.androiddevtools.cn/ courses - Visit site for full catalog
 
 
 ## YouTube Channels
 
-#### [EN]
+#### EN
 
 - [Android Developers](https://www.youtube.com/user/androiddevelopers)
 
@@ -528,7 +528,7 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 - [All Techies](https://www.youtube.com/channel/UC6Cd6oKTujZ1kGw2DpLmYng)
 
-#### [ES]
+#### ES
 
 - [Sociedad Androide](https://www.youtube.com/c/SociedadAndroide/)
 
@@ -544,7 +544,7 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 ## Twitch Channels
 
-#### [EN]
+#### EN
 
 - [intelligibabble](https://www.twitch.tv/intelligibabble) - Leland Richardson
 
@@ -559,7 +559,7 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 ### Android focused
 
-#### [EN]
+#### EN
 
 - [](https://riggaroo.dev/)
 
@@ -687,100 +687,98 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 - [](https://www.raywenderlich.com/)
 
-#### [ES]
+#### ES
 
-- [](https://devexperto.com/) [ES]
+- [](https://devexperto.com/)
 
-#### [ZH]
+#### ZH
 
-- [](https://wanandroid.com/) [ZH]
+- [](https://wanandroid.com/)
 
-- [](http://yifeiyuan.me/) [ZH]
+- [](http://yifeiyuan.me/)
 
-- [](http://liuwangshu.cn/) [ZH]
+- [](http://liuwangshu.cn/)
 
-- [](http://androidperformance.com/) [ZH]
+- [](http://androidperformance.com/)
 
-- [](https://gank.io/) [ZH] 
+- [](https://gank.io/) 
 
 - [](https://www.cnblogs.com/cate/android/)[ZH]
 
-- [](https://juejin.im/) [ZH]
+- [](https://juejin.im/)
 
-- [](https://www.jianshu.com/) [ZH]
+- [](https://www.jianshu.com/)
 
-- [](https://blog.csdn.net/) [ZH]
+- [](https://blog.csdn.net/)
 
-- [](https://www.trinea.cn/) [ZH]
+- [](https://www.trinea.cn/)
 
-- [](https://www.androidweekly.io/) [ZH]
+- [](https://www.androidweekly.io/)
 
-#### [ID]
+#### ID
 
 - [](https://www.codepolitan.com/) [ID] 
 
 ### Kotlin language-focused
 
-#### [EN]
+#### EN
 
-- [](https://github.com/Zhuinden/guide-to-kotlin)
+- [Guide to Kotlin](https://github.com/Zhuinden/guide-to-kotlin) - This tutorial assumes all you know is Java, but you want to learn Kotlin.
 
-- [](http://kotlinlang.org/ )
+- [KEEP - Kotlin Evolution and Enhancement Process](https://github.com/Kotlin/KEEP/tree/master/proposals/) - This repository holds proposals for the Kotlin Programming Language.
 
-- [](https://github.com/Kotlin/KEEP/tree/master/proposals/)
+- [kt.academy](https://kt.academy/) - Kotlin Academy.
 
-- [](https://kt.academy/)
+- [Kotlin Testing](https://kotlintesting.com/) - Everything about testing with Kotlin.
 
-- [](https://kotlintesting.com/)
+- [From Java to Kotlin](https://fabiomsr.github.io/from-java-to-kotlin/index.html) - From Java to Kotlin by fabiomsr.
 
-- [](https://fabiomsr.github.io/from-java-to-kotlin/index.html)
+- [Kotlin cheatsheet](https://devhints.io/kotlin) - Kotlin cheatsheet by devhints.
 
-- [](https://devhints.io/kotlin)
+- [from-java-to-kotlin](https://github.com/MindorksOpenSource/from-java-to-kotlin) - From Java To Kotlin - Your Cheat Sheet For Java To Kotlin.
 
-- [](https://github.com/MindorksOpenSource/from-java-to-kotlin)
+- [raywenderlich](https://www.raywenderlich.com/6649-kotlin-cheat-sheet-and-quick-reference) - Kotlin Cheat Sheet and Quick Reference.
 
-- [](https://www.raywenderlich.com/6649-kotlin-cheat-sheet-and-quick-reference)
+- [typealias](https://typealias.com/) - Dave Leeds on Kotlin.
 
-- [](https://typealias.com/)
+#### ZH
 
-#### [ZH]
+- [Bennyhuo](https://www.bennyhuo.com/) - Bennyhuo Blog.
 
-- [](https://www.bennyhuo.com/) [ZH]
+- [kotlin-in-chinese](https://github.com/huanglizhuo/kotlin-in-chinese) - kotlin 官方文档翻译 on GitHub.
 
-- [](https://github.com/huanglizhuo/kotlin-in-chinese) [ZH]
-
-- [](https://kaixue.io/) [ZH]
+- [kaixue](https://kaixue.io/) - A guide to Kotlin for Android engineers.
 
 ## Podcasts
 
-#### [EN]
+#### EN
 
-- [](https://robj.me/coffeeandcoding/)
+- [COFFEE & CODING PODCAST](https://robj.me/coffeeandcoding/) - Listen weekly as we bring you the latest news, tips and in depth discussion with experienced app developers – to help you become better a better app developer.
 
-- [](http://androidbackstage.blogspot.com/)
+- [Android Developers Backstage](http://androidbackstage.blogspot.com/) - Android Developers Backstage Podcast.
 
-- [](http://fragmentedpodcast.com/)
+- [Fragmented](http://fragmentedpodcast.com/) - A Software Developer Podcast hosted by Donn Felker and Kaushik Gopal.
 
-- [](https://talkingkotlin.com/)
+- [Talking Kotlin](https://talkingkotlin.com/) - A Podcast on Kotlin and more.
 
-- [](https://www.raywenderlich.com/podcast/)
+- [The raywenderlich.com Podcast](https://www.raywenderlich.com/podcast/) - Join Dru and Alex as they discuss every aspect of app development with well-known characters from the iOS and Android development community.
 
-- [](https://www.androidiots.in/podcast)
+- [Androidiots](https://www.androidiots.in/podcast) - Androidiots Podcast.
 
-#### [ES]
+#### ES
 
-- [](https://androiddevpodcast.com/) [ES]
+- [](https://androiddevpodcast.com/)
 
-#### [RU]
+#### RU
 
-- [](https://androiddev.apptractor.ru/) [RU]
+- [Подкасты Android Dev](https://androiddev.apptractor.ru/) - Android Dev Podcast.
 
 
 ## Newsletters
 
 ### Android focused
 
-#### [EN]
+#### EN
 
 - [Awesome Android Newsletter](https://android.libhunt.com/newsletter) - A weekly overview of the most popular Android news, articles and packages.
 
@@ -794,11 +792,11 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 - [onCreate Digest](http://www.oncreatedigest.com/) - onCreate Digest is a weekly newsletter with links to Android Development related content.
 
-#### [JA]
+#### JA
 
 - [Android Dagashi](https://androiddagashi.github.io/) - Android Dagashi Newsletter.
 
-#### [ZH]
+#### ZH
 
 - [Weekly manong](http://weekly.manong.io/) - Professional, simple, useful, is we have always adhered to the purpose of the publication.
 
@@ -817,7 +815,7 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 ### Other
 
-#### [EN]
+#### EN
 
 - [AndroidX Tech](https://androidx.tech/) - Here you will find details about all of the artifacts and packages that make up the AndroidX family.
 
@@ -829,13 +827,13 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 - [Android Ecosystem Cheat Sheet](https://github.com/igorwojda/android-ecosystem-cheat-sheet) - This project maps most important parts of Android-Ecosystem (200+ tools, services, plusings & libraries). This is the most complete and most up to date picture of Android ecosystem you will find on the web. Some technologies are complementary, while others represent alternatives solutions for the same problem.
 
-- [android-review.googlesource.com](https://android-review.googlesource.com/) - Code Review
+- [android-review.googlesource.com](https://android-review.googlesource.com/) - Code Review.
 
 - [Android Open Source Project](https://source.android.com/) - Android is an open source operating system for mobile devices and a corresponding open source project led by Google. This site and the Android Open Source Project (AOSP) repository offer the information and source code needed to create custom variants of the Android OS, port devices and accessories to the Android platform, and ensure devices meet the compatibility requirements that keep the Android ecosystem a healthy and stable environment for millions of users.
 
 - [Android Code Search](https://cs.android.com/) - Android Code Search.
 
-- [AndroidXRef](http://androidxref.com/) - Android Source Code
+- [AndroidXRef](http://androidxref.com/) - Android Source Code.
 
 - [XDA Developers](https://www.xda-developers.com/) - XDA Developers was founded by developers, for developers. It is now a valuable resource for people who want to make the most of their mobile devices, from customizing the look and feel to adding new functionality.
 
@@ -850,33 +848,28 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 - [coding.net](https://coding.net/) - Provides one-stop development collaboration tools to help research and development teams quickly land agile development and DevOps development methods.
 
 - [JetBrains Academy](https://www.jetbrains.com/academy/) - Learn to Program by
-Creating Working Applications
+Creating Working Applications.
 
 - [Kotlin Koans](https://play.kotlinlang.org/koans/) - Kotlin Koans is a series of exercises to get you familiar with the Kotlin syntax and some idioms. Each exercise is created as a failing unit test, and your job is to make it pass. Here you can play with Koans online, but the same version of exercises is also available via JetBrains educational plugin right inside IntelliJ IDEA or Android Studio.
 
 - [Material Design](https://material.io/) - Material is a design system – backed by open-source code – that helps teams build high-quality digital experiences.
 
-- [Android Developer Roadmap 2020](https://github.com/mobile-roadmap/android-developer-roadmap) - Android Developer Roadmap 2020
+- [Android Developer Roadmap 2020](https://github.com/mobile-roadmap/android-developer-roadmap) - Android Developer Roadmap 2020.
 
 
-#### [ZH]
+#### ZH
 
-- [xitu](http://e.xitu.io/) - Open-source Projects
+- [xitu](http://e.xitu.io/) - Open-source Projects.
 
-- [codekk](https://p.codekk.com/) - Open-source Projects
+- [codekk](https://p.codekk.com/) - Open-source Projects.
 
-- [CTOlib](https://www.ctolib.com/android/) - Libraries Collection
-
+- [CTOlib](https://www.ctolib.com/android/) - Libraries Collection.
 
 ## Open-source projects
 
-- https://github.com/androiddevnotes/awesome-android-kotlin-apps
+- [Awesome Android Kotlin Apps](https://github.com/androiddevnotes/awesome-android-kotlin-apps) - A curated list of awesome android kotlin apps by open-source contributors.
 
-  - :eyeglasses: A curated list of awesome android kotlin apps by open-source contributors.
-
-- https://docs.github.com/en/github/searching-for-information-on-github/about-searching-on-github
-
-  - Use the advanced search on GitHub and find open-source projects to your liking.
+- [GitHub Advanced Search](https://docs.github.com/en/github/searching-for-information-on-github/about-searching-on-github) - Use the advanced search on GitHub and find open-source projects to your liking.
 
 ## Android and Kotlin Conferences
 
@@ -884,7 +877,7 @@ Creating Working Applications
 
 - [Android Dev Summit](https://developer.android.com/dev-summit) - Android Dev Summit.
 
-- [droidcon](https://www.droidcon.com/) - droidcon Berlin is where the industry's leading Android experts converge to support the Android platform and create a strong network for developers and companies. Starting with 300 attendees in 2009, we will attract well over 1300+ developers in 2021.
+- [droidcon](https://www.droidcon.com/) - Droidcon Berlin is where the industry's leading Android experts converge to support the Android platform and create a strong network for developers and companies. Starting with 300 attendees in 2009, we will attract well over 1300+ developers in 2021.
 
 - [QCon Software Conferences](https://qconferences.com/) - Helping senior software developers adopt
 new technologies and practices.
@@ -921,32 +914,32 @@ new technologies and practices.
 
 - [DEVit](https://devitconf.org/) - DEVit is the leading web developer conference in South East Europe. Organized once per year, DEVit has become known for its top speaking talent, a mixture of world-class and world-renowned developers, highly specialized technology niches and developers who are on the edge of technology frontiers.
 
-- [DevBreak ](https://www.devbreak.io/) - DevBreak is a 2-day tech festival.
+- [DevBreak](https://www.devbreak.io/) - DevBreak is a 2-day tech festival.
 
 - [ADDC](https://addconf.com/) - Single-track international conference for iOS & Android developers and UX/UI designers in Barcelona, Spain.
 
-#### [JA]
+#### JA
 
 - [DroidKaigi](https://droidkaigi.jp/) - DroidKaigi Conferences.
 
 
-#### [DE]
+#### DE
 
-- [MobileTech](https://mobiletechcon.de/) - Das Konferenz- und Trainingsevent für Mobile Development.
+- [MobileTech](https://mobiletechcon.de/) - The conference and training event for mobile development.
 
-#### [RU]
+#### RU
 
-- [mobius-piter](https://mobius-piter.ru/) - Конференция по мобильной разработке.
+- [mobius-piter](https://mobius-piter.ru/) - Conference on mobile development.
 
-- [CodeFest O!](https://o.codefest.ru/) - Онлайн прошёл, а записи остались.
+- [CodeFest O!](https://o.codefest.ru/) - CodeFest O Conferences.
 
 ## Communities
 
-#### [EN]
+#### EN
 
 - [SuperUser](http://superuser.com/) - Super User is a question and answer site for computer enthusiasts and power users.
 
-- [StackOverflow](https://stackoverflow.com/) - We build products that empower developers and connect them to solutions that enable productivity, growth, and discovery.
+- [Stack Overflow](https://stackoverflow.com/) - We build products that empower developers and connect them to solutions that enable productivity, growth, and discovery.
 
 - [r/android_devs/](https://www.reddit.com/r/android_devs/) - A place where all Android developers can speak openly and respectfully about the problems they face when developing and publishing applications, give valuable tips, open constructive architectural discussions, discuss the present and future of programming in Android and seek help when specialized sites do not provide solutions.
 
@@ -958,13 +951,13 @@ new technologies and practices.
 
 - [Kotlin Community](https://kotlinlang.org/community/) - Kotlin Slack Community.
 
-#### [ZH]
+#### ZH
 
 - [SegmentFault](https://segmentfault.com/) - SegmentFault for Q/A for Chinese Developers.
 
 - [GoogleDevelopers WeChat](https://developers.google.cn/china/#follow-google-developers-on-wechat) - GoogleDevelopers WeChat for Chinese Developers.
 
-- [GoogleDevelopers Weibo](http://weibo.com/GoogleDevelopers) - GoogleDevelopers Weibo for Chinese Developers. 
+- [GoogleDevelopers Weibo](http://weibo.com/GoogleDevelopers) - GoogleDevelopers Weibo for Chinese Developers.
 
 
 ## :memo: Contributing
