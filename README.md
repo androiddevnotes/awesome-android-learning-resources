@@ -59,11 +59,7 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 ## Jetpack Compose Learning Resources
 
-- https://github.com/androiddevnotes/learn-jetpack-compose-android
-
-  - 👓 A continuously updated list of learning Jetpack Compose for Android apps.
-
-  - Learn Jetpack Compose Android aims to be your starting point to find the finest learning content for Jetpack Compose suites of libraries.
+- [Jetpack Compose Learning Resources](https://github.com/androiddevnotes/learn-jetpack-compose-android) - A continuously updated list of learning Jetpack Compose for Android apps.
 
 ## Books 
 
