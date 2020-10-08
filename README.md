@@ -907,62 +907,63 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 - https://events.codemotion.com/
 
-- https://devternity.com/
+- [DevTernity](https://devternity.com/) - Turning developers into architects and engineering leaders.
 
-- https://gotopia.tech/
+- [GOTOpia](https://gotopia.tech/) - GOTO Conferences
 
-- https://touraine.tech/
+- [Touraine](https://touraine.tech/) - Touraine Tech
 
-- http://romobos.com/
+- [MOBOS](http://romobos.com/) - Mobile Operating Systems Conference
 
-- https://greachconf.com/
+- [Greach](https://greachconf.com/) - Microservices, JVM Frameworks & JVM Langs
 
-- https://devoxx.com/
+- [Devoxx](https://devoxx.com/) - From developers, For developers
 
-- https://t3chfest.es/
+- [t3chfest](https://t3chfest.es/) - t3chfest
 
-- https://o.codefest.ru/
+- [CodeFest O!](https://o.codefest.ru/) [RU] - Онлайн прошёл, а записи остались.
 
-- https://mobiletechcon.de/
+- [MobileTech](https://mobiletechcon.de/) [DE] - Das Konferenz- und Trainingsevent für Mobile Development
 
-- https://www.f8.com/
+- [Facebook Developer Conference](https://www.f8.com/) - A conversation about technology and human connection
 
-- https://mdevcamp.eu/
+- [mdevcamp](https://mdevcamp.eu/) - Virtual 3D conference for mobile developers
 
-- https://devitconf.org/
+- [DEVit](https://devitconf.org/) - DEVit is the leading web developer conference in South East Europe. Organized once per year, DEVit has become known for its top speaking talent, a mixture of world-class and world-renowned developers, highly specialized technology niches and developers who are on the edge of technology frontiers.
 
-- https://www.devbreak.io/
+- [DevBreak ](https://www.devbreak.io/) - DevBreak is a 2-day tech festival
 
-- https://mobius-piter.ru/
+- [mobius-piter](https://mobius-piter.ru/) [RU] - Конференция по мобильной разработке
 
-- https://addconf.com/
+- [ADDC](https://addconf.com/) - Single-track international conference for iOS & Android developers and UX/UI designers in Barcelona, Spain.
+
 
 
 ## Communities
 
 #### [EN]
 
-- http://superuser.com/ 
+- [SuperUser](http://superuser.com/) 
 
-- https://stackoverflow.com/ 
+- [StackOverflow](https://stackoverflow.com/) 
 
-- https://www.reddit.com/r/android_devs/
+- [r/android_devs/](https://www.reddit.com/r/android_devs/)
 
-- https://www.reddit.com/r/androiddev/
+- [r/androiddev/](https://www.reddit.com/r/androiddev/)
 
 - [Android Dev Discord](https://discord.gg/sNgBNng)
 
 - [Programming Discussions Discord](http://invite.progdisc.club/)
 
-- https://kotlinlang.org/community/
+- [Kotlin Community](https://kotlinlang.org/community/)
 
 #### [ZH]
 
-- https://segmentfault.com/ [ZH]
+- [SegmentFault](https://segmentfault.com/) [ZH]
 
-- https://developers.google.cn/china/#follow-google-developers-on-wechat [ZH]
+- [GoogleDevelopers WeChat](https://developers.google.cn/china/#follow-google-developers-on-wechat) [ZH]
 
-- http://weibo.com/GoogleDevelopers [ZH]
+- [GoogleDevelopers Weibo](http://weibo.com/GoogleDevelopers) [ZH]
 
 
 ## :memo: Contributing
