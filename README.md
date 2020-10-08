@@ -825,13 +825,13 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 #### [EN]
 
-- [](https://androidx.tech/)
+- [AndroidX Tech](https://androidx.tech/) - Here you will find details about all of the artifacts and packages that make up the AndroidX family.
 
-- [](https://reposhub.com/android)
+- [ReposHub](https://reposhub.com/android) - A curated list of awesome Android libraries and resources.
 
-- [](https://android-arsenal.com/)
+- [Android Arsenal](https://android-arsenal.com/) -  Android developer portal with tools, libraries, and apps.
 
-- [](https://android.libhunt.com/)
+- [Awesome Android](https://android.libhunt.com/) - A curated list of awesome Android packages and resources.
 
 - [Android Ecosystem Cheat Sheet](https://github.com/igorwojda/android-ecosystem-cheat-sheet) - This project maps most important parts of Android-Ecosystem (200+ tools, services, plusings & libraries). This is the most complete and most up to date picture of Android ecosystem you will find on the web. Some technologies are complementary, while others represent alternatives solutions for the same problem.
 
@@ -961,11 +961,11 @@ new technologies and practices.
 
 #### [ZH]
 
-- [SegmentFault](https://segmentfault.com/) [ZH]
+- [SegmentFault](https://segmentfault.com/) [ZH] - SegmentFault for Q/A for Chinese Developers.
 
-- [GoogleDevelopers WeChat](https://developers.google.cn/china/#follow-google-developers-on-wechat) [ZH]
+- [GoogleDevelopers WeChat](https://developers.google.cn/china/#follow-google-developers-on-wechat) [ZH] - GoogleDevelopers WeChat for Chinese Developers.
 
-- [GoogleDevelopers Weibo](http://weibo.com/GoogleDevelopers) [ZH]
+- [GoogleDevelopers Weibo](http://weibo.com/GoogleDevelopers) [ZH] - GoogleDevelopers Weibo for Chinese Developers.
 
 
 ## :memo: Contributing
