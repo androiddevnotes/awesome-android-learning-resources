@@ -605,15 +605,15 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 - [Ryan Harter](https://ryanharter.com/) - Android Development Blogs by Ryan Harter.
 
-- [](http://michaelevans.org/)
+- [MICHAEL EVANS](http://michaelevans.org/) - A bunch of technobabble.
 
-- [](https://blog.egorand.me/)
+- [egorand](https://blog.egorand.me/) - Android, Kotlin and other tech.
 
-- [](https://publicobject.com/)
+- [PUBLIC OBJECT](https://publicobject.com/) - PUBLIC OBJECT blogs.
 
-- [](https://blog.stylingandroid.com/)
+- [stylingandroid](https://blog.stylingandroid.com/) - Blog by Mark Allison.
 
-- [](https://www.coroutinedispatcher.com/)
+- [coroutinedispatcher](https://www.coroutinedispatcher.com/) - Coroutinedispatchers' blog.
 
 - [Hellsoft](https://www.hellsoft.se/) - Blog posts about code.
 
