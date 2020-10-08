@@ -28,32 +28,33 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 ## Contents
 
-- [Jetpack Compose Learning Resources](https://github.com/androiddevnotes/awesome-android-learning-resources#jetpack-compose-learning-resources)
+- [Jetpack Compose Learning Resources](#jetpack-compose-learning-resources)
 
-- [Books](https://github.com/androiddevnotes/awesome-android-learning-resources#books)
+- [Books](#books)
 
-- [Video Courses](https://github.com/androiddevnotes/awesome-android-learning-resources#video-courses)
+- [Video Courses](#video-courses)
 
-- [YouTube Channels](https://github.com/androiddevnotes/awesome-android-learning-resources#youtube-channels)
+- [YouTube Channels](#youtube-channels)
 
-- [Twitch Channels](https://github.com/androiddevnotes/awesome-android-learning-resources#twitch-channels)
+- [Twitch Channels](#twitch-channels)
     
-- [Blogs and Tutorial Websites](https://github.com/androiddevnotes/awesome-android-learning-resources#blogs-and-tutorial-websites)
+- [Blogs and Tutorial Websites](#blogs-and-tutorial-websites)
 
-- [Podcasts](https://github.com/androiddevnotes/awesome-android-learning-resources#podcasts)
+- [Podcasts](#podcasts)
 
-- [Newsletters](https://github.com/androiddevnotes/awesome-android-learning-resources#newsletters)
+- [Newsletters](#newsletters)
 
-- [Docs / Other](https://github.com/androiddevnotes/awesome-android-learning-resources#docs--other)
+- [Docs / Other](#docs--other)
 
-- [Open-source projects](https://github.com/androiddevnotes/awesome-android-learning-resources#open-source-projects)
+- [Open-source projects](#open-source-projects)
 
-- [Android and Kotlin Conferences](https://github.com/androiddevnotes/awesome-android-learning-resources#android-and-kotlin-conferences)
+- [Android and Kotlin Conferences](#android-and-kotlin-conferences)
 
-- [Communities](https://github.com/androiddevnotes/awesome-android-learning-resources#communities)
+- [Communities](#communities)
 
+- :memo: [**Contributing**](#memo-contributing)
 
-:memo: [**Contributing**](https://github.com/androiddevnotes/awesome-android-learning-resources#memo-contributing)
+- :computer: [**Find us on**](#computer-find-us-on) 
 
 
 ## Jetpack Compose Learning Resources
@@ -339,11 +340,11 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 -[Google: Associate Android Developer (AAD)](https://www.pluralsight.com/paths/google-android-associate-developer-aad)
 
-### [Freecodecamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ) courses - Listed a few courses | Visit site for full catalog
+### [Freecodecamp](https://www.youtube.com/Freecodecamp) courses - Listed a few courses | Visit site for full catalog
 
 - [Kotlin Course - Tutorial for Beginners](https://www.youtube.com/watch?v=F9UC9DY-vIU)
 
-### https://www.raywenderlich.com/ courses - Listed a few courses | Visit site for full catalog
+### raywenderlich.com courses - Listed a few courses | Visit site for full catalog
 
 - [Android Networking: Fundamentals](https://www.raywenderlich.com/10376651-android-networking-fundamentals)
 
@@ -421,7 +422,7 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 ### https://www.oreilly.com/ courses - Visit site for full catalog 
 
-#### [TR]
+#### TR
 
 ### https://gelecegiyazanlar.turkcell.com.tr/konu/android [TR] courses - Visit site for full catalog
 
@@ -534,11 +535,11 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 - [DevExperto - Antonio Leiva](https://www.youtube.com/c/DevExperto/)
 
-#### [FR]
+#### FR
 
 - [DrcMDev](https://www.youtube.com/channel/UCM5yhphpMeNDmNUP-dW2mHw/)
 
-#### [TR]
+#### TR
 
 - [Uygula Öğren - Web Tasarım ve Yazılım Dersleri](https://www.youtube.com/channel/UCm8oo9Eg29-Tg00Q4lYMUIQ)
 
@@ -546,13 +547,13 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 #### EN
 
-- [intelligibabble](https://www.twitch.tv/intelligibabble) - Leland Richardson
+- [intelligibabble](https://www.twitch.tv/intelligibabble) - Leland Richardson.
 
-- [adammc331](https://www.twitch.tv/adammc331) - Adam McNeilly
+- [adammc331](https://www.twitch.tv/adammc331) - Adam McNeilly.
   
-- [Elliott_Troop](https://www.twitch.tv/elliott_troop) - Elliott Troop
+- [Elliott_Troop](https://www.twitch.tv/elliott_troop) - Elliott Troop.
 
-- [ThePocmo](https://www.twitch.tv/ThePocmo) - ThePocmo
+- [ThePocmo](https://www.twitch.tv/ThePocmo) - ThePocmo.
 
 
 ## Blogs and Tutorial Websites
@@ -593,7 +594,7 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 - [lordcodes](https://www.lordcodes.com/android/) - All content aimed at Android and Kotlin developers.
 
-- [AlexZH Dev](https://alexzh.com/) - alexzh blogs.
+- [AlexZH Dev](https://alexzh.com/) - AlexZH blogs.
 
 - [TechYourChance](https://www.techyourchance.com/) - TechYourChance by Vasiliy Zukanov.
 
@@ -623,7 +624,7 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 - [Future Studio](https://futurestud.io/) - Skyrocket in Android and Node.js.
 
-- [zsmb.co](https://zsmb.co/) - zsmb.co by Márton Braun.
+- [zsmb.co](https://zsmb.co/) - Blog by Márton Braun.
 
 - [dev.to](https://dev.to/) - Social Network for Developers.
 
@@ -631,13 +632,13 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 - [Android Developers](https://medium.com/androiddevelopers) - The official Android Developers publication on Medium.
 
-- [krinotech](https://krinotech.com/) - krinotech blog.
+- [krinotech](https://krinotech.com/) - Krinotech blog.
 
 - [Inspire Coding](https://inspirecoding.app/) - Android development in Kotlin.
 
 - [Android Developer Roadmap](https://roadmap.sh/android) - Step by step guide to becoming an Android developer.
 
-- [goobar](https://goobar.io/) - goobar by Nate Ebel. 
+- [goobar](https://goobar.io/) - Blog by Nate Ebel.
 
 - [The Coding Troops](https://codingtroops.com/) - Develop maintainable and scalable Android & iOS apps.
 
@@ -647,13 +648,13 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 - [Dan Lew](https://blog.danlew.net/) - Thoughts on life, the universe and the mystery of it all; but actually mostly just code.
 
-- [The CommonsBlog](https://commonsware.com/blog/) - The CommonsBlog by CommonsWare
+- [The CommonsBlog](https://commonsware.com/blog/) - The CommonsBlog by CommonsWare.
 
 - [ProAndroidDev](https://proandroiddev.com/) - Professional Android Development: the latest posts from Android Professionals and Google Developer Experts.
 
 - [MindOrks](https://mindorks.com/) - Learn Android App Development.
 
-- [vogella](http://vogella.com/) - Android Tutorials by vogella
+- [vogella](http://vogella.com/) - Android Tutorials by vogella.
 
 - [bignerdranch](https://www.bignerdranch.com/resources/blog/) - BLOGS FROM THE RANCH.
 
@@ -685,7 +686,7 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 #### ID
 
-- [](https://www.codepolitan.com/) [ID] 
+- [codepolitan](https://www.codepolitan.com/) - Learn Coding Now, Develop Your Future.
 
 ### Kotlin language-focused
 
@@ -713,7 +714,7 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 - [Bennyhuo](https://www.bennyhuo.com/) - Bennyhuo Blog.
 
-- [kotlin-in-chinese](https://github.com/huanglizhuo/kotlin-in-chinese) - kotlin 官方文档翻译 on GitHub.
+- [kotlin-in-chinese](https://github.com/huanglizhuo/kotlin-in-chinese) - Kotlin 官方文档翻译 on GitHub.
 
 - [kaixue](https://kaixue.io/) - A guide to Kotlin for Android engineers.
 
@@ -735,7 +736,7 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 #### ES
 
-- [](https://androiddevpodcast.com/)
+- [Android Dev Podcast](https://androiddevpodcast.com/) - Android Dev Podcast.
 
 #### RU
 
