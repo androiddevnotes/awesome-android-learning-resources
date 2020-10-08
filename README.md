@@ -65,183 +65,95 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 ### Android focused
 
-- [Android Internals: A Confectioner's Cookbook](http://newandroidbook.com/)
+- [Android Internals: A Confectioner's Cookbook](http://newandroidbook.com/) - Deals exclusively with the internals of the Android operating system.
 
-  - Deals exclusively with the internals of the Android operating system.
+- [Android Apprentice](https://store.raywenderlich.com/products/android-apprentice) - Android Apprentice is the book for complete beginners to Android development.
 
-- [Android Apprentice](https://store.raywenderlich.com/products/android-apprentice)
+- [Reactive Programming with Kotlin](https://store.raywenderlich.com/products/reactive-programming-with-kotlin) - The book that teaches you to use RxJava, RxAndroid and RxKotlin to create complex reactive applications on Android and exercise full control over the library to leverage the full power of reactive programming in your apps.
 
-  - Android Apprentice is the book for complete beginners to Android development.
+- [Android Test-Driven Development by Tutorials](https://store.raywenderlich.com/products/android-test-driven-development-by-tutorials) - A book that teaches you to write sustainable, testable apps, as well as to apply testing strategies to legacy projects via Espresso and UI tests, code coverage and refactoring.
 
-- [Reactive Programming with Kotlin](https://store.raywenderlich.com/products/reactive-programming-with-kotlin)
+- [Advanced Android App Architecture](https://store.raywenderlich.com/products/advanced-android-app-architecture) - In Advanced Android App Architectures, you'll find a diverse and hands-on approach to architecting your apps on Android. Learn how to build scaleable and maintainable architectures in Android and Kotlin, including MVC, MVP, MVI, MVVM and VIPER!
 
-  - The book that teaches you to use RxJava, RxAndroid and RxKotlin to create complex reactive applications on Android and exercise full control over the library to leverage the full power of reactive programming in your apps.
+- [Saving Data on Android](https://store.raywenderlich.com/products/saving-data-on-android) - A book that will teach you to persist data on Android — saving locally or remotely — along with the modern techniques for synchronization, allowing your app to be reactive and always up-to-date.
 
-- [Android Test-Driven Development by Tutorials](https://store.raywenderlich.com/products/android-test-driven-development-by-tutorials)
+- [Data Structures & Algorithms in Kotlin](https://store.raywenderlich.com/products/data-structures-and-algorithms-in-kotlin) - A book that teaches you the fundamental tools of implementing key data structures in Kotlin, and how to use them to solve algorithms.
 
-  - A book that teaches you to write sustainable, testable apps, as well as to apply testing strategies to legacy projects via Espresso and UI tests, code coverage and refactoring.
+- [Kotlin for Android App Development](https://kotlinandroidbook.com/) - This book hits the sweet spot between theory and practice, teaches you the best practices for object-orientation, functional programming, interoperability and more in Kotlin, and gives you a practical intro with hundreds of code listings.
 
-- [Advanced Android App Architecture](https://store.raywenderlich.com/products/advanced-android-app-architecture)
+- [Elements of Android Jetpack](https://commonsware.com/Jetpack/) - This book follows in the footsteps of The Busy Coder’s Guide to Android Development, to introduce developers to Android app development, focusing on Jetpack. Here you will learn how to set up an Android app for Java or Kotlin, create a user interface, and more!
 
-  - In Advanced Android App Architectures, you'll find a diverse and hands-on approach to architecting your apps on Android. Learn how to build scaleable and maintainable architectures in Android and Kotlin, including MVC, MVP, MVI, MVVM and VIPER!
+- [Exploring Android](https://commonsware.com/AndExplore/) - This book has you build an app from the beginning. Whereas traditional programming guides are focused on breadth and depth, this book is focused on “hands-on”, guiding you through the steps to build the app. It provides a bit of details on the underlying concepts, but it relies on other resources — such as Elements of Android Jetpack — for the full explanation of those details. Instead, this book provides step-by-step instructions for building the app.
 
-- [Saving Data on Android](https://store.raywenderlich.com/products/saving-data-on-android)
+- [Elements of Android R](https://commonsware.com/R/) - Each new release brings new opportunities and new challenges for Android developers. Many of the new challenges are extensions of the problems introduced in last year’s Android 10. So, if you are worried about further changes to storage or permissions, or you are nervous about new restrictions being placed on developers, this book is for you!
 
-  - A book that will teach you to persist data on Android — saving locally or remotely — along with the modern techniques for synchronization, allowing your app to be reactive and always up-to-date.
+- [Elements of Android Room](https://commonsware.com/Room/) - This book explores Room.
 
-- [Data Structures & Algorithms in Kotlin](https://store.raywenderlich.com/products/data-structures-and-algorithms-in-kotlin)
+- [Elements of Android Q](https://commonsware.com/Q/) - As usual, Android 10 changed some things that affect developers and apps. This book profiles those changes and helps point out what you need to do to adjust your app to cope with those changes. So, if you are worried about the death of external storage and other things that Android 10 brings with it, this book is for you!
 
-  - A book that teaches you the fundamental tools of implementing key data structures in Kotlin, and how to use them to solve algorithms.
+- [Learning RxJava](https://www.packtpub.com/in/programming/learning-rxjava-3-second-edition) - In this book, you’ll cover the core fundamentals of reactive programming and learn how to design and implement reactive libraries and applications.
 
-- [Kotlin for Android App Development](https://kotlinandroidbook.com/)
+- [Gradle Recipes for Android](https://www.oreilly.com/library/view/gradle-recipes-for/9781491947272/) - This hands-on guide provides a collection of Gradle recipes to help you quickly and easily accomplish the most common build tasks for your Android apps. You’ll learn how to customize project layouts, add dependencies, and generate many different versions of your app.
 
-  - This book hits the sweet spot between theory and practice, teaches you the best practices for object-orientation, functional programming, interoperability and more in Kotlin, and gives you a practical intro with hundreds of code listings.
+- [Kotlin for Android Developers](https://antonioleiva.com/kotlin-android-developers-book/) - Kotlin for Android Developers.
 
-- [Elements of Android Jetpack](https://commonsware.com/Jetpack/)
+- [Android™ Notes for Professionals book](https://books.goalkicker.com/AndroidBook/) - Android™ Notes for Professionals book
 
-  - This book follows in the footsteps of The Busy Coder’s Guide to Android Development, to introduce developers to Android app development, focusing on Jetpack. Here you will learn how to set up an Android app for Java or Kotlin, create a user interface, and more!
+- [Android System Programming](https://www.oreilly.com/library/view/android-system-programming/9781787125360/) - Build, customize, and debug your own Android system
 
-- [Exploring Android](https://commonsware.com/AndExplore/)
+- [Head First Android Development](https://www.oreilly.com/library/view/head-first-android/9781491974049/) - You’ll learn hands-on how to structure your app, design flexible and interactive interfaces, run services in the background, make your app work on various smartphones and tablets, and much more. It’s like having an experienced Android developer sitting right next to you! All you need to get started is some Java know-how
 
-  - This book has you build an app from the beginning. Whereas traditional programming guides are focused on breadth and depth, this book is focused on “hands-on”, guiding you through the steps to build the app. It provides a bit of details on the underlying concepts, but it relies on other resources — such as Elements of Android Jetpack — for the full explanation of those details. Instead, this book provides step-by-step instructions for building the app.
+- [Professional Android](https://www.oreilly.com/library/view/professional-android-4th/9781118949528/) - Professional Android, 4th Edition shows developers how to leverage the latest features of Android to create robust and compelling mobile apps. This hands-on approach provides in-depth coverage through a series of projects, each introducing a new Android platform feature and highlighting the techniques and best practices that exploit its utmost functionality.
 
-- [Elements of Android R](https://commonsware.com/R/)
+- [Android Studio 3.6 Development Essentials](https://www.oreilly.com/library/view/android-studio-36/9781800560970/) - Update your Android studio skills and build modern Android applications using Java
 
-  - Each new release brings new opportunities and new challenges for Android developers. Many of the new challenges are extensions of the problems introduced in last year’s Android 10. So, if you are worried about further changes to storage or permissions, or you are nervous about new restrictions being placed on developers, this book is for you!
+- [Mastering Firebase for Android Development](https://www.oreilly.com/library/view/mastering-firebase-for/9781788624718/) - Develop a fully functional dynamic Android application using the latest features of Firebase
 
-- [Elements of Android Room](https://commonsware.com/Room/)
+- [The Busy Coder's Guide to Android Development](https://commonsware.com/Android/) - This book contains over 200 chapters, covering everything from the first steps in getting an app going to advanced development techniques. Use the search field in the nav bar to see what is inside this book and the rest of the CommonsWare library!
 
-  - This book explores Room.
+- [Android's Architecture Components](https://commonsware.com/AndroidArch/) - This book dives deep into the Architecture Components, showing you how they work individually and in concert. With dozens of sample projects, the book covers much of what blog posts miss, in terms of how to make this library work in practice.
 
-- [Elements of Android Q](https://commonsware.com/Q/)
-
-  - As usual, Android 10 changed some things that affect developers and apps. This book profiles those changes and helps point out what you need to do to adjust your app to cope with those changes. So, if you are worried about the death of external storage and other things that Android 10 brings with it, this book is for you!
-
-- [Learning RxJava](https://www.packtpub.com/in/programming/learning-rxjava-3-second-edition)
-
-  - In this book, you’ll cover the core fundamentals of reactive programming and learn how to design and implement reactive libraries and applications.
-
-- [Gradle Recipes for Android](https://www.oreilly.com/library/view/gradle-recipes-for/9781491947272/)
-
-  - This hands-on guide provides a collection of Gradle recipes to help you quickly and easily accomplish the most common build tasks for your Android apps. You’ll learn how to customize project layouts, add dependencies, and generate many different versions of your app.
-
-- [Kotlin for Android Developers](https://antonioleiva.com/kotlin-android-developers-book/)
-
-  - Kotlin for Android Developers.
-
-- [Android™ Notes for Professionals book](https://books.goalkicker.com/AndroidBook/)
-
-  - Android™ Notes for Professionals book
-
-- [Android System Programming](https://www.oreilly.com/library/view/android-system-programming/9781787125360/)
-
-  - Build, customize, and debug your own Android system
-
-- [Head First Android Development](https://www.oreilly.com/library/view/head-first-android/9781491974049/)
-
-  - You’ll learn hands-on how to structure your app, design flexible and interactive interfaces, run services in the background, make your app work on various smartphones and tablets, and much more. It’s like having an experienced Android developer sitting right next to you! All you need to get started is some Java know-how
-
-- [Professional Android](https://www.oreilly.com/library/view/professional-android-4th/9781118949528/)
-
-  - Professional Android, 4th Edition shows developers how to leverage the latest features of Android to create robust and compelling mobile apps. This hands-on approach provides in-depth coverage through a series of projects, each introducing a new Android platform feature and highlighting the techniques and best practices that exploit its utmost functionality.
-
-- [Android Studio 3.6 Development Essentials](https://www.oreilly.com/library/view/android-studio-36/9781800560970/)
-
-  - Update your Android studio skills and build modern Android applications using Java
-
-- [Mastering Firebase for Android Development](https://www.oreilly.com/library/view/mastering-firebase-for/9781788624718/)
-
-  - Develop a fully functional dynamic Android application using the latest features of Firebase
-
-- [The Busy Coder's Guide to Android Development](https://commonsware.com/Android/)
-
-  - This book contains over 200 chapters, covering everything from the first steps in getting an app going to advanced development techniques. Use the search field in the nav bar to see what is inside this book and the rest of the CommonsWare library!
-
-- [Android's Architecture Components](https://commonsware.com/AndroidArch/)
-
-  - This book dives deep into the Architecture Components, showing you how they work individually and in concert. With dozens of sample projects, the book covers much of what blog posts miss, in terms of how to make this library work in practice.
-
-- [Android Programming: The Big Nerd Ranch Guide](https://www.bignerdranch.com/books/android-programming-the-big-nerd-ranch-guide-4th/)
-
-  - Dive in to learn the foundations of Android application development. The content is now in Kotlin and updated with modern Android practices.
+- [Android Programming: The Big Nerd Ranch Guide](https://www.bignerdranch.com/books/android-programming-the-big-nerd-ranch-guide-4th/) - Dive in to learn the foundations of Android application development. The content is now in Kotlin and updated with modern Android practices.
 
 ### Kotlin language-focused
 
-- [Kotlin Cookbook](https://www.oreilly.com/library/view/kotlin-cookbook/9781492046660/)
+- [Kotlin Cookbook](https://www.oreilly.com/library/view/kotlin-cookbook/9781492046660/) - Use Kotlin to build Android apps, web applications, and more—while you learn the nuances of this popular language. With this unique cookbook, developers will learn how to apply thisJava-based language to their own projects. Both experienced programmers and those new to Kotlin will benefit from the practical recipes in this book.
 
-  - Use Kotlin to build Android apps, web applications, and more—while you learn the nuances of this popular language. With this unique cookbook, developers will learn how to apply thisJava-based language to their own projects. Both experienced programmers and those new to Kotlin will benefit from the practical recipes in this book.
+- [Kotlin Apprentice](https://store.raywenderlich.com/products/kotlin-apprentice) - Learn programming with Kotlin! The Kotlin Apprentice is a book designed for complete beginners to Kotlin, a modern language used for Android development.
 
-- [Kotlin Apprentice](https://store.raywenderlich.com/products/kotlin-apprentice)
+- [Kotlin Coroutines by Tutorials](https://store.raywenderlich.com/products/kotlin-coroutines-by-tutorials) - Android is inherently asynchronous and event-driven, with strict requirements as to on which thread certain things can happen. Learn how to use Kotlin coroutines to solve common Android programming problems using asynchronous programming techniques!
 
-  - Learn programming with Kotlin! The Kotlin Apprentice is a book designed for complete beginners to Kotlin, a modern language used for Android development.
+- [Functional Kotlin](https://www.amazon.com/gp/product/B078JRKFYF/) - Learn how to apply Functional Programming with Kotlin to real-life projects with popular libraries like Arrow.
 
-- [Kotlin Coroutines by Tutorials](https://store.raywenderlich.com/products/kotlin-coroutines-by-tutorials)
+- [Hands-On Data Structures and Algorithms with Kotlin](https://www.amazon.com/gp/product/B07DTG2629) - Understand and solve complex computational problems and write efficient code with Kotlin
 
-  - Android is inherently asynchronous and event-driven, with strict requirements as to on which thread certain things can happen. Learn how to use Kotlin coroutines to solve common Android programming problems using asynchronous programming techniques!
+- [Elements of Kotlin Coroutines](https://commonsware.com/Coroutines/) - This book is designed to help you get “spun up” on coroutines and how they can be applied in your projects.
 
-- [Functional Kotlin](https://www.amazon.com/gp/product/B078JRKFYF/)
+- [Elements of Kotlin](https://commonsware.com/Kotlin/) - This introductory book to Kotlin focuses on helping existing programmers get up to speed on reading and writing Kotlin code. Particular emphasis is placed on the sorts of syntax and language capabilities that most Kotlin developers will need, with light coverage of the advanced capabilities that allow library developers to create easy-to-use APIs.
 
-  - Learn how to apply Functional Programming with Kotlin to real-life projects with popular libraries like Arrow.
+- [Programming Kotlin](https://www.oreilly.com/library/view/programming-kotlin/9781680507287/) - Kotlin is a highly concise, elegant, fluent, and expressive statically typed multi-paradigm language. It is one of the few languages that compiles down to both Java bytecode and JavaScript. You can use it to build server-side, front-end, and Android applications. With Kotlin, you need less code to accomplish your tasks, while keeping the code type-safe and less prone to error. If you want to learn the essentials of Kotlin, from the fundamentals to more advanced concepts, you've picked the right book.
 
-- [Hands-On Data Structures and Algorithms with Kotlin](https://www.amazon.com/gp/product/B07DTG2629)
+- [Kotlin docs](https://kotlinlang.org/docs/kotlin-docs.pdf) - Kotlin Language Documentation.
 
-  - Understand and solve complex computational problems and write efficient code with Kotlin
+- [Hands-on Design Patterns with Kotlin](https://www.packtpub.com/in/application-development/hands-design-patterns-kotlin) - The mission of this book is to ease the adoption of design patterns in Kotlin and provide good practices for programmers.
 
-- [Elements of Kotlin Coroutines](https://commonsware.com/Coroutines/)
+- [Learning Concurrency in Kotlin](https://www.packtpub.com/in/application-development/learning-concurrency-kotlin) - Beginning with an introduction to Kotlin's coroutines, you will learn how to write concurrent code and understand the fundamental concepts needed to be able to write multithreaded software in Kotlin. You'll explore how to communicate between and synchronize your threads and coroutines to write asynchronous applications that are collaborative. You'll also learn how to handle errors and exceptions, as well as how to leverage multi-core processing. In addition to this, you’ll delve into how coroutines work internally, allowing you to see the bigger picture. Throughout the book you'll build an Android application – an RSS reader – designed and implemented according to the different topics covered in the book
 
-  - This book is designed to help you get “spun up” on coroutines and how they can be applied in your projects.
+- [Learn Kotlin Programming](https://www.packtpub.com/in/application-development/learn-kotlin-programming-second-edition) - Kotlin is a general-purpose programming language used for developing cross-platform applications. Complete with a comprehensive introduction and projects covering the full set of Kotlin programming features, this book will take you through the fundamentals of Kotlin and get you up to speed in no time.
 
-- [Elements of Kotlin](https://commonsware.com/Kotlin/)
+- [Effective Kotlin](https://leanpub.com/effectivekotlin) - Effective Kotlin summarizes the best practices and experiences of the Kotlin community, together with a deep explanation of some lesser-known Kotlin functionalities. All of the best practices are presented as simple rules with detailed explanations.
 
-  - This introductory book to Kotlin focuses on helping existing programmers get up to speed on reading and writing Kotlin code. Particular emphasis is placed on the sorts of syntax and language capabilities that most Kotlin developers will need, with light coverage of the advanced capabilities that allow library developers to create easy-to-use APIs.
+- [Kotlin Programming: The Big Nerd Ranch Guide Book](https://www.bignerdranch.com/books/kotlin-programming-the-big-nerd-ranch-guide-2/) - Learn the new language that’s taking the Android world by storm in Kotlin Programming: The Big Nerd Ranch Guide.
 
-- [Programming Kotlin](https://www.oreilly.com/library/view/programming-kotlin/9781680507287/)
+- [Mastering Kotlin](https://www.packtpub.com/in/application-development/mastering-kotlin) - By the end of the book, you'll have obtained an advanced understanding of Kotlin in order to be able to build production-grade applications.
 
-  - Kotlin is a highly concise, elegant, fluent, and expressive statically typed multi-paradigm language. It is one of the few languages that compiles down to both Java bytecode and JavaScript. You can use it to build server-side, front-end, and Android applications. With Kotlin, you need less code to accomplish your tasks, while keeping the code type-safe and less prone to error. If you want to learn the essentials of Kotlin, from the fundamentals to more advanced concepts, you've picked the right book.
+- [Kotlin in Action](https://www.manning.com/books/kotlin-in-action) - Kotlin in Action guides experienced Java developers from the language basics of Kotlin all the way through building applications to run on the JVM and Android devices.
 
-- [Kotlin docs](https://kotlinlang.org/docs/kotlin-docs.pdf)
+- [The Joy of Kotlin](https://www.manning.com/books/the-joy-of-kotlin) - The Joy of Kotlin teaches you to write comprehensible, easy-to-maintain, safe programs with Kotlin.
 
-  - Kotlin Language Documentation.
+- [Head First Kotlin](https://www.oreilly.com/library/view/head-first-kotlin/9781491996683/) - Head First Kotlin is a complete introduction to coding in Kotlin. This hands-on book helps you learn the Kotlin language with a unique method that goes beyond syntax and how-to manuals and teaches you how to think like a great Kotlin developer. You’ll learn everything from language fundamentals to collections, generics, lambdas, and higher-order functions. Along the way, you’ll get to play with both object-oriented and functional programming. If you want to really understand Kotlin, this is the book for you.
 
-- [Hands-on Design Patterns with Kotlin](https://www.packtpub.com/in/application-development/hands-design-patterns-kotlin)
-
-  - The mission of this book is to ease the adoption of design patterns in Kotlin and provide good practices for programmers.
-
-- [Learning Concurrency in Kotlin](https://www.packtpub.com/in/application-development/learning-concurrency-kotlin)
-
-  - . Beginning with an introduction to Kotlin's coroutines, you will learn how to write concurrent code and understand the fundamental concepts needed to be able to write multithreaded software in Kotlin. You'll explore how to communicate between and synchronize your threads and coroutines to write asynchronous applications that are collaborative. You'll also learn how to handle errors and exceptions, as well as how to leverage multi-core processing. In addition to this, you’ll delve into how coroutines work internally, allowing you to see the bigger picture. Throughout the book you'll build an Android application – an RSS reader – designed and implemented according to the different topics covered in the book
-
-- [Learn Kotlin Programming](https://www.packtpub.com/in/application-development/learn-kotlin-programming-second-edition)
-
-  - Kotlin is a general-purpose programming language used for developing cross-platform applications. Complete with a comprehensive introduction and projects covering the full set of Kotlin programming features, this book will take you through the fundamentals of Kotlin and get you up to speed in no time.
-
-- [Effective Kotlin](https://leanpub.com/effectivekotlin)
-
-  - Effective Kotlin summarizes the best practices and experiences of the Kotlin community, together with a deep explanation of some lesser-known Kotlin functionalities. All of the best practices are presented as simple rules with detailed explanations.
-
-- [Kotlin Programming: The Big Nerd Ranch Guide Book](https://www.bignerdranch.com/books/kotlin-programming-the-big-nerd-ranch-guide-2/)
-
-  - Learn the new language that’s taking the Android world by storm in Kotlin Programming: The Big Nerd Ranch Guide.
-
-- [Mastering Kotlin](https://www.packtpub.com/in/application-development/mastering-kotlin)
-
-  - By the end of the book, you'll have obtained an advanced understanding of Kotlin in order to be able to build production-grade applications.
-
-- [Kotlin in Action](https://www.manning.com/books/kotlin-in-action)
-
-  - Kotlin in Action guides experienced Java developers from the language basics of Kotlin all the way through building applications to run on the JVM and Android devices.
-
-- [The Joy of Kotlin](https://www.manning.com/books/the-joy-of-kotlin)
-
-  - The Joy of Kotlin teaches you to write comprehensible, easy-to-maintain, safe programs with Kotlin.
-
-- [Head First Kotlin](https://www.oreilly.com/library/view/head-first-kotlin/9781491996683/)
-
-  - Head First Kotlin is a complete introduction to coding in Kotlin. This hands-on book helps you learn the Kotlin language with a unique method that goes beyond syntax and how-to manuals and teaches you how to think like a great Kotlin developer. You’ll learn everything from language fundamentals to collections, generics, lambdas, and higher-order functions. Along the way, you’ll get to play with both object-oriented and functional programming. If you want to really understand Kotlin, this is the book for you.
-
-- [Kotlin Glossary](https://kotlin-glossary-ebook.caster.io/)
-
-  - A short, sweet 21-page ebook on Kotlin that has a lot of terminologies, code snippets and helpful tips to help you in your Kotlin journey, whether you're a beginner or someone who needs a Kotlin cheatsheet.📒
+- [Kotlin Glossary](https://kotlin-glossary-ebook.caster.io/) - A short, sweet 21-page ebook on Kotlin that has a lot of terminologies, code snippets and helpful tips to help you in your Kotlin journey, whether you're a beginner or someone who needs a Kotlin cheatsheet.📒
 
 
 ## Video Courses 
