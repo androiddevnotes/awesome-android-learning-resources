@@ -238,7 +238,7 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 - [To-Do App & Clean Architecture -Android Development - Kotlin](https://www.udemy.com/course/to-do-app-clean-architecture-android-development-kotlin/)
 
--[The Complete Android + Kotlin Developer Course](https://www.udemy.com/course/complete-kotlin-android-developer-course-tutorial/)
+- [The Complete Android + Kotlin Developer Course](https://www.udemy.com/course/complete-kotlin-android-developer-course-tutorial/)
 
 - [The Complete Android Oreo Developer Course - Build 23 Apps!](https://www.udemy.com/course/the-complete-android-oreo-developer-course/)
 
@@ -260,7 +260,7 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 - [Getting Started with Android Development By Nate Ebel](https://www.pluralsight.com/courses/getting-started-android-development)
 
--[Google: Associate Android Developer (AAD)](https://www.pluralsight.com/paths/google-android-associate-developer-aad)
+- [Google: Associate Android Developer (AAD)](https://www.pluralsight.com/paths/google-android-associate-developer-aad)
 
 ### [Freecodecamp](https://www.youtube.com/Freecodecamp) courses - Listed a few courses | Visit site for full catalog
 
