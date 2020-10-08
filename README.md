@@ -561,223 +561,219 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 #### [EN]
 
-- https://riggaroo.dev/
+- [](https://riggaroo.dev/)
 
-- https://blog.blundellapps.co.uk/
+- [](https://blog.blundellapps.co.uk/)
 
-- https://chrishorner.codes/
+- [](https://chrishorner.codes/)
 
-- https://gabrielfv.com/
+- [](https://gabrielfv.com/)
 
-- https://infinum.com/handbook/books/android/
+- [](https://infinum.com/handbook/books/android/)
   
-- https://www.journaldev.com/ 
+- [](https://www.journaldev.com/)
 
-- https://blog.jakelee.co.uk/
+- [](https://blog.jakelee.co.uk/)
 
-- https://www.rivu.dev/
+- [](https://www.rivu.dev/)
 
-- https://dzone.com/ 
+- [](https://dzone.com/)
 
-- https://greaterthannull.dev/
+- [](https://greaterthannull.dev/)
 
-- https://www.geeksforgeeks.org/ 
+- [](https://www.geeksforgeeks.org/)
 
-- https://www.tutorialspoint.com/ 
+- [](https://www.tutorialspoint.com/ )
 
-- https://www.edureka.co/
+- [](https://www.edureka.co/)
 
-- https://www.simplifiedcoding.net/ 
+- [](https://www.simplifiedcoding.net/) 
 
-- https://www.zacsweers.dev/
+- [](https://www.zacsweers.dev/)
 
-- https://developer.android.com/
+- [](https://developer.android.com/)
 
-- https://android.jlelse.eu/ 
+- [](https://android.jlelse.eu/ )
 
-- http://codingwithmitch.com/
+- [](http://codingwithmitch.com/)
 
-- http://codinginflow.com/ 
+- [](http://codinginflow.com/ )
 
-- https://jakewharton.com/
+- [](https://jakewharton.com/)
 
-- https://guides.codepath.com/android/
+- [](https://guides.codepath.com/android/)
 
-- http://freecodecamp.org/
+- [](http://freecodecamp.org/)
 
-- https://androidsweets.ongoodbits.com/
+- [](https://androidsweets.ongoodbits.com/)
 
-- https://www.lordcodes.com/android/
+- [](https://www.lordcodes.com/android/)
 
-- https://alexzh.com/
+- [](https://alexzh.com/)
 
-- https://www.techyourchance.com/
+- [](https://www.techyourchance.com/)
 
-- https://www.androidgig.com/
+- [](https://handstandsam.com/)
 
-- https://handstandsam.com/
+- [](https://segunfamisa.com/)
 
-- https://segunfamisa.com/
+- [](https://joebirch.co/)
 
-- https://joebirch.co/
+- [](https://ryanharter.com/)
 
-- https://ryanharter.com/
+- [](http://michaelevans.org/)
 
-- http://michaelevans.org/
+- [](https://blog.egorand.me/)
 
-- https://blog.egorand.me/
+- [](https://publicobject.com/)
 
-- https://publicobject.com/
+- [](https://blog.stylingandroid.com/)
 
-- https://blog.stylingandroid.com/
+- [](https://www.coroutinedispatcher.com/)
 
-- https://www.coroutinedispatcher.com/
+- [](https://www.hellsoft.se/)
 
-- https://www.hellsoft.se/
+- [](https://jorgecastillo.dev/)
 
-- https://jorgecastillo.dev/
+- [](https://androidexample365.com/)
 
-- https://androidexample365.com/
+- [](https://futurestud.io/)
 
-- https://futurestud.io/
+- [](https://zsmb.co/)
 
-- https://zsmb.co/
+- [](https://dev.to/)
 
-- https://blog.jkl.gg/
+- [](https://codelabs.developers.google.com/)
 
-- https://dev.to/
+- [](https://medium.com/androiddevelopers)
 
-- https://codelabs.developers.google.com/
+- [](https://hackernoon.com/)
 
-- https://medium.com/androiddevelopers
+- [](https://www.baeldung.com/)
 
-- https://hackernoon.com/
+- [](https://krinotech.com/)
 
-- https://www.baeldung.com/
+- [](https://inspirecoding.app/)
 
-- https://krinotech.com/
+- [](https://androidwave.com/)
 
-- https://inspirecoding.app/
+- [](https://roadmap.sh/android)
 
-- https://androidwave.com/
+- [](https://goobar.io/)
 
-- https://roadmap.sh/android
+- [](https://medium.com/)
 
-- https://goobar.io/
+- [](https://codingtroops.com/)
 
-- https://medium.com/
+- [](https://www.rockandnull.com/)
 
-- https://codingtroops.com/
+- [](https://vladsonkin.com/)
 
-- https://www.rockandnull.com/
+- [](https://blog.danlew.net/ )
 
-- https://vladsonkin.com/ 
+- [](https://commonsware.com/) 
 
-- https://blog.danlew.net/ 
+- [](https://proandroiddev.com/) 
 
-- https://commonsware.com/ 
+- [](https://mindorks.com/)
 
-- https://proandroiddev.com/ 
+- [](http://vogella.com/)
 
-- https://mindorks.com/ 
+- [](https://www.bignerdranch.com/) 
 
-- http://vogella.com/
+- [](https://antonioleiva.com/)
 
-- https://www.bignerdranch.com/ 
+- [](https://chetangupta.net/)
 
-- https://antonioleiva.com/
-
-- https://chetangupta.net/
-
-- https://www.raywenderlich.com/ 
+- [](https://www.raywenderlich.com/)
 
 #### [ES]
 
-- https://devexperto.com/ [ES]
+- [](https://devexperto.com/) [ES]
 
 #### [ZH]
 
-- https://wanandroid.com/ [ZH]
+- [](https://wanandroid.com/) [ZH]
 
-- http://yifeiyuan.me/ [ZH]
+- [](http://yifeiyuan.me/) [ZH]
 
-- http://liuwangshu.cn/ [ZH]
+- [](http://liuwangshu.cn/) [ZH]
 
-- http://androidperformance.com/ [ZH]
+- [](http://androidperformance.com/) [ZH]
 
-- https://gank.io/ [ZH] 
+- [](https://gank.io/) [ZH] 
 
-- https://www.cnblogs.com/cate/android/ [ZH]
+- [](https://www.cnblogs.com/cate/android/)[ZH]
 
-- https://juejin.im/ [ZH]
+- [](https://juejin.im/) [ZH]
 
-- https://www.jianshu.com/ [ZH]
+- [](https://www.jianshu.com/) [ZH]
 
-- https://blog.csdn.net/ [ZH]
+- [](https://blog.csdn.net/) [ZH]
 
-- https://www.trinea.cn/ [ZH]
+- [](https://www.trinea.cn/) [ZH]
 
-- https://www.androidweekly.io/ [ZH]
+- [](https://www.androidweekly.io/) [ZH]
 
 #### [ID]
 
-- https://www.codepolitan.com/ [ID] 
+- [](https://www.codepolitan.com/) [ID] 
 
 ### Kotlin language-focused
 
 #### [EN]
 
-- https://github.com/Zhuinden/guide-to-kotlin
+- [](https://github.com/Zhuinden/guide-to-kotlin)
 
-- http://kotlinlang.org/ 
+- [](http://kotlinlang.org/ )
 
-- https://github.com/Kotlin/KEEP/tree/master/proposals/
+- [](https://github.com/Kotlin/KEEP/tree/master/proposals/)
 
-- https://kt.academy/
+- [](https://kt.academy/)
 
-- https://kotlintesting.com/
+- [](https://kotlintesting.com/)
 
-- https://fabiomsr.github.io/from-java-to-kotlin/index.html
+- [](https://fabiomsr.github.io/from-java-to-kotlin/index.html)
 
-- https://devhints.io/kotlin
+- [](https://devhints.io/kotlin)
 
-- https://github.com/MindorksOpenSource/from-java-to-kotlin
+- [](https://github.com/MindorksOpenSource/from-java-to-kotlin)
 
-- https://www.raywenderlich.com/6649-kotlin-cheat-sheet-and-quick-reference
+- [](https://www.raywenderlich.com/6649-kotlin-cheat-sheet-and-quick-reference)
 
-- https://typealias.com/
+- [](https://typealias.com/)
 
 #### [ZH]
 
-- https://www.bennyhuo.com/ [ZH]
+- [](https://www.bennyhuo.com/) [ZH]
 
-- https://github.com/huanglizhuo/kotlin-in-chinese [ZH]
+- [](https://github.com/huanglizhuo/kotlin-in-chinese) [ZH]
 
-- https://kaixue.io/ [ZH]
+- [](https://kaixue.io/) [ZH]
 
 ## Podcasts
 
 #### [EN]
 
-- https://robj.me/coffeeandcoding/
+- [](https://robj.me/coffeeandcoding/)
 
-- http://androidbackstage.blogspot.com/
+- [](http://androidbackstage.blogspot.com/)
 
-- http://fragmentedpodcast.com/
+- [](http://fragmentedpodcast.com/)
 
-- https://talkingkotlin.com/
+- [](https://talkingkotlin.com/)
 
-- https://www.raywenderlich.com/podcast/
+- [](https://www.raywenderlich.com/podcast/)
 
-- https://www.androidiots.in/podcast
+- [](https://www.androidiots.in/podcast)
 
 #### [ES]
 
-- https://androiddevpodcast.com/ [ES]
+- [](https://androiddevpodcast.com/) [ES]
 
 #### [RU]
 
-- https://androiddev.apptractor.ru/ [RU]
+- [](https://androiddev.apptractor.ru/) [RU]
 
 
 ## Newsletters
@@ -786,40 +782,38 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 #### [EN]
 
-- https://android.libhunt.com/newsletter
+- [Awesome Android Newsletter](https://android.libhunt.com/newsletter) - A weekly overview of the most popular Android news, articles and packages.
 
-- https://androidweekly.net/
+- [Android Weekly](https://androidweekly.net/) - Android Weekly is a free newsletter that helps you to stay cutting-edge with your Android Development.
 
-- https://github.com/androiddevnotes/android-dev-weekly
+- [Developer Newsletters](https://developer.android.com/newsletter/) - The latest developer news and tips to help you succeed with Google Play, Android, and games.
 
-- https://developer.android.com/newsletter/
+- [jetc.dev](https://jetc.dev/) - Jetpack Compose Newsletter.
 
-- https://jetc.dev/
+- [Android Newsletter by Vlad Sonkin](https://vladsonkin.com/android-newsletter/) - Stay up to date with Android Development.
 
-- https://vladsonkin.com/android-newsletter/
-
-- http://www.oncreatedigest.com/
+- [onCreate Digest](http://www.oncreatedigest.com/) - onCreate Digest is a weekly newsletter with links to Android Development related content.
 
 #### [JA]
 
-- https://androiddagashi.github.io/ [JA]
+- [Android Dagashi](https://androiddagashi.github.io/) - Android Dagashi Newsletter.
 
 #### [ZH]
 
-- http://weekly.manong.io/ [ZH]
+- [Weekly manong](http://weekly.manong.io/) - Professional, simple, useful, is we have always adhered to the purpose of the publication.
 
 ### Kotlin language-focused
 
-- https://www.kotlinweekly.net/
+- [Kotlin Weekly](https://www.kotlinweekly.net/) - Your weekly dose of Kotlin.
 
 
 ## Docs / Other
 
 ### Docs
 
-- https://developer.android.com/
+- [Android Official Website](https://developer.android.com/) - Android Developer.
 
-- https://kotlinlang.org/
+- [Kotlin Official Website](https://kotlinlang.org/) - A modern programming language that makes developers happier.
 
 ### Other
 
