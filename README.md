@@ -455,6 +455,10 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 - [Uygula Öğren - Web Tasarım ve Yazılım Dersleri](https://www.youtube.com/channel/UCm8oo9Eg29-Tg00Q4lYMUIQ)
 
+#### HI
+
+- [CodeWithHarry] (https://www.youtube.com/playlist?list=PLu0W_9lII9aiL0kysYlfSOUgY5rNlOhUd)
+
 ## Twitch Channels
 
 #### EN
