@@ -698,6 +698,8 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 #### EN
 
+- [Android Table of Elements](https://www.androidelements.com/) - A Learning Roadmap for Android Developers.
+
 - [AndroidX Tech](https://androidx.tech/) - Here you will find details about all of the artifacts and packages that make up the AndroidX family.
 
 - [ReposHub](https://reposhub.com/android) - A curated list of awesome Android libraries and resources.
