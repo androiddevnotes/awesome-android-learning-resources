@@ -56,8 +56,6 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 - :computer: [**Find us on**](#computer-find-us-on)
 
-<br>
-
 ## Jetpack Compose Learning Resources
 
 - [Jetpack Compose Learning Resources](https://github.com/androiddevnotes/learn-jetpack-compose-android) - A continuously updated list of learning Jetpack Compose for Android apps.
