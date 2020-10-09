@@ -2,7 +2,7 @@
 <h1 align="center">Awesome Android Learning Resources</h1></br>
 
 <p align="center">
-:eyeglasses: A curated list of awesome android learning resources for android app developers.[Continuously updated]
+:eyeglasses: A curated list of awesome android learning resources for android app developers.
 </p>
 <br>
 
