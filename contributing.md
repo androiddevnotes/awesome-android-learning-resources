@@ -6,7 +6,7 @@ Invite link for Discord: https://discord.gg/vBnEhuC
 
 ## How to contribute
 
-- Fork the project from the `master` branch and submit a Pull Request (PR)
+- Fork the project from the `main` branch and submit a Pull Request (PR)
 
   - Explain what the PR fixes or improves.
 
