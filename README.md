@@ -16,7 +16,17 @@
 <br>
 <p align="center">
 <img width="320px" src="assets/androiddevnotes.png" alt="androiddevnotes logo"></img>
-</p><br>
+</p>
+
+<br>
+
+**Awesome Android Learning Resources** aims to be the starting point for Android App Developers to find the finest learning content for Android App Development.
+
+The content is Android Kotlin App development focused. Android Java content which can be of benefit to developers is listed and are under Java section.
+
+Content in languages other than English is tagged according to ISO 639-2 codes.
+
+<br>
 
 ## Contents
 
@@ -48,11 +58,7 @@
 
 - :computer: [**Find us on**](#computer-find-us-on)
 
-**Awesome Android Learning Resources** aims to be the starting point for Android App Developers to find the finest learning content for Android App Development.
-
-The content is Android Kotlin App development focused. Android Java content which can be of benefit to developers is listed and are under Java section.
-
-Content in languages other than English is tagged according to ISO 639-2 codes.
+<br>
 
 ## Jetpack Compose Learning Resources
 
