@@ -266,7 +266,7 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 - [Kotlin Course - Tutorial for Beginners](https://www.youtube.com/watch?v=F9UC9DY-vIU)
 
-### [raywenderlich](https://raywenderlich.com/) courses - Listed a few courses | Visit site for full catalog
+### [raywenderlich](https://www.raywenderlich.com/) courses - Listed a few courses | Visit site for full catalog
 
 - [Android Networking: Fundamentals](https://www.raywenderlich.com/10376651-android-networking-fundamentals)
 
