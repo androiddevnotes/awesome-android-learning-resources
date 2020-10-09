@@ -190,7 +190,7 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 - [Audio Streaming on Android](https://codingwithmitch.com/courses/android-audio-streaming/)
 
-### https://www.udacity.com/ courses - Listed a few courses | Visit site for full catalog
+### [Udacity](https://www.udacity.com/) courses - Listed a few courses | Visit site for full catalog
  
 - [Developing Android Apps with Kotlin](https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012)
 
@@ -198,7 +198,7 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 - [Firebase in a Weekend for Android by Google FREE COURSE](https://www.udacity.com/course/firebase-in-a-weekend-by-google-android--ud0352)
 
-### https://caster.io/ courses - Listed a few courses | Visit site for full catalog
+### [Caster.io](https://caster.io/) courses - Listed a few courses | Visit site for full catalog
 
 - [Dependency Injection with Dagger 2](https://caster.io/courses/dependency-injection-with-dagger-2)
 
@@ -226,7 +226,7 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 - [Functional programming in Kotlin with Arrow](https://caster.io/courses/functional-programming-in-kotlin-with-arrow)
 
-### https://www.udemy.com/ courses - Listed a few courses | Visit site for full catalog
+### [Udemy](https://www.udemy.com/) courses - Listed a few courses | Visit site for full catalog
 
 #### EN
 
@@ -250,7 +250,7 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 - [https://www.udemy.com/course/android-mobil-uygulama-kursu-seviye-2/](https://www.udemy.com/course/android-mobil-uygulama-kursu-seviye-2/)
 
-### https://www.pluralsight.com/ courses - Listed a few courses | Visit site for full catalog
+### [Pluralsight](https://www.pluralsight.com/) courses - Listed a few courses | Visit site for full catalog
 
 - [Android Apps with Kotlin: Tools and Testing](https://www.pluralsight.com/courses/android-apps-kotlin-tools-testing)
 
@@ -266,7 +266,7 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 - [Kotlin Course - Tutorial for Beginners](https://www.youtube.com/watch?v=F9UC9DY-vIU)
 
-### raywenderlich.com courses - Listed a few courses | Visit site for full catalog
+### [raywenderlich](https://raywenderlich.com/) courses - Listed a few courses | Visit site for full catalog
 
 - [Android Networking: Fundamentals](https://www.raywenderlich.com/10376651-android-networking-fundamentals)
 
@@ -294,7 +294,7 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 - [Testing With MockK](https://www.raywenderlich.com/5443751-testing-with-mockk)
 
-### https://courses.afteracademy.com/ courses - Listed a few courses | Visit site for full catalog
+### [After Academy](https://courses.afteracademy.com/) courses - Listed a few courses | Visit site for full catalog
 
 - [Android Dagger and Dependency Management](https://courses.afteracademy.com/p/android-dagger-and-dependency-management)
 
@@ -306,7 +306,7 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 - [Kotlin Coroutines and Flow API for Android](https://courses.afteracademy.com/p/kotlin-coroutines-and-flow-api-for-android)
 
-### https://pl-coding.com/courses/ courses - Listed a few courses | Visit site for full catalog
+### [PL Coding](https://pl-coding.com/courses/) courses - Listed a few courses | Visit site for full catalog
 
 - [Spotify Clone with Exoplayer](https://pl-coding.com/courses/mvvm-spotify-clone-with-exoplayer/)
 
@@ -316,15 +316,15 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 - [Android Fundamentals](https://pl-coding.com/courses/android-fundamentals/)
 
-### https://mindorks.com/android-app-development-online-course courses - Visit site for full catalog  
+### [MindOrks](https://mindorks.com/android-app-development-online-course) courses - Visit site for full catalog  
 
-### https://developer.android.com/courses courses - Listed a few courses | Visit site for full catalog
+### [Android Developer](https://developer.android.com/courses) courses - Listed a few courses | Visit site for full catalog
 
 - [Android Basics in Kotlin](https://developer.android.com/courses/android-basics-kotlin/course)
 
-### https://coderealprojects.com/ courses - Visit site for full catalog
+### [Code Real Projects](https://coderealprojects.com/) courses - Visit site for full catalog
 
-### https://www.coursera.org/ courses - Listed a few courses | Visit site for full catalog
+### [Coursera](https://www.coursera.org/) courses - Listed a few courses | Visit site for full catalog
 
 - [Kotlin for Java Developers](https://www.coursera.org/learn/kotlin-for-java-developers)
 
@@ -332,34 +332,31 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 - [Build Your First Android App](https://www.coursera.org/learn/android-app)
 
-### https://www.edx.org/ courses - Visit site for full catalog
+### [edx](https://www.edx.org/) courses - Visit site for full catalog
 
-### https://www.skillshare.com/ courses - Visit site for full catalog
+### [Skillshare](https://www.skillshare.com/) courses - Visit site for full catalog
 
-### https://teamtreehouse.com/ courses - Visit site for full catalog
+### [Treehouse](https://teamtreehouse.com/) courses - Visit site for full catalog
 
-### https://www.eduonix.com/ courses - Visit site for full catalog
+### [Eduonix](https://www.eduonix.com/) courses - Visit site for full catalog
 
-### https://www.lynda.com/ courses - Visit site for full catalog 
+### [Lynda](https://www.lynda.com/) courses - Visit site for full catalog 
 
-### https://www.oreilly.com/ courses - Visit site for full catalog 
+### [Orielly](https://www.oreilly.com/) courses - Visit site for full catalog 
 
 #### TR
 
-### https://gelecegiyazanlar.turkcell.com.tr/konu/android courses - Visit site for full catalog
+### [turkcell](https://gelecegiyazanlar.turkcell.com.tr/konu/android) courses - Visit site for full catalog
 
-### https://www.mobilhanem.com/android-uygulama-gelistirme/ courses - Visit site for full catalog 
+### [mobilhanem](https://www.mobilhanem.com/android-uygulama-gelistirme/) courses - Visit site for full catalog 
 
 
 
 #### ZH
 
-### http://ke.qq.com/ courses - Visit site for full catalog 
+### [Classroom](http://ke.qq.com/) courses - Visit site for full catalog 
 
-### http://hukai.me/ courses - Visit site for full catalog 
-
-### https://www.androiddevtools.cn/ courses - Visit site for full catalog
-
+### [hukai](http://hukai.me/) courses - Visit site for full catalog 
 
 ## YouTube Channels
 
@@ -749,6 +746,8 @@ Creating Working Applications.
 - [codekk](https://p.codekk.com/) - Open-source Projects.
 
 - [CTOlib](https://www.ctolib.com/android/) - Libraries Collection.
+
+- [androiddevtools](https://www.androiddevtools.cn/) - Android Dev Tools.
 
 ## Open-source projects
 
