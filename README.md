@@ -162,7 +162,7 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 #### EN
 
-### http://codingwithmitch.com/ courses - Listed a few courses | Visit site for full catalog
+### [CodingWithMitch](http://codingwithmitch.com/) courses - Listed a few courses | Visit site for full catalog
 
 #### Kotlin
 
