@@ -698,6 +698,8 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 ### Other
 
+- [The Mobile Security Testing Guide (MSTG)](https://github.com/OWASP/owasp-mstg) - Is a comprehensive manual for mobile app security development, testing and reverse engineering.
+
 #### EN
 
 - [Android Table of Elements](https://www.androidelements.com/) - A Learning Roadmap for Android Developers.
@@ -819,21 +821,6 @@ new technologies and practices.
 - [mobius-piter](https://mobius-piter.ru/) - Conference on mobile development.
 
 - [CodeFest O!](https://o.codefest.ru/) - CodeFest O Conferences.
-
-## Android Security
-
-- [Android Security Website](https://source.android.com/security/bulletin/2020-10-01)
-
-- [Verify Apps and SafetyNet](https://www.androidcentral.com/why-android-malware-scares-are-almost-never-bad-they-seem)
-
-- [Android Security Review .pdf](https://source.android.com/security/reports/Google_Android_Security_2018_Report_Final.pdf)
-
-- [Check & update your Android version] (https://support.google.com/android/answer/7680439?hl=en)
-
-- [CWE VIEW: Weaknesses in Mobile Applications](https://cwe.mitre.org/data/definitions/919.html)
-
-- [Free for Open Source Application Security Tools](https://owasp.org/www-community/Free_for_Open_Source_Application_Security_Tools) 
-
 
 ## Communities
 
