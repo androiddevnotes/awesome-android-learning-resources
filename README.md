@@ -50,6 +50,8 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 - [Android and Kotlin Conferences](#android-and-kotlin-conferences)
 
+- [Android Security](#android-security)
+
 - [Communities](#communities)
 
 - :memo: [**Contributing**](#memo-contributing)
@@ -817,6 +819,21 @@ new technologies and practices.
 - [mobius-piter](https://mobius-piter.ru/) - Conference on mobile development.
 
 - [CodeFest O!](https://o.codefest.ru/) - CodeFest O Conferences.
+
+## Android Security
+
+- [Android Security Website](https://source.android.com/security/bulletin/2020-10-01)
+
+- [Verify Apps and SafetyNet](https://www.androidcentral.com/why-android-malware-scares-are-almost-never-bad-they-seem)
+
+- [Android Security Review .pdf](https://source.android.com/security/reports/Google_Android_Security_2018_Report_Final.pdf)
+
+- [Check & update your Android version] (https://support.google.com/android/answer/7680439?hl=en)
+
+- [CWE VIEW: Weaknesses in Mobile Applications](https://cwe.mitre.org/data/definitions/919.html)
+
+- [Free for Open Source Application Security Tools](https://owasp.org/www-community/Free_for_Open_Source_Application_Security_Tools) 
+
 
 ## Communities
 
