@@ -156,6 +156,7 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 - [Kotlin Glossary](https://kotlin-glossary-ebook.caster.io/) - A short, sweet 21-page ebook on Kotlin that has a lot of terminologies, code snippets and helpful tips to help you in your Kotlin journey, whether you're a beginner or someone who needs a Kotlin cheatsheet.📒
 
+- [ANDROID™ 4 APPLICATION DEVELOPMENT](http://yuliana.lecturer.pens.ac.id/Android/Buku/professional_android_4_application_development.pdf) - This book focuses on basics of the Android developlment with JAVA as programming language.
 
 ## Video Courses 
 
