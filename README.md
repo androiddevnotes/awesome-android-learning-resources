@@ -62,6 +62,11 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 - [Jetpack Compose Learning Resources](https://github.com/androiddevnotes/learn-jetpack-compose-android) - A continuously updated list of learning Jetpack Compose for Android apps.
 
+## Certification
+
+- [Associate Android Developer](https://developers.google.com/certification/associate-android-developer) - The exam is designed to test the skills of an entry-level Android developer. To study the certification, google offers its [study guide](https://developers.google.com/certification/associate-android-developer/study-guide), where you can read all topics and also practice your knowledge with the codelabs indicated for each competency. Despite being paid, you can study all topics and practice on all codelabs for free in the mentioned study guide.
+
+
 ## Books 
 
 ### Android focused
