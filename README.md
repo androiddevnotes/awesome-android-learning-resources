@@ -702,6 +702,8 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 ### Docs
 
+- [SDK Api Diff](https://developer.android.com/sdk/api_diff/29/changes) - This report details the changes in the core Android framework API between two API Level specifications. It shows additions, modifications, and removals for packages, classes, methods, and fields. The report also includes general statistics that characterize the extent and type of the differences.
+
 - [Android Official Website](https://developer.android.com/) - Android Developer.
 
 - [Kotlin Official Website](https://kotlinlang.org/) - A modern programming language that makes developers happier.
