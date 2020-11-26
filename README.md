@@ -761,7 +761,6 @@ Creating Working Applications.
 
 - [Android Developer Roadmap 2020](https://github.com/mobile-roadmap/android-developer-roadmap) - Android Developer Roadmap 2020.
 
-
 #### ZH
 
 - [xitu](http://e.xitu.io/) - Open-source Projects.
@@ -783,6 +782,8 @@ Creating Working Applications.
 - [Android Conferences](http://androidstudygroup.github.io/conferences) - List of Android Conferences.
 
 - [Android Dev Summit](https://developer.android.com/dev-summit) - Android Dev Summit.
+
+- [AndroidWorldwide](https://android-worldwide.com/) - Android Worldwide is an international collective of developer communities who like to put on a recurring special event for Android Devs, and related engineering specialties.
 
 - [droidcon](https://www.droidcon.com/) - Droidcon Berlin is where the industry's leading Android experts converge to support the Android platform and create a strong network for developers and companies. Starting with 300 attendees in 2009, we will attract well over 1300+ developers in 2021.
 
