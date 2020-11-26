@@ -75,6 +75,8 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 ### Android focused
 
+- [Android High Performance Programming](https://www.oreilly.com/library/view/android-high-performance/9781785288951/) - Build fast and efficient Android apps that run as reliably as clockwork in a multi-device world.
+
 - [Android Internals: A Confectioner's Cookbook](http://newandroidbook.com/) - Deals exclusively with the internals of the Android operating system.
 
 - [Android Apprentice](https://store.raywenderlich.com/products/android-apprentice) - Android Apprentice is the book for complete beginners to Android development.
