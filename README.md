@@ -30,6 +30,8 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 - [Jetpack Compose Learning Resources](#jetpack-compose-learning-resources)
 
+- [Certification](#certification)
+
 - [Books](#books)
 
 - [Video Courses](#video-courses)
