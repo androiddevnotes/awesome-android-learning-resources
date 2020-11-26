@@ -732,7 +732,7 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 - [Android Arsenal](https://android-arsenal.com/) -  Android developer portal with tools, libraries, and apps.
 
-- [Awesome Android](https://android.libhunt.com/) - A curated list of awesome Android packages and resources.
+- [Awesome Android by LibHunt ](https://android.libhunt.com/) - A curated list of awesome Android packages and resources by LibHunt.
 
 - [Android Ecosystem Cheat Sheet](https://github.com/igorwojda/android-ecosystem-cheat-sheet) - This project maps most important parts of Android-Ecosystem (200+ tools, services, plusings & libraries). This is the most complete and most up to date picture of Android ecosystem you will find on the web. Some technologies are complementary, while others represent alternatives solutions for the same problem.
 
