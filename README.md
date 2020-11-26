@@ -718,6 +718,8 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 #### EN
 
+- [Android Sitemap](https://github.com/androiddevnotes/android-sitemap) - **Android Sitemap** aims to be your starting point to find every link pointing to Android Developer sites: [Android Developers](https://developer.android.com/) and [Android Open Source Project](https://source.android.com/).
+
 - [androidsrc.dev](https://androidsrc.dev/) - Developers write better apps when they can read the source. Unfortunately, the sources for the Android framework and various Google Android libraries are scattered all over the web.
 
     This page helps Android developers find the sources they’re looking for.
