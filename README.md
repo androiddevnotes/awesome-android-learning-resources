@@ -486,6 +486,8 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 #### EN
 
+- [Manuel Vivo .dev](https://manuelvivo.dev/) - A place where you can learn about Android development
+
 - [Rebecca Franks - @riggaroo](https://riggaroo.dev/) - Android Development.
 
 - [Blundell](https://blog.blundellapps.co.uk/) - Android Developer Tutorials and Blog.
@@ -710,9 +712,13 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 ### Other
 
-- [The Mobile Security Testing Guide (MSTG)](https://github.com/OWASP/owasp-mstg) - Is a comprehensive manual for mobile app security development, testing and reverse engineering.
-
 #### EN
+
+- [androidsrc.dev](https://androidsrc.dev/) - Developers write better apps when they can read the source. Unfortunately, the sources for the Android framework and various Google Android libraries are scattered all over the web.
+
+    This page helps Android developers find the sources they’re looking for.
+
+- [The Mobile Security Testing Guide (MSTG)](https://github.com/OWASP/owasp-mstg) - Is a comprehensive manual for mobile app security development, testing and reverse engineering.
 
 - [Android Table of Elements](https://www.androidelements.com/) - A Learning Roadmap for Android Developers.
 
