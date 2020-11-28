@@ -379,6 +379,8 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 - [Android Developers](https://www.youtube.com/user/androiddevelopers)
 
+- [Jovche Mitrejchevski](https://www.youtube.com/user/mitrejcevski)
+
 - [Coding in Flow](https://www.youtube.com/channel/UC_Fh8kvtkVPkeihBs42jGcA)
 
 - [CodingWithMitch](https://www.youtube.com/channel/UCoNZZLhPuuRteu02rh7bzsw)
