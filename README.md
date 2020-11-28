@@ -365,8 +365,6 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 ### [mobilhanem](https://www.mobilhanem.com/android-uygulama-gelistirme/) courses - Visit site for full catalog 
 
-
-
 #### ZH
 
 ### [Classroom](http://ke.qq.com/) courses - Visit site for full catalog 
@@ -491,6 +489,8 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 ### Android focused
 
 #### EN
+
+- [Jovche Mitrejchevski](https://jovmit.io/) - I'm a software craftsman, currently focusing on Kotlin and Android.
 
 - [Manuel Vivo .dev](https://manuelvivo.dev/) - A place where you can learn about Android development
 
