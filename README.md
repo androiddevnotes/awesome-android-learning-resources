@@ -685,6 +685,8 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 #### EN
 
+- [The Developer Digest](https://thedeveloperdigest.com/) - A handcrafted newsletter to help developers level up in their career.
+
 - [Awesome Android Newsletter](https://android.libhunt.com/newsletter) - A weekly overview of the most popular Android news, articles and packages.
 
 - [Android Weekly](https://androidweekly.net/) - Android Weekly is a free newsletter that helps you to stay cutting-edge with your Android Development.
