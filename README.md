@@ -656,7 +656,7 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 #### EN
 
-- [The Developers' Bakery](https://podcasts.google.com/feed/aHR0cHM6Ly90aGViYWtlcnkuZGV2L3BvZGNhc3QueG1s?sa=X&ved=0CAMQ4aUDahcKEwiQsIuzmN_tAhUAAAAAHQAAAAAQAQ) - A developer podcast about tools, libraries, and productivity. The Developers' Bakery is a place for open-source developers and maintainers to share their experience and projects. A journey through the tools and libraries that help developers worldwide baking great software daily. Join Nicola Corti through this journey among open source and beyond.
+- [The Developers' Bakery](https://thebakery.dev/) - A developer podcast about tools, libraries, and productivity. The Developers' Bakery is a place for open-source developers and maintainers to share their experience and projects. A journey through the tools and libraries that help developers worldwide baking great software daily. Join Nicola Corti through this journey among open source and beyond.
 
 - [COFFEE & CODING PODCAST](https://robj.me/coffeeandcoding/) - Listen weekly as we bring you the latest news, tips and in depth discussion with experienced app developers – to help you become better a better app developer.
 
