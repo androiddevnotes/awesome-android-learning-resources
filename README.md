@@ -626,6 +626,8 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 #### EN
 
+- [Kotlin Christmas](https://kotlin.christmas/2020) - Kotlin articles covering language features, popular libraries, learning resources, and many more helpful topics. 
+
 - [Guide to Kotlin](https://github.com/Zhuinden/guide-to-kotlin) - This tutorial assumes all you know is Java, but you want to learn Kotlin.
 
 - [KEEP - Kotlin Evolution and Enhancement Process](https://github.com/Kotlin/KEEP/tree/master/proposals/) - This repository holds proposals for the Kotlin Programming Language.
