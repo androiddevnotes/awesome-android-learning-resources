@@ -177,6 +177,10 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 #### EN
 
+### [Android Tings](https://www.youtube.com/channel/UCpZgRkTgc1lGnusjCi1cCfg) courses - Listed a few courses | Visit site for full catalog
+
+- [Introduction to the Android Things Framework](https://www.youtube.com/watch?v=kZ-iV5al4Os&list=PL-ed5yhQ_xe73GQauE47aNWMrzfkEYtkh)
+
 ### [CodingWithMitch](http://codingwithmitch.com/) courses - Listed a few courses | Visit site for full catalog
 
 #### Kotlin
