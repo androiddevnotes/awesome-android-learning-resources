@@ -75,6 +75,8 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 ### Android focused
 
+- [Android Things Quick Start Guide](https://www.packtpub.com/product/android-things-quick-start-guide/9781789341799)
+
 - [33 Engineering Challenges of Building Mobile Apps at Scale eBook & Other Learnings](https://gumroad.com/l/IuuuN) - Industry practices used by large Native mobile teams.
 
 - [Android High Performance Programming](https://www.oreilly.com/library/view/android-high-performance/9781785288951/) - Build fast and efficient Android apps that run as reliably as clockwork in a multi-device world.
