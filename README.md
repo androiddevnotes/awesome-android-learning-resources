@@ -504,6 +504,8 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 #### EN
 
+- [Mike Penz](https://blog.mikepenz.dev/) - I write about Kotlin, Android, GitHub Actions, and other tips and tricks.
+
 - [Stojan Anastasov's blog](https://lordraydenmk.github.io/) - Android developer crafting native Android apps
 
 - [Jovche Mitrejchevski](https://jovmit.io/) - I'm a software craftsman, currently focusing on Kotlin and Android.
