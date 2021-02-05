@@ -504,6 +504,8 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 #### EN
 
+- [Raúl Hernández López – Insights & Projects](https://raulh82vlc.github.io/) - Senior Software Engineer - Android at Twitter & Kotlin lover
+
 - [Mike Penz](https://blog.mikepenz.dev/) - I write about Kotlin, Android, GitHub Actions, and other tips and tricks.
 
 - [Stojan Anastasov's blog](https://lordraydenmk.github.io/) - Android developer crafting native Android apps
