@@ -75,7 +75,12 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 ### Android focused
 
-- [Android Things Quick Start Guide](https://www.packtpub.com/product/android-things-quick-start-guide/9781789341799)
+- [Instant Android Fragmentation Management How-to](https://www.packtpub.com/application-development/instant-android-fragmentation-management-how-instant) - 	
+There are currently 7 different versions of operating systems for Android. A growing issue is fragmentation. With the number of Android users and the variety of versions available, Android fragmentation is a huge problem. This little book is the solution. Instant Android Fragmentation Management How-to is a step-by-step guide to writing applications that can run on all devices starting from Android 1.6. With simple solutions for complex problems, this book will walk you through the biggest issues facing Android developers today.
+
+- [Instant Android Systems Development How-to](https://www.packtpub.com/instant-android-systems-development-how-to) - Instant Android Systems Development How-to provides a gentle introduction to the platform internals without sacrificing depth. Source code examples are designed to be meaningful, but at the same time, do not disguise their real purpose, which is to illustrate systems development techniques and common design patterns in android systems programming. Readers will be guided through several examples that give a hands-on experience.
+
+- [Android Things Quick Start Guide](https://www.packtpub.com/product/android-things-quick-start-guide/9781789341799) - This book takes you through the basics of IoT and smart devices. It will help you to interact with common IoT device components and learn the underlying protocols. For a simple setup, we will be using Rainbow HAT so that we don't need to do any wiring.
 
 - [33 Engineering Challenges of Building Mobile Apps at Scale eBook & Other Learnings](https://gumroad.com/l/IuuuN) - Industry practices used by large Native mobile teams.
 
