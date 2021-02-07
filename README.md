@@ -138,6 +138,10 @@ There are currently 7 different versions of operating systems for Android. A gro
 
 ### Kotlin language-focused
 
+- [Atomic Kotlin](https://www.atomickotlin.com/) - Atomic Kotlin is the book and associated learning resources by Bruce Eckel and Svetlana Isakova.
+
+- [Effective Kotlin](https://leanpub.com/effectivekotlin/) - Effective Kotlin summarizes the best practices and experiences of the Kotlin community, together with a deep explanation of some lesser-known Kotlin functionalities. All of the best practices are presented as simple rules with detailed explanations.
+
 - [Kotlin Cookbook](https://www.oreilly.com/library/view/kotlin-cookbook/9781492046660/) - Use Kotlin to build Android apps, web applications, and more—while you learn the nuances of this popular language. With this unique cookbook, developers will learn how to apply thisJava-based language to their own projects. Both experienced programmers and those new to Kotlin will benefit from the practical recipes in this book.
 
 - [Kotlin Apprentice](https://store.raywenderlich.com/products/kotlin-apprentice) - Learn programming with Kotlin! The Kotlin Apprentice is a book designed for complete beginners to Kotlin, a modern language used for Android development.
