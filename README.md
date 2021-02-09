@@ -513,6 +513,8 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 #### EN
 
+- [Jamie McDonald](https://jdam.cd/) - I build mobile apps and software teams.
+
 - [Jeroen Mols](https://jeroenmols.com/blog/) - Android freelancer and Google Developer Expert
 
 - [Raúl Hernández López – Insights & Projects](https://raulh82vlc.github.io/) - Senior Software Engineer - Android at Twitter & Kotlin lover
