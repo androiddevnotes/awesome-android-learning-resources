@@ -513,15 +513,17 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 #### EN
 
+- [Dropbox Tech Mobile](https://dropbox.tech/mobile) - Articles on Mobile development by Dropbox engineers.
+
 - [Jamie McDonald](https://jdam.cd/) - I build mobile apps and software teams.
 
-- [Jeroen Mols](https://jeroenmols.com/blog/) - Android freelancer and Google Developer Expert
+- [Jeroen Mols](https://jeroenmols.com/blog/) - Android freelancer and Google Developer Expert.
 
-- [Raúl Hernández López – Insights & Projects](https://raulh82vlc.github.io/) - Senior Software Engineer - Android at Twitter & Kotlin lover
+- [Raúl Hernández López – Insights & Projects](https://raulh82vlc.github.io/) - Senior Software Engineer - Android at Twitter & Kotlin lover.
 
 - [Mike Penz](https://blog.mikepenz.dev/) - I write about Kotlin, Android, GitHub Actions, and other tips and tricks.
 
-- [Stojan Anastasov's blog](https://lordraydenmk.github.io/) - Android developer crafting native Android apps
+- [Stojan Anastasov's blog](https://lordraydenmk.github.io/) - Android developer crafting native Android apps.
 
 - [Jovche Mitrejchevski](https://jovmit.io/) - I'm a software craftsman, currently focusing on Kotlin and Android.
 
