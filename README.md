@@ -513,6 +513,8 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 #### EN
 
+- [Coding with Mohit](https://codingwithmohit.com/posts/) - Kotlin Advocate, Public Speaker & Android Developer.
+
 - [Egor's Blog](https://blog.egorand.me/) - Android, Kotlin and other tech
 
 - [Dropbox Tech Mobile](https://dropbox.tech/mobile) - Articles on Mobile development by Dropbox engineers.
