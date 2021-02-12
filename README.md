@@ -513,6 +513,8 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 #### EN
 
+- [Karumi Blog](https://blog.karumi.com/) - This is where we want to share thoughts and experiences of running our software development company. We are glad you are here, please make yourself at home and read on!
+
 - [Coding with Mohit](https://codingwithmohit.com/posts/) - Kotlin Advocate, Public Speaker & Android Developer.
 
 - [Egor's Blog](https://blog.egorand.me/) - Android, Kotlin and other tech
