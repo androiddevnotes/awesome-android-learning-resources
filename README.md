@@ -721,6 +721,9 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 - [Подкасты Android Dev](https://androiddev.apptractor.ru/) - Android Dev Podcast.
 
+#### TR
+
+- [Dört Podcast](https://soundcloud.com/dortpodcast) - Android Dev Podcast.
 
 ## Newsletters
 
