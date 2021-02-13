@@ -663,6 +663,10 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 - [codepolitan](https://www.codepolitan.com/) - Learn Coding Now, Develop Your Future.
 
+#### TR
+
+- [Android Yazılım Haberleri | Mobiler.dev](https://www.mobiler.dev/haberlerandroid) - Android Dev news.
+
 ### Kotlin language-focused
 
 #### EN
