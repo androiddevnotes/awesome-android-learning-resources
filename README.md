@@ -513,6 +513,8 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 #### EN
 
+- [Cash App Code Blog](https://cashapp.github.io/) - Cash App Blog by development team.
+
 - [Rahul Ravikumar](https://rahulrav.com/blog/) - Android and Programming blog.
 
 - [Karumi Blog](https://blog.karumi.com/) - This is where we want to share thoughts and experiences of running our software development company. We are glad you are here, please make yourself at home and read on!
@@ -777,6 +779,8 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 ### Other
 
 #### EN
+
+- [Kotlin is Awesome!](https://kotlin.link/) - 
 
 - [androidx.dev](https://androidx.dev/) - A web-service to help you discover snapshots and artifacts in builds.
 
