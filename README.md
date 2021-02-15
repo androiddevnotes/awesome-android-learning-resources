@@ -513,6 +513,8 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 #### EN
 
+- [Android Essence](https://androidessence.com/) - Android Essence's purpose is to break down Android development in ways that everyone can learn from, regardless of skill level. 
+
 - [Cash App Code Blog](https://cashapp.github.io/) - Cash App Blog by development team.
 
 - [Rahul Ravikumar](https://rahulrav.com/blog/) - Android and Programming blog.
