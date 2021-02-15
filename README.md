@@ -833,6 +833,8 @@ Creating Working Applications.
 
 - [Android Developer Roadmap 2020](https://github.com/mobile-roadmap/android-developer-roadmap) - Android Developer Roadmap 2020.
 
+- [Gradle distributionUrl versions](https://services.gradle.org/distributions/) - services.gradle.org/distributions/
+
 #### ZH
 
 - [xitu](http://e.xitu.io/) - Open-source Projects.
