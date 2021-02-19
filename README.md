@@ -709,6 +709,8 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 #### EN
 
+- [Now in Android](https://nowinandroid.libsyn.com/) - This show gives listeners a quick run-down on things that the Android team has done recently that developers may want to check out. It covers library and platform releases, articles, videos, podcasts, samples, codelabs - whatever seems relevant and interesting for Android developers. Android’s a big platform and there are many things being released all the time; listen to this podcast to stay up to date on what those things are.
+
 - [The Developers' Bakery](https://thebakery.dev/) - A developer podcast about tools, libraries, and productivity. The Developers' Bakery is a place for open-source developers and maintainers to share their experience and projects. A journey through the tools and libraries that help developers worldwide baking great software daily. Join Nicola Corti through this journey among open source and beyond.
 
 - [COFFEE & CODING PODCAST](https://robj.me/coffeeandcoding/) - Listen weekly as we bring you the latest news, tips and in depth discussion with experienced app developers – to help you become better a better app developer.
