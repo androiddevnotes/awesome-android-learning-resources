@@ -786,7 +786,9 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 #### EN
 
-- [Kotlin is Awesome!](https://kotlin.link/) - 
+- [Android library statistics | AppBrain](https://www.appbrain.com/stats/libraries) - Android library statistics provides you with insights on what Ad Networks, Social SDKs and developer tools are present in Android apps and what their market shares are.
+
+- [Kotlin is Awesome!](https://kotlin.link/)
 
 - [androidx.dev](https://androidx.dev/) - A web-service to help you discover snapshots and artifacts in builds.
 
