@@ -645,6 +645,11 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 - [raywenderlich](https://www.raywenderlich.com/) - The best investment for your mobile development career.
 
+#### KO
+
+- [꿈 많은 개발자가 되자 - Taehwan](https://thdev.tech/) - Android developer's blog. story.
+
+
 #### ES
 
 - [DevExperto](https://devexperto.com/) - Blog by Antonio Leiva.
