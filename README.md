@@ -513,6 +513,8 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 #### EN
 
+- [Josh Skeen](http://joshskeen.com/) - I'm an Android Engineer & Instructor at Big Nerd Ranch.
+
 - [Jason Atwood](https://jasonatwood.io/) - Blog on Android, Gradle ...
 
 - [Android Essence](https://androidessence.com/) - Android Essence's purpose is to break down Android development in ways that everyone can learn from, regardless of skill level. 
