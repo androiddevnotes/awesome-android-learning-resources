@@ -77,7 +77,7 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 
 
-- [Instant Android Fragmentation Management How-to](https://www.packtpub.com/application-development/instant-android-fragmentation-management-how-instant) - Instant Android Fragmentation Management How-to is a step-by-step guide to writing applications that can run on all devices starting from Android 1.6. With simple solutions for complex problems, this book will walk you through the biggest issues facing Android developers today.
+- [Instant Android Fragmentation Management How-to](https://www.packtpub.com/application-development/instant-android-fragmentation-management-how-instant) - Instant Android Fragmentation Management How-to is a step-by-step guide to writing applications that can run on all devices starting from Android 1.6.
 
 - [Instant Android Systems Development How-to](https://www.packtpub.com/instant-android-systems-development-how-to) - Instant Android Systems Development How-to provides a gentle introduction to the platform internals without sacrificing depth.
 
@@ -115,7 +115,7 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 - [Learning RxJava](https://www.packtpub.com/in/programming/learning-rxjava-3-second-edition) - In this book, you'll cover the core fundamentals of reactive programming and learn how to design and implement reactive libraries and applications.
 
-- [Gradle Recipes for Android](https://www.oreilly.com/library/view/gradle-recipes-for/9781491947272/) - This hands-on guide provides a collection of Gradle recipes to help you quickly and easily accomplish the most common build tasks for your Android apps. You'll learn how to customize project layouts, add dependencies, and generate many different versions of your app.
+- [Gradle Recipes for Android](https://www.oreilly.com/library/view/gradle-recipes-for/9781491947272/) - This hands-on guide provides a collection of Gradle recipes to help you quickly and easily accomplish the most common build tasks for your Android apps.
 
 - [Kotlin for Android Developers](https://antonioleiva.com/kotlin-android-developers-book/) - Kotlin for Android Developers.
 
