@@ -75,10 +75,11 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 ### Android focused
 
-- [Instant Android Fragmentation Management How-to](https://www.packtpub.com/application-development/instant-android-fragmentation-management-how-instant) - 	
-There are currently 7 different versions of operating systems for Android. A growing issue is fragmentation. With the number of Android users and the variety of versions available, Android fragmentation is a huge problem. This little book is the solution. Instant Android Fragmentation Management How-to is a step-by-step guide to writing applications that can run on all devices starting from Android 1.6. With simple solutions for complex problems, this book will walk you through the biggest issues facing Android developers today.
 
-- [Instant Android Systems Development How-to](https://www.packtpub.com/instant-android-systems-development-how-to) - Instant Android Systems Development How-to provides a gentle introduction to the platform internals without sacrificing depth. Source code examples are designed to be meaningful, but at the same time, do not disguise their real purpose, which is to illustrate systems development techniques and common design patterns in android systems programming. Readers will be guided through several examples that give a hands-on experience.
+
+- [Instant Android Fragmentation Management How-to](https://www.packtpub.com/application-development/instant-android-fragmentation-management-how-instant) - Instant Android Fragmentation Management How-to is a step-by-step guide to writing applications that can run on all devices starting from Android 1.6. With simple solutions for complex problems, this book will walk you through the biggest issues facing Android developers today.
+
+- [Instant Android Systems Development How-to](https://www.packtpub.com/instant-android-systems-development-how-to) - Instant Android Systems Development How-to provides a gentle introduction to the platform internals without sacrificing depth.
 
 - [Android Things Quick Start Guide](https://www.packtpub.com/product/android-things-quick-start-guide/9781789341799) - This book takes you through the basics of IoT and smart devices. It will help you to interact with common IoT device components and learn the underlying protocols. For a simple setup, we will be using Rainbow HAT so that we don't need to do any wiring.
 
@@ -104,7 +105,7 @@ There are currently 7 different versions of operating systems for Android. A gro
 
 - [Elements of Android Jetpack](https://commonsware.com/Jetpack/) - This book follows in the footsteps of The Busy Coder's Guide to Android Development, to introduce developers to Android app development, focusing on Jetpack. Here you will learn how to set up an Android app for Java or Kotlin, create a user interface, and more!
 
-- [Exploring Android](https://commonsware.com/AndExplore/) - This book has you build an app from the beginning. Whereas traditional programming guides are focused on breadth and depth, this book is focused on “hands-on”, guiding you through the steps to build the app. It provides a bit of details on the underlying concepts, but it relies on other resources — such as Elements of Android Jetpack — for the full explanation of those details. Instead, this book provides step-by-step instructions for building the app.
+- [Exploring Android](https://commonsware.com/AndExplore/) - This book has you build an app from the beginning. Whereas traditional programming guides are focused on breadth and depth, this book is focused on “hands-on”, guiding you through the steps to build the app.
 
 - [Elements of Android R](https://commonsware.com/R/) - Each new release brings new opportunities and new challenges for Android developers. Many of the new challenges are extensions of the problems introduced in last year's Android 10. So, if you are worried about further changes to storage or permissions, or you are nervous about new restrictions being placed on developers, this book is for you!
 
@@ -124,7 +125,7 @@ There are currently 7 different versions of operating systems for Android. A gro
 
 - [Head First Android Development](https://www.oreilly.com/library/view/head-first-android/9781491974049/) - You'll learn hands-on how to structure your app, design flexible and interactive interfaces, run services in the background, make your app work on various smartphones and tablets, and much more. It's like having an experienced Android developer sitting right next to you! All you need to get started is some Java know-how.
 
-- [Professional Android](https://www.oreilly.com/library/view/professional-android-4th/9781118949528/) - Professional Android, 4th Edition shows developers how to leverage the latest features of Android to create robust and compelling mobile apps. This hands-on approach provides in-depth coverage through a series of projects, each introducing a new Android platform feature and highlighting the techniques and best practices that exploit its utmost functionality.
+- [Professional Android](https://www.oreilly.com/library/view/professional-android-4th/9781118949528/) - Professional Android, 4th Edition shows developers how to leverage the latest features of Android to create robust and compelling mobile apps
 
 - [Android Studio 3.6 Development Essentials](https://www.oreilly.com/library/view/android-studio-36/9781800560970/) - Update your Android studio skills and build modern Android applications using Java.
 
