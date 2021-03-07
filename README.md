@@ -673,7 +673,6 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 - [CSDN](https://blog.csdn.net/) - Chinese Software Developer Network.
 
-- [Android 开发技术周报](https://www.androidweekly.io/) - Android Weekly Newsletter for Chinese Developers.
 
 #### ID
 
@@ -774,6 +773,10 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 - [Android Dagashi](https://androiddagashi.github.io/) - Android Dagashi Newsletter.
 
 #### ZH
+
+- [Android Tech Weekly](https://www.zhihu.com/column/c_1278963991947780096) - Every Monday publishes excellent articles encountered last week.
+
+- [Android 开发技术周报](https://www.androidweekly.io/) - Android Weekly Newsletter for Chinese Developers.
 
 - [Weekly manong](http://weekly.manong.io/) - Professional, simple, useful, is we have always adhered to the purpose of the publication.
 
