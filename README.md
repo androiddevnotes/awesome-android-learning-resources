@@ -52,8 +52,6 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 - [Android and Kotlin Conferences](#android-and-kotlin-conferences)
 
-- [Android Security](#android-security)
-
 - [Communities](#communities)
 
 - :memo: [**Contributing**](#memo-contributing)
