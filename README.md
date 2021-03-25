@@ -453,8 +453,6 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 - [freeCodeCamp.org](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
 
-- [Treehouse](https://www.youtube.com/user/gotreehouse)
-
 - [EDMT Dev](https://www.youtube.com/user/eddydn71)
 
 - [edureka](https://www.youtube.com/user/edurekaIN)
@@ -519,6 +517,8 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 ### Android focused
 
 #### EN
+
+* [Sebastiano Poggi](https://blog.sebastiano.dev/) - He writes blogs on Android and Kotlin things.
 
 - [DevLog | Adam Świderski](https://asvid.github.io/) - I'm software engineer at Cybersource/Visa, mainly occupied with our JVM SDK development, but I also have some experience with Frontend, occasionally I do backend work.
 
