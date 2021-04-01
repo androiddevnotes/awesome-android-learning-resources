@@ -518,7 +518,9 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 #### EN
 
-* [Sebastiano Poggi](https://blog.sebastiano.dev/) - He writes blogs on Android and Kotlin things.
+- [Ben Trengrove](http://bentrengrove.com/) - Android / iOS Developer based Canberra, Australia. I am the Lead Mobile Engineer at Pocket Casts.
+
+- [Sebastiano Poggi](https://blog.sebastiano.dev/) - He writes blogs on Android and Kotlin things.
 
 - [DevLog | Adam Świderski](https://asvid.github.io/) - I'm software engineer at Cybersource/Visa, mainly occupied with our JVM SDK development, but I also have some experience with Frontend, occasionally I do backend work.
 
