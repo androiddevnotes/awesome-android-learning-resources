@@ -952,9 +952,9 @@ new technologies and practices.
 
 #### EN
 
-- [SuperUser](http://superuser.com/) - Super User is a question and answer site for computer enthusiasts and power users.
+- [Kotlin Discussions](https://discuss.kotlinlang.org/) - Kotlin Discussions on various topics
 
-- [Stack Overflow](https://stackoverflow.com/) - We build products that empower developers and connect them to solutions that enable productivity, growth, and discovery.
+- [Stack Overflow](https://stackoverflow.com/) - For Android, Kotlin and general programming Q&A. 
 
 - [r/android_devs/](https://www.reddit.com/r/android_devs/) - A place where all Android developers can speak openly and respectfully about the problems they face when developing and publishing applications, give valuable tips, open constructive architectural discussions, discuss the present and future of programming in Android and seek help when specialized sites do not provide solutions.
 
