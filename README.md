@@ -189,6 +189,10 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 #### EN
 
+### [Amr Yousef](https://www.youtube.com/playlist?list=PLQ-kWxQHnfyxLosF2Lc9wVJNFvCe8V2rc)
+
+- [Android On Demand Modules](https://www.youtube.com/playlist?list=PLQ-kWxQHnfyxLosF2Lc9wVJNFvCe8V2rc)
+
 ### [Marcos Holgado](https://www.youtube.com/channel/UC8WCG63gxCipBBPW8m2j5jw)
 
 - [Building a plugin for Android Studio](https://www.youtube.com/watch?v=IGoMdEz_-bI&list=PLJD6kP0BIuwOlvpHQd9YkneVpsG8fMV8W)
