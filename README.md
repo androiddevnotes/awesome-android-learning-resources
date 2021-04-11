@@ -26,6 +26,8 @@ The content is Android Kotlin App development focused. Android Java content whic
 
 Content in languages other than English is tagged according to ISO 639-2 codes.
 
+**Confused where to begin?** Start with [Official Android Courses.](https://developer.android.com/courses) 
+
 ## Contents
 
 - [Jetpack Compose Learning Resources](#jetpack-compose-learning-resources)
