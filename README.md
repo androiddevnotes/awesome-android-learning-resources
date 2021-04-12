@@ -770,7 +770,7 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 #### EN
 
-- [Stoically Typed](https://www.getrevue.co/profile/stoicallytyped) - Weekly bite sized Android news and stoic philosophies for your career in tech, delivered Monday mornings to kick off your week.
+- [StoicallyTyped](https://www.getrevue.co/profile/stoicallytyped) - Weekly bite sized Android news and stoic philosophies for your career in tech, delivered Monday mornings to kick off your week.
 
 - [The Developer Digest](https://thedeveloperdigest.com/) - A handcrafted newsletter to help developers level up in their career.
 
