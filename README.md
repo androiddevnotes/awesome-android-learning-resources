@@ -700,6 +700,8 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 #### EN
 
+- [Todd Ginsberg](https://todd.ginsberg.com/) -  I work mostly in Kotlin and Java, and use Spring Boot extensively.
+
 - [Hadi Hariri](https://hadihariri.com/posts/) - Developer Advocacy at [**JetBrains**](https://twitter.com/JetBrains). Host of [**TalkingKotlin**](https://twitter.com/TalkingKotlin), and an always-newbie guitar player. I do Kotlin. I don't do Android.
 
 - [Kotlin Christmas](https://kotlin.christmas/2020) - Kotlin articles covering language features, popular libraries, learning resources, and many more helpful topics. 
