@@ -524,6 +524,8 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 #### EN
 
+- [Lukas Lechner](https://www.lukaslechner.com/) - Freelance Android Developer.
+
 - [Ben Trengrove](http://bentrengrove.com/) - Android / iOS Developer based Canberra, Australia. I am the Lead Mobile Engineer at Pocket Casts.
 
 - [Sebastiano Poggi](https://blog.sebastiano.dev/) - He writes blogs on Android and Kotlin things.
