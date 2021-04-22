@@ -191,6 +191,10 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 #### EN
 
+### [Dev Stories](https://www.youtube.com/channel/UCPSqYE0QAHRbw8D7gfOsjyQ)
+
+- [Let's build an Android browser with Mozilla components](https://www.youtube.com/watch?v=9apPcuuvUzc&list=PLRJ4pSIA9DGtamE77FNiLj_TZkAFS9OSb&index=7)
+
 ### [Amr Yousef](https://www.youtube.com/playlist?list=PLQ-kWxQHnfyxLosF2Lc9wVJNFvCe8V2rc)
 
 - [Android On Demand Modules](https://www.youtube.com/playlist?list=PLQ-kWxQHnfyxLosF2Lc9wVJNFvCe8V2rc)
