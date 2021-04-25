@@ -706,6 +706,8 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 #### EN
 
+- [Kotlin Quick Reference](http://kotlin-quick-reference.com/) - Kotlin Quick Reference is intended to provide a quick reference to the Kotlin programming language. Each chapter in the book demonstrates Kotlin syntax and provides examples to explain the chapter’s topic.
+
 - [Todd Ginsberg](https://todd.ginsberg.com/) -  I work mostly in Kotlin and Java, and use Spring Boot extensively.
 
 - [Hadi Hariri](https://hadihariri.com/posts/) - Developer Advocacy at [**JetBrains**](https://twitter.com/JetBrains). Host of [**TalkingKotlin**](https://twitter.com/TalkingKotlin), and an always-newbie guitar player. I do Kotlin. I don't do Android.
