@@ -706,6 +706,12 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 #### EN
 
+- [Kotlin hands-on](https://play.kotlinlang.org/hands-on/overview) - Tutorials by Kotlin Team.
+
+- [Kotlin examples](https://play.kotlinlang.org/byExample/01_introduction/01_Hello%20world) - Kotlin Code Examples
+
+- [Kotlin Koans](https://play.kotlinlang.org/koans/) - Kotlin Koans is a series of exercises to get you familiar with the Kotlin syntax and some idioms.
+
 - [Kotlin Quick Reference](http://kotlin-quick-reference.com/) - Kotlin Quick Reference is intended to provide a quick reference to the Kotlin programming language. Each chapter in the book demonstrates Kotlin syntax and provides examples to explain the chapter’s topic.
 
 - [Todd Ginsberg](https://todd.ginsberg.com/) -  I work mostly in Kotlin and Java, and use Spring Boot extensively.
@@ -879,8 +885,6 @@ For Jetpack Compose related Docs: [Awesome Jetpack Compose Learning Resources](h
 
 - [JetBrains Academy](https://www.jetbrains.com/academy/) - Learn to Program by
 Creating Working Applications.
-
-- [Kotlin Koans](https://play.kotlinlang.org/koans/) - Kotlin Koans is a series of exercises to get you familiar with the Kotlin syntax and some idioms. Each exercise is created as a failing unit test, and your job is to make it pass. Here you can play with Koans online, but the same version of exercises is also available via JetBrains educational plugin right inside IntelliJ IDEA or Android Studio.
 
 - [Material Design](https://material.io/) - Material is a design system – backed by open-source code – that helps teams build high-quality digital experiences.
 
