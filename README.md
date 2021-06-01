@@ -532,6 +532,8 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 #### EN
 
+- [Jean-Michel Fayard](https://jmfayard.dev/) - I have no special talent. I am only passionately curious.
+
 - [Lukas Lechner](https://www.lukaslechner.com/) - Freelance Android Developer.
 
 - [Ben Trengrove](http://bentrengrove.com/) - Android / iOS Developer based Canberra, Australia. I am the Lead Mobile Engineer at Pocket Casts.
