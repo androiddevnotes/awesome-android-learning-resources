@@ -505,6 +505,10 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 - [DrcMDev](https://www.youtube.com/channel/UCM5yhphpMeNDmNUP-dW2mHw/)
 
+#### RU
+
+- [Android Broadcast](https://www.youtube.com/c/AndroidBroadcast/)
+
 #### TR
 
 - [Uygula Öğren - Web Tasarım ve Yazılım Dersleri](https://www.youtube.com/channel/UCm8oo9Eg29-Tg00Q4lYMUIQ)
