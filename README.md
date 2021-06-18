@@ -75,6 +75,8 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 ### Android focused
 
+- [Real-World Android by Tutorials](https://www.raywenderlich.com/books/real-world-android-by-tutorials/v1.0) - Build professional, secure Android apps for the real world using the most important architectures and libraries.
+
 - [Programming Android with Kotlin](https://learning.oreilly.com/library/view/programming-android-with/9781492062998/) - This book helps Android developers make the transition from Java to Kotlin and shows them how Kotlin provides a true advantage for gaining control over asynchronous computations.
 
 - [How to Build Android Apps with Kotlin](https://www.packtpub.com/product/how-to-build-android-apps-with-kotlin/9781838984113) - This book starts with the fundamentals of app development. Moving ahead, you'll get to grips with testing, learn how to keep your architecture clean, understand how to persist data, and gain basic knowledge of the dependency injection pattern. Finally, you'll see how to publish your apps on the Google Play store.
