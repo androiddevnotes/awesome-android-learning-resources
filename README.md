@@ -534,6 +534,8 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 #### EN
 
+- [Camposha - Android Examples](https://camposha.info/android-examples/) - Learn by following Android Examples
+
 - [Maia Grotepass code experiments](https://www.maiatoday.net/) - This site documents my projects, code snippets, notes to myself so I won’t forget and other random explorations.
 
 - [Jean-Michel Fayard](https://jmfayard.dev/) - I have no special talent. I am only passionately curious.
