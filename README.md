@@ -187,7 +187,7 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 - [ANDROID™ 4 APPLICATION DEVELOPMENT](http://yuliana.lecturer.pens.ac.id/Android/Buku/professional_android_4_application_development.pdf) - This book focuses on basics of the Android developlment with JAVA as programming language.
 
-## Scholarship : 
+## Scholarships : 
 
 - [Google Africa Developer Scholarship](https://andela.com/alc/in-progress/google-africa-developer-scholarship-2021/) (limited to Africa) is a program that gives participants free access to select courses, projects, embedded labs (powered by Qwiklabs) and skill assessments on Pluralsight; plus support from the Google Developer community. The program is in partnership with tech talent companies Pluralsight, Andela and Google. Google will give full scholarships (with certifications in Android and cloud development) to the top 1,000 students (beginner and intermediate developers) at the end of the training.
 
