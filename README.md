@@ -575,7 +575,7 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 - [Egor's Blog](https://blog.egorand.me/) - Android, Kotlin and other tech
 
-- [Sachin's Blog)(https://iamsachinrajput.medium.com/) - Articles on Android, Kotlin based on real app development experiences.
+- [Sachin's Blog](https://iamsachinrajput.medium.com/) - Articles on Android, Kotlin based on real app development experiences.
 
 - [Dropbox Tech Mobile](https://dropbox.tech/mobile) - Articles on Mobile development by Dropbox engineers.
 
@@ -694,6 +694,8 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 - [AndroidBites](https://chetangupta.net/) - Post | Articles | Snippets for Android Professionals.
 
 - [raywenderlich](https://www.raywenderlich.com/) - The best investment for your mobile development career.
+
+- [Native Mobile Bits](https://medium.com/native-mobile-bits) - Holla :) We post a few of our own experiences while working on some cool apps with Android & iOS using Kotlin and Swift respectively
 
 #### KO
 
