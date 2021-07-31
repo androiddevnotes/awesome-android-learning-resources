@@ -187,6 +187,12 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 
 - [ANDROID™ 4 APPLICATION DEVELOPMENT](http://yuliana.lecturer.pens.ac.id/Android/Buku/professional_android_4_application_development.pdf) - This book focuses on basics of the Android developlment with JAVA as programming language.
 
+## Debugging:
+
+- [Debug your Android apps with Charles Proxy.](https://medium.com/native-mobile-bits/debug-your-android-apps-with-charles-proxy-991732d98ebd) - A step by step guide to use Charles proxy to debug your android apps.
+
+- [Debug your Apps without cable](https://medium.com/native-mobile-bits/debug-your-apps-without-cable-99452daf8755) - As an Android developer, Debugging is one of the most common tasks which we do on a daily basis, lets do it easily.
+
 ## Scholarships : 
 
 - [Google Africa Developer Scholarship](https://andela.com/alc/in-progress/google-africa-developer-scholarship-2021/) (limited to Africa) is a program that gives participants free access to select courses, projects, embedded labs (powered by Qwiklabs) and skill assessments on Pluralsight; plus support from the Google Developer community. The program is in partnership with tech talent companies Pluralsight, Andela and Google. Google will give full scholarships (with certifications in Android and cloud development) to the top 1,000 students (beginner and intermediate developers) at the end of the training.
@@ -568,6 +574,8 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 - [Coding with Mohit](https://codingwithmohit.com/posts/) - Kotlin Advocate, Public Speaker & Android Developer.
 
 - [Egor's Blog](https://blog.egorand.me/) - Android, Kotlin and other tech
+
+- [Sachin's Blog)(https://iamsachinrajput.medium.com/) - Articles on Android, Kotlin based on real app development experiences.
 
 - [Dropbox Tech Mobile](https://dropbox.tech/mobile) - Articles on Mobile development by Dropbox engineers.
 
