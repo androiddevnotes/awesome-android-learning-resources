@@ -264,34 +264,6 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 - [Firebase in a Weekend for Android by Google FREE COURSE](https://www.udacity.com/course/firebase-in-a-weekend-by-google-android--ud0352)
 
-### [Caster.io](https://caster.io/) courses - Listed a few courses | Visit site for full catalog
-
-- [Dependency Injection with Dagger 2](https://caster.io/courses/dependency-injection-with-dagger-2)
-
-- [The Kotlin Programming Language](https://caster.io/courses/kotlin-programming-language)
-
-- [Android Machine Learning with TensorFlow Lite and tf.Keras](https://caster.io/courses/android-machine-learning-with-tensorflow-lite-and-tf-keras)
-
-- [Android MVI Pattern](https://caster.io/courses/android-mvi-pattern)
-
-- [Android MvRx Fundamentals](https://caster.io/courses/android-mvrx-fundamentals)
-
-- [JUnit 5 Fundamentals](https://caster.io/courses/junit5-fundamentals)
-
-- [Koin](https://caster.io/courses/koin)
-
-- [Android Clean Architecture](https://caster.io/courses/android-clean-architecture)
-
-- [Android Model-View-ViewModel Pattern](https://caster.io/courses/android-mvvm-pattern)
-
-- [Storing Data in Android with Room](https://caster.io/courses/storing-data-in-android-with-room)
-
-- [Dependency Injection in Android using Kodein](https://caster.io/courses/dependency-injection-in-android-using-kodein)
-
-- [Introduction to Android Things](https://caster.io/courses/introduction-to-android-things)
-
-- [Functional programming in Kotlin with Arrow](https://caster.io/courses/functional-programming-in-kotlin-with-arrow)
-
 ### [Udemy](https://www.udemy.com/) courses - Listed a few courses | Visit site for full catalog
 
 #### EN
