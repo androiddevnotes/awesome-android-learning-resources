@@ -190,6 +190,7 @@ Content in languages other than English is tagged according to ISO 639-2 codes.
 ## Scholarships : 
 
 - [Google Africa Developer Scholarship](https://andela.com/alc/in-progress/google-africa-developer-scholarship-2021/) (limited to Africa) is a program that gives participants free access to select courses, projects, embedded labs (powered by Qwiklabs) and skill assessments on Pluralsight; plus support from the Google Developer community. The program is in partnership with tech talent companies Pluralsight, Andela and Google. Google will give full scholarships (with certifications in Android and cloud development) to the top 1,000 students (beginner and intermediate developers) at the end of the training.
+- [The Google Developer Scholarship and the Power of Community](https://www.udacity.com/blog/2018/08/the-google-developer-scholarship-and-the-power-of-community.html)is a Scholarship for students across the EMEA (Europe, Middle East and Africa) region announced by Udacity and Google. On offer was the chance to land a scholarship for Udacity’s Android Basics, Android Developer and other Developer Nanodegree programs.
 
 
 ## Video Courses 
