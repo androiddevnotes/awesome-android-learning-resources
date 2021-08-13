@@ -841,6 +841,8 @@ For Jetpack Compose related Docs: [Awesome Jetpack Compose Learning Resources](h
 
 - [androidx.dev](https://androidx.dev/) - A web-service to help you discover snapshots and artifacts in builds.
 
+- [Android API Levels](https://apilevels.com/) - A quick reference table of Android versions with SDK & API levels, version codes, codenames, cumulative usage, and more.
+
 - [Android Sitemap](https://github.com/androiddevnotes/android-sitemap) - **Android Sitemap** aims to be your starting point to find every link pointing to Android Developer sites: [Android Developers](https://developer.android.com/) and [Android Open Source Project](https://source.android.com/).
 
 - [androidsrc.dev](https://androidsrc.dev/) - Developers write better apps when they can read the source. Unfortunately, the sources for the Android framework and various Google Android libraries are scattered all over the web.
