@@ -499,6 +499,10 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 - [Uygula Öğren - Web Tasarım ve Yazılım Dersleri](https://www.youtube.com/channel/UCm8oo9Eg29-Tg00Q4lYMUIQ)
 
+#### HI
+
+- [Desi Coder](https://www.youtube.com/channel/UCvaNMG48tD4jtAc-xqVgHrg)
+
 ## Twitch Channels
 
 #### EN
