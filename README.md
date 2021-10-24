@@ -391,6 +391,10 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 ### [mobilhanem](https://www.mobilhanem.com/android-uygulama-gelistirme/) courses - Visit site for full catalog 
 
+#### TH
+
+### [Skooldio](https://www.skooldio.com/courses2/getting-started-with-kotlin) courses - Getting Started with Kotlin by GDE
+
 #### ZH
 
 ### [Classroom](http://ke.qq.com/) courses - Visit site for full catalog 
