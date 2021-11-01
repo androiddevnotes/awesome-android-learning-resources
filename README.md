@@ -269,7 +269,7 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 #### EN
 
-- [The Complete Android 10 & Kotlin Development Masterclass](https://www.udemy.com/course/android-kotlin-developer/)
+- [The Complete Android 12 & Kotlin Development Masterclass](https://www.udemy.com/course/android-kotlin-developer/)
 
 - [Complete Kotlin Coroutines development course](https://www.udemy.com/course/coroutines/)
 
@@ -285,7 +285,7 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 - [Android Mobil Uygulama Kursu: Kotlin & Java](https://www.udemy.com/course/android-o-mobil-uygulama-dersi-kotlin-java/)
 
-- [Android Mobil Uygulama Geliştirme Eğitimi | Java | 2020](https://www.udemy.com/course/android-mobil-uygulama-gelistirme-egitimi-java/)
+- [Android Mobil Uygulama Geliştirme Eğitimi | Java | 2021](https://www.udemy.com/course/android-mobil-uygulama-gelistirme-egitimi-java/)
 
 - [https://www.udemy.com/course/android-mobil-uygulama-kursu-seviye-2/](https://www.udemy.com/course/android-mobil-uygulama-kursu-seviye-2/)
 
