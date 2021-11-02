@@ -481,6 +481,8 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 - [All Techies](https://www.youtube.com/channel/UC6Cd6oKTujZ1kGw2DpLmYng)
 
+- [Paulina talks Android](https://www.youtube.com/c/PaulinatalksAndroid)
+
 #### ES
 
 - [Sociedad Androide](https://www.youtube.com/c/SociedadAndroide/)
