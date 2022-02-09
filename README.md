@@ -802,6 +802,8 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 - [onCreate Digest](http://www.oncreatedigest.com/) - onCreate Digest is a weekly newsletter with links to Android Development related content.
 
+- [Android Stack Weekly](https://blog.canopas.com/tagged/canopas-android-weekly) - Android stack is a weekly newsletter on new development and updates of Android universe.
+
 #### JA
 
 - [Android Dagashi](https://androiddagashi.github.io/) - Android Dagashi Newsletter.
