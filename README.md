@@ -481,6 +481,17 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 - [All Techies](https://www.youtube.com/channel/UC6Cd6oKTujZ1kGw2DpLmYng)
 
+
+#### PT
+
+- [Vinícius Thiengo](https://www.youtube.com/c/ThiengoCalopsita)
+
+- [Programador de Elite](https://www.youtube.com/c/ProgramadordeElite)
+
+- [Tiago Aguiar](https://www.youtube.com/user/empreendedormobile)
+
+- [Douglas Motta](https://www.youtube.com/user/douglas1102rm)
+
 #### ES
 
 - [Sociedad Androide](https://www.youtube.com/c/SociedadAndroide/)
