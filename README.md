@@ -226,7 +226,6 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 ### [CodingWithMitch](http://codingwithmitch.com/) courses - Listed a few courses | Visit site for full catalog
 
-
 #### Kotlin
 
 - [Jetpack Compose MVVM for Beginners](https://codingwithmitch.com/courses/jetpack-compose-mvvm-for-beginners/)
