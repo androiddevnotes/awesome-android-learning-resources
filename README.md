@@ -217,14 +217,15 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 - [Building a plugin for Android Studio](https://www.youtube.com/watch?v=IGoMdEz_-bI&list=PLJD6kP0BIuwOlvpHQd9YkneVpsG8fMV8W)
 
+### [edureka!](https://www.youtube.com/c/edurekaIN)
+- [Android Full Course - Learn Android in 9 Hours](https://youtu.be/aS__9RbCyHg)
+
 ### [Android Things](https://www.youtube.com/channel/UCpZgRkTgc1lGnusjCi1cCfg) courses - Listed a few courses | Visit site for full catalog
 
 - [Introduction to the Android Things Framework](https://www.youtube.com/watch?v=kZ-iV5al4Os&list=PL-ed5yhQ_xe73GQauE47aNWMrzfkEYtkh)
 
 ### [CodingWithMitch](http://codingwithmitch.com/) courses - Listed a few courses | Visit site for full catalog
 
-### [edureka!](https://www.youtube.com/c/edurekaIN)
-- [Android Full Course - Learn Android in 9 Hours](https://youtu.be/aS__9RbCyHg)
 
 #### Kotlin
 
