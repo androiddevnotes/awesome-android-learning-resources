@@ -1055,6 +1055,7 @@ If you contributed and are missing in this list, please send a PR including your
     </tr>
     <tr>
         <td align="center"><a href="https://github.com/Darepapi"><b>Darepapi</b></a></td>
+	<td align="center"><a href="https://github.com/utkarshsingh5474"><b>utkarshsingh5474</b></a></td>
     </tr>
 </table>
 
