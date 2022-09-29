@@ -223,6 +223,9 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 ### [CodingWithMitch](http://codingwithmitch.com/) courses - Listed a few courses | Visit site for full catalog
 
+### [edureka!](https://www.youtube.com/c/edurekaIN)
+- [Android Full Course - Learn Android in 9 Hours](https://youtu.be/aS__9RbCyHg)
+
 #### Kotlin
 
 - [Jetpack Compose MVVM for Beginners](https://codingwithmitch.com/courses/jetpack-compose-mvvm-for-beginners/)
