@@ -393,7 +393,7 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 #### TH
 
-### [Skooldio](https://www.skooldio.com/courses2/getting-started-with-kotlin) courses - Getting Started with Kotlin by GDE
+### [Skooldio](https://www.skooldio.com/courses/getting-started-with-kotlin) courses - Getting Started with Kotlin
 
 #### ZH
 
