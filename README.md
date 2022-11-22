@@ -672,6 +672,8 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 - [Retrofit Tutorial via Future Studio](https://futurestud.io/tutorials/retrofit-getting-started-and-android-client) - Extensive series on Retrofit.
 
+- [Guide to Android app modularization](https://developer.android.com/topic/modularization) - Contains best practices and recommended patterns for developing multi-module Android apps.
+
 #### KO
 
 - [꿈 많은 개발자가 되자 - Taehwan](https://thdev.tech/) - Android developer's blog. story.
