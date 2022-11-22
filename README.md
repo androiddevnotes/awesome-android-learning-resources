@@ -550,7 +550,7 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 - [Egor's Blog](https://blog.egorand.me/) - Android, Kotlin and other tech
 
-- [Sachin's Blog)(https://iamsachinrajput.medium.com/) - Articles on Android, Kotlin based on real app development experiences.
+- [Sachin's Blog](https://iamsachinrajput.medium.com/) - Articles on Android, Kotlin based on real app development experiences.
 
 - [Dropbox Tech Mobile](https://dropbox.tech/mobile) - Articles on Mobile development by Dropbox engineers.
 
