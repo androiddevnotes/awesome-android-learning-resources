@@ -520,6 +520,12 @@ Note: Listed below are only a few courses provided by each platform. Please visi
 
 #### EN
 
+- [vogella](https://www.vogella.com/tutorials/android.html) - Learning resources for android development
+
+- [javatpoint](https://www.javatpoint.com/android-tutorial) - Provides easy and point to point learning of various online tutorials for android developer
+
+- [w3schools](https://www.w3schools.blog/android-tutorial) - create simplified and interactive learning experiences
+
 - [Camposha - Android Examples](https://camposha.info/android-examples/) - Learn by following Android Examples
 
 - [Maia Grotepass code experiments](https://www.maiatoday.net/) - This site documents my projects, code snippets, notes to myself so I won’t forget and other random explorations.
