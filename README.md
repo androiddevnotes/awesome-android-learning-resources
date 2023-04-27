@@ -898,6 +898,8 @@ Creating Working Applications.
 
 - [Gradle distributionUrl versions](https://services.gradle.org/distributions/) - services.gradle.org/distributions/
 
+- [Jetpack Compose Components list](https://www.composables.com/components) – A list of all components you can use in Jetpack Compose.
+
 #### ZH
 
 - [xitu](http://e.xitu.io/) - Open-source Projects.
