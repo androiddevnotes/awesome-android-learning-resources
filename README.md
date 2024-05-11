@@ -837,6 +837,8 @@ For Jetpack Compose related Docs: [Awesome Jetpack Compose Learning Resources](h
 
 - [Kotlin Official Website](https://kotlinlang.org/) - A modern programming language that makes developers happier.
 
+- [Kotlin Slack Chats](https://slack-chats.kotlinlang.org/) - Indexable Kotlin Slack channels
+
 ### Other
 
 #### EN
